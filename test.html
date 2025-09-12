@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Prácticas Gamificadas - Operaciones Aeroportuarias</title>
+  <style>
+    body {font-family:Arial, sans-serif; margin:20px;}
+    h1,h2 {color:#2a4d7a;}
+    .pregunta {margin-bottom:15px;}
+    .opcion {margin-left:20px;}
+    .correcto {color:green; font-weight:bold;}
+    .incorrecto {color:red; font-weight:bold;}
+    #marcador {position:fixed; top:10px; right:10px; background:#eee; padding:10px; border-radius:8px;}
+  </style>
+</head>
+<body>
+
+<h1 id="indice">Índice</h1>
+<ul>
+  <li><a href="#gestion">Gestión Aeroportuaria</a></li>
+  <li><a href="#slots">Gestión de Slots</a></li>
+  <li><a href="#herramientas">Herramientas Informáticas</a></li>
+  <li><a href="#regulacion">Regulación Aérea</a></li>
+  <li><a href="#servicios">Servicios Aeroportuarios</a></li>
+</ul>
+
+<div id="marcador">
+  ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
+</div>
+
+<div id="contenido"></div>
+
+<script>
+let aciertos=0, errores=0, usados={};
+
+function verificar(qid, correcta) {
+  const sel = document.querySelector(`input[name="${qid}"]:checked`);
+  const resDiv = document.getElementById('res-'+qid);
+  if(!sel){
+    resDiv.innerHTML='<span class="incorrecto">Selecciona una opción</span>';
+    return;
+  }
+  if(sel.value===correcta){
+    resDiv.innerHTML='<span class="correcto">✔ Correcto</span>';
+    if(!usados[qid]){aciertos++; usados[qid]=true;}
+  }else{
+    resDiv.innerHTML='<span class="incorrecto">✘ Incorrecto</span>';
+    if(!usados[qid]){errores++; usados[qid]=true;}
+  }
+  document.getElementById('aciertos').textContent=aciertos;
+  document.getElementById('errores').textContent=errores;
+}
+
+fetch('aeronautico.json')
+  .then(resp=>resp.json())
+  .then(data=>{
+    const cont = document.getElementById('contenido');
+    Object.entries(data).forEach(([seccion,pregs])=>{
+      const sec = document.createElement('section');
+      sec.id = seccion;
+      sec.innerHTML = `<h2>${seccion.toUpperCase()}</h2>`;
+      pregs.forEach((p,i)=>{
+        const qid = `${seccion}-${i}`;
+        let html = `<div class="pregunta"><p>${p.texto}</p>`;
+        p.opciones.forEach(opt=>{
+          html += `<label class="opcion">
+                     <input type="radio" name="${qid}" value="${opt}"> ${opt}
+                   </label><br>`;
+        });
+        html += `<button onclick="verificar('${qid}','${p.respuesta}')">Comprobar</button>
+                 <div id="res-${qid}"></div></div>`;
+        sec.innerHTML += html;
+      });
+      cont.appendChild(sec);
+    });
+  });
+</script>
+
+</body>
+</html>

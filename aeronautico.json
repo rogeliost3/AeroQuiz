@@ -1,0 +1,652 @@
+{
+  "Gestion Aeroportuaria": [
+    {
+      "texto": "¿Cuál es el objetivo principal del documento 'Gestión de Slots y Operaciones Aeroportuarias en España'?",
+      "opciones": [
+        "A) Evaluar el rendimiento financiero de AENA S.M.E., S.A.",
+        "B) Optimizar la asignación de personal en los aeropuertos.",
+        "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
+      ],
+      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
+    },
+    {
+      "texto": "¿En qué año se estableció la OACI (Organización de Aviación Civil Internacional)?",
+      "opciones": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1960"
+      ],
+      "respuesta": "B) 1947"
+    },
+    {
+      "texto": "¿Cuál de los siguientes organismos tiene su sede en Bruselas y busca el desarrollo de un 'cielo único europeo'?",
+      "opciones": [
+        "A) IATA",
+        "B) EUROCONTROL",
+        "C) OACI"
+      ],
+      "respuesta": "B) EUROCONTROL"
+    },
+    {
+      "texto": "¿Qué porcentaje del capital de AENA S.M.E., S.A. posee ENAIRE?",
+      "opciones": [
+        "A) 51%",
+        "B) 49%",
+        "C) 100%"
+      ],
+      "respuesta": "A) 51%"
+    },
+    {
+      "texto": "Según las fuentes, ¿cuál es la posición de AENA S.M.E., S.A. a nivel mundial en cuanto a número de pasajeros?",
+      "opciones": [
+        "A) El segundo operador aeroportuario del mundo.",
+        "B) El primer operador aeroportuario de Europa.",
+        "C) El primer operador aeroportuario del mundo."
+      ],
+      "respuesta": "C) El primer operador aeroportuario del mundo."
+    },
+    {
+      "texto": "Según la OACI, ¿qué se define como 'áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie'?",
+      "opciones": [
+        "A) Una pista de aterrizaje.",
+        "B) Un aeródromo.",
+        "C) Un aeropuerto."
+      ],
+      "respuesta": "C) Un aeropuerto."
+    },
+    {
+      "texto": "¿Qué característica define a un 'Aeropuerto coordinado' según el Reglamento (CEE) nº 95/93?",
+      "opciones": [
+        "A) Opera exclusivamente tráfico chárter.",
+        "B) Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar.",
+        "C) Se nombra un facilitador para mejorar las actividades de las compañías."
+      ],
+      "respuesta": "B) Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar."
+    },
+    {
+      "texto": "¿Cuál es la principal diferencia entre Tráfico Regular y Tráfico No Regular (Chárter)?",
+      "opciones": [
+        "A) El Tráfico Regular opera vuelos nacionales y el Chárter, internacionales.",
+        "B) El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas.",
+        "C) El Tráfico Regular es gestionado por AENA y el Chárter por compañías privadas."
+      ],
+      "respuesta": "B) El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas."
+    },
+    {
+      "texto": "¿Cuál de las siguientes zonas aeroportuarias está orientada a aeronaves y se encarga de asignar puestos de estacionamiento?",
+      "opciones": [
+        "A) Lado Tierra.",
+        "B) Terminal de pasajeros.",
+        "C) Lado Aire."
+      ],
+      "respuesta": "C) Lado Aire."
+    },
+    {
+      "texto": "¿Qué entidad es descrita como el 'centro neurálgico del aeropuerto', encargada de la coordinación de actividades aeroportuarias y la gestión de slots?",
+      "opciones": [
+        "A) La Torre de Control.",
+        "B) La Oficina de Operaciones.",
+        "C) El Centro de Procesamiento de Carga."
+      ],
+      "respuesta": "B) La Oficina de Operaciones."
+    },
+    {
+      "texto": "¿Cuál de los siguientes no es un criterio para la asignación de medios aeroportuarios según las fuentes?",
+      "opciones": [
+        "A) La antigüedad de la aerolínea.",
+        "B) El tipo de tráfico del vuelo (nacional, internacional).",
+        "C) El tipo de aeronave (tamaño, número de pasajeros)."
+      ],
+      "respuesta": "A) La antigüedad de la aerolínea."
+    },
+    {
+      "texto": "¿Qué Reglamento (CEE) define el slot aeroportuario como un permiso para usar la infraestructura aeroportuaria?",
+      "opciones": [
+        "A) Reglamento (CEE) nº 21/2003.",
+        "B) Reglamento (CEE) nº 95/93.",
+        "C) Reglamento (CEE) nº 1960/1960."
+      ],
+      "respuesta": "B) Reglamento (CEE) nº 95/93."
+    },
+    {
+      "texto": "¿Cuál de estos aeropuertos españoles se clasifica como 'Coordinado' según las fuentes?",
+      "opciones": [
+        "A) A Coruña.",
+        "B) Madrid-Barajas.",
+        "C) Sevilla."
+      ],
+      "respuesta": "B) Madrid-Barajas."
+    },
+    {
+      "texto": "¿Qué categoría de vuelo está exenta del procedimiento de solicitud de slot?",
+      "opciones": [
+        "A) Vuelos de código compartido.",
+        "B) Vuelos chárter con alta demanda.",
+        "C) Vuelos desviados por razones técnicas o meteorológicas."
+      ],
+      "respuesta": "C) Vuelos desviados por razones técnicas o meteorológicas."
+    },
+    {
+      "texto": "¿Cuántas veces al año se declara la capacidad operativa de los aeropuertos?",
+      "opciones": [
+        "A) Una vez (Temporada anual).",
+        "B) Dos veces (Temporada de Verano y Temporada de Invierno).",
+        "C) Cuatro veces (una por cada estación)."
+      ],
+      "respuesta": "B) Dos veces (Temporada de Verano y Temporada de Invierno)."
+    },
+    {
+      "texto": "¿Qué código de acción en los mensajes de solicitud de slot significa 'autorizado'?",
+      "opciones": [
+        "A) N.",
+        "B) C.",
+        "C) K."
+      ],
+      "respuesta": "C) K."
+    },
+    {
+      "texto": "¿Qué sistema es la 'base de datos operacionales del aeropuerto' y permite el control en tiempo real, la facturación y la elaboración de estadísticas?",
+      "opciones": [
+        "A) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).",
+        "B) GESLOT TR.",
+        "C) SIPA (Sistema de Información al Público)."
+      ],
+      "respuesta": "A) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario)."
+    },
+    {
+      "texto": "¿Cuál es el propósito principal de SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)?",
+      "opciones": [
+        "A) Gestionar los cambios de última hora en los slots.",
+        "B) Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas.",
+        "C) Difundir información de vuelos a los pasajeros."
+      ],
+      "respuesta": "B) Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas."
+    },
+    {
+      "texto": "¿Qué herramienta permite gestionar 'cambios o vuelos nuevos de última hora sobre la programación diaria' en aeropuertos coordinados?",
+      "opciones": [
+        "A) GESLOT TR.",
+        "B) e-SIA.",
+        "C) UCA."
+      ],
+      "respuesta": "A) GESLOT TR."
+    },
+    {
+      "texto": "¿Qué se entiende por 'vuelo asociado'?",
+      "opciones": [
+        "A) Un vuelo operado por varias aerolíneas en código compartido.",
+        "B) Un vuelo humanitario exento de slot.",
+        "C) La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave."
+      ],
+      "respuesta": "C) La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave."
+    },
+    {
+      "texto": "¿Cuál de los siguientes es un tipo de 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
+      "opciones": [
+        "A) El servicio contra incendios a solicitud.",
+        "B) La energía a 400 Hz.",
+        "C) Las tasas por pasajeros."
+      ],
+      "respuesta": "C) Las tasas por pasajeros."
+    },
+    {
+      "texto": "¿Qué sistema es utilizado para la gestión de los Slots aeroportuarios y la planificación de vuelos para SCENA?",
+      "opciones": [
+        "A) ICARO XXI.",
+        "B) GESLOT.",
+        "C) SITA."
+      ],
+      "respuesta": "B) GESLOT."
+    },
+    {
+      "texto": "¿Qué sistema proporciona a SCENA datos de planes de vuelo y horas estimadas?",
+      "opciones": [
+        "A) SINA.",
+        "B) SATE.",
+        "C) SACTA."
+      ],
+      "respuesta": "C) SACTA."
+    },
+    {
+      "texto": "¿Cuál es la función principal de EASA (Agencia Europea de Seguridad Aérea)?",
+      "opciones": [
+        "A) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
+        "B) Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea.",
+        "C) Analizar incidentes de Tránsito Aéreo."
+      ],
+      "respuesta": "B) Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea."
+    },
+    {
+      "texto": "¿Cuál de las siguientes es una función de AESA (Agencia Estatal de Seguridad Aérea)?",
+      "opciones": [
+        "A) La gestión de 5 centros de control de tránsito aéreo en España.",
+        "B) Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas.",
+        "C) Fomentar el desarrollo económico del transporte aéreo internacional."
+      ],
+      "respuesta": "B) Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas."
+    },
+    {
+      "texto": "¿Qué herramienta permite la adjudicación centralizada de mostradores y puertas de embarque?",
+      "opciones": [
+        "A) e-SIA.",
+        "B) UCA (Uso Compartido de AENA S.M.E., S.A.).",
+        "C) SIPA."
+      ],
+      "respuesta": "B) UCA (Uso Compartido de AENA S.M.E., S.A.)."
+    },
+    {
+      "texto": "¿Cuál de los siguientes ejemplos es un 'Precio Privado' facturado por AENA S.M.E., S.A.?",
+      "opciones": [
+        "A) Tasas por seguridad.",
+        "B) Tarifa de aterrizaje.",
+        "C) El sistema de energía a 400 Hz."
+      ],
+      "respuesta": "C) El sistema de energía a 400 Hz."
+    },
+    {
+      "texto": "¿Qué sistema se describe como una herramienta para enviar y recibir mensajes télex?",
+      "opciones": [
+        "A) SINA.",
+        "B) SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas).",
+        "C) SATE."
+      ],
+      "respuesta": "B) SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas)."
+    },
+    {
+      "texto": "¿Qué concepto implica acuerdos entre aerolíneas para explotar conjuntamente una ruta, vendiendo asientos en el mismo vuelo bajo diferentes identificativos?",
+      "opciones": [
+        "A) Vuelo asociado.",
+        "B) Vuelo de código compartido (Codeshare).",
+        "C) Vuelo de tráfico regular."
+      ],
+      "respuesta": "B) Vuelo de código compartido (Codeshare)."
+    },
+    {
+      "texto": "¿Qué ley española, junto con la reglamentación comunitaria, prevé sanciones por el incumplimiento de la normativa de slots?",
+      "opciones": [
+        "A) Ley española de Tráfico Aéreo 10/2000.",
+        "B) Ley española de Seguridad Aérea 21/2003 (Artículo 49).",
+        "C) Ley de Aviación Civil 1/1990."
+      ],
+      "respuesta": "B) Ley española de Seguridad Aérea 21/2003 (Artículo 49)."
+    },
+    {
+      "texto": "¿Cuál es la sede principal de la OACI (Organización de Aviación Civil Internacional)?",
+      "opciones": [
+        "A) Ginebra",
+        "B) Bruselas",
+        "C) Montreal"
+      ],
+      "respuesta": "C) Montreal"
+    },
+    {
+      "texto": "¿En qué año fue fundada EUROCONTROL, la Organización Europea para la Seguridad de la Navegación Aérea?",
+      "opciones": [
+        "A) 1947",
+        "B) 1960",
+        "C) 1945"
+      ],
+      "respuesta": "B) 1960"
+    },
+    {
+      "texto": "¿Cuántos centros de control de tránsito aéreo y torres gestiona ENAIRE en España, según las fuentes?",
+      "opciones": [
+        "A) 4 centros de control y 20 torres.",
+        "B) 5 centros de control y 22 torres.",
+        "C) 6 centros de control y 25 torres."
+      ],
+      "respuesta": "B) 5 centros de control y 22 torres."
+    },
+    {
+      "texto": "¿Qué organismo nacional español se encarga de analizar incidentes de Tránsito Aéreo manteniendo el anonimato de los implicados?",
+      "opciones": [
+        "A) AESA",
+        "B) CEANITA",
+        "C) DGAC"
+      ],
+      "respuesta": "B) CEANITA"
+    },
+    {
+      "texto": "¿Además de España, en cuántos aeropuertos en Europa y América participa AENA S.M.E., S.A. en su gestión?",
+      "opciones": [
+        "A) 10 aeropuertos.",
+        "B) 16 aeropuertos.",
+        "C) 20 aeropuertos."
+      ],
+      "respuesta": "B) 16 aeropuertos."
+    },
+    {
+      "texto": "¿Cuál de los siguientes no es un modelo de propiedad y gestión de aeropuertos mencionado en el documento?",
+      "opciones": [
+        "A) Propiedad Cooperativa.",
+        "B) Propiedad Mixta.",
+        "C) Propiedad del Gobierno con control directo."
+      ],
+      "respuesta": "A) Propiedad Cooperativa."
+    },
+    {
+      "texto": "¿Cuál es el propósito del Network Manager Operations Center (NMOC), anteriormente CFMU, dentro de EUROCONTROL?",
+      "opciones": [
+        "A) Unificar los estándares de aeronavegabilidad.",
+        "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
+        "C) Otorgar licencias de vuelo."
+      ],
+      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo."
+    },
+    {
+      "texto": "Según las fuentes, ¿cuál de los siguientes no es un medio aeroportuario suministrado por el gestor del aeropuerto?",
+      "opciones": [
+        "A) Equipos de navegación aérea de la aeronave.",
+        "B) Mostradores de facturación.",
+        "C) Puertas de embarque."
+      ],
+      "respuesta": "A) Equipos de navegación aérea de la aeronave."
+    },
+    {
+      "texto": "¿Qué implica que un slot aeroportuario 'no confiere derechos de propiedad'?",
+      "opciones": [
+        "A) La aerolínea puede vender su slot a otra compañía libremente.",
+        "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
+        "C) El slot garantiza un estacionamiento exclusivo para la aeronave."
+      ],
+      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella."
+    },
+    {
+      "texto": "¿Cuál es una de las restricciones que la Oficina de Coordinación de Slots de AENA considera al conceder o denegar slots?",
+      "opciones": [
+        "A) La reputación de la compañía aérea.",
+        "B) La capacidad de plataformas.",
+        "C) El número de tripulantes de vuelo."
+      ],
+      "respuesta": "B) La capacidad de plataformas."
+    },
+    {
+      "texto": "¿Cuál de los siguientes aeropuertos españoles se clasifica como 'con horarios facilitados'?",
+      "opciones": [
+        "A) Palma de Mallorca.",
+        "B) Barcelona/El Prat.",
+        "C) Asturias."
+      ],
+      "respuesta": "C) Asturias."
+    },
+    {
+      "texto": "¿Qué manual debe seguirse para la solicitud de slots a la Oficina de Coordinación?",
+      "opciones": [
+        "A) El Manual de Operaciones de AENA.",
+        "B) El Standard Schedules Information Manual (SSIM) de IATA.",
+        "C) La Guía de Procedimientos de Tránsito Aéreo (GPTA)."
+      ],
+      "respuesta": "B) El Standard Schedules Information Manual (SSIM) de IATA."
+    },
+    {
+      "texto": "¿Según las fuentes, qué métrica se utiliza para medir la Capacidad de Pistas?",
+      "opciones": [
+        "A) Número de Pasajeros de Llegada y Salida a la hora.",
+        "B) Estacionamientos disponibles.",
+        "C) Número de Movimientos en RWY por hora y por slot."
+      ],
+      "respuesta": "C) Número de Movimientos en RWY por hora y por slot."
+    },
+    {
+      "texto": "¿Qué código de acción en los mensajes de solicitud de slot significa 'anular'?",
+      "opciones": [
+        "A) C.",
+        "B) D.",
+        "C) N."
+      ],
+      "respuesta": "B) D."
+    },
+    {
+      "texto": "¿Qué sistema informático es la 'base de datos operacionales del aeropuerto' y permite la elaboración de la programación diaria y el control de operaciones en tiempo real?",
+      "opciones": [
+        "A) GESLOT.",
+        "B) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).",
+        "C) SADAMA."
+      ],
+      "respuesta": "B) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario)."
+    },
+    {
+      "texto": "¿Cuál es la función principal del sistema e-SIA (Sistema de Información Aeroportuaria)?",
+      "opciones": [
+        "A) Gestionar los Slots aeroportuarios para SCENA.",
+        "B) Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real.",
+        "C) Proporcionar datos de planes de vuelo y horas estimadas a SCENA."
+      ],
+      "respuesta": "B) Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real."
+    },
+    {
+      "texto": "¿Con qué sistema intercambia información SATE (Sistema Automatizado de Tratamiento de Equipaje) para la asignación de muelles y el manejo de equipaje?",
+      "opciones": [
+        "A) SACTA.",
+        "B) SIPA.",
+        "C) SCENA."
+      ],
+      "respuesta": "C) SCENA."
+    },
+    {
+      "texto": "¿Qué sistema proporciona a SCENA información sobre aeronaves en fase de aproximación?",
+      "opciones": [
+        "A) SINA (Sistema de Información de Navegación Aérea).",
+        "B) SITA.",
+        "C) ICARO XXI."
+      ],
+      "respuesta": "A) SINA (Sistema de Información de Navegación Aérea)."
+    },
+    {
+      "texto": "¿Cuál es el propósito del componente GPV dentro de ICARO XXI?",
+      "opciones": [
+        "A) Gestionar la información meteorológica exclusivamente.",
+        "B) Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT).",
+        "C) Proporcionar datos de planes de vuelo en tiempo real."
+      ],
+      "respuesta": "B) Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT)."
+    },
+    {
+      "texto": "¿Cuál es el objetivo principal de los Aeropuertos HUB?",
+      "opciones": [
+        "A) Atender únicamente vuelos de carga.",
+        "B) Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida.",
+        "C) Reducir el tiempo de permanencia de las aeronaves en plataforma."
+      ],
+      "respuesta": "B) Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida."
+    },
+    {
+      "texto": "¿Cuál de las siguientes es una 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
+      "opciones": [
+        "A) La presencia del Servicio contra incendios a solicitud de las compañías.",
+        "B) La tasa por PMR (Personas con Movilidad Reducida).",
+        "C) El sistema de energía a 400 Hz."
+      ],
+      "respuesta": "B) La tasa por PMR (Personas con Movilidad Reducida)."
+    },
+    {
+      "texto": "¿Qué organismo, aunque gestiona la Tasa de Seguridad Aérea, es AENA S.M.E., S.A. quien la cobra?",
+      "opciones": [
+        "A) ENAIRE.",
+        "B) AESA.",
+        "C) EUROCONTROL."
+      ],
+      "respuesta": "B) AESA."
+    },
+    {
+      "texto": "¿Qué tipo de facturación gestiona AENA S.M.E., S.A. para el uso de instalaciones y servicios aeroportuarios?",
+      "opciones": [
+        "A) Facturación anual y mensual.",
+        "B) Facturación con crédito y sin crédito.",
+        "C) Facturación por peso y por volumen."
+      ],
+      "respuesta": "B) Facturación con crédito y sin crédito."
+    },
+    {
+      "texto": "¿Cuál de las siguientes responsabilidades pertenece a la Oficina de Operaciones en el aeropuerto?",
+      "opciones": [
+        "A) Diseño de nuevas infraestructuras aeroportuarias.",
+        "B) Venta de billetes de avión a los pasajeros.",
+        "C) La canalización de incidencias, contingencias y emergencias."
+      ],
+      "respuesta": "C) La canalización de incidencias, contingencias y emergencias."
+    },
+    {
+      "texto": "¿Qué organismo de la UE se encarga de unificar los estándares comunes de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea?",
+      "opciones": [
+        "A) IATA.",
+        "B) EASA.",
+        "C) OACI."
+      ],
+      "respuesta": "B) EASA."
+    },
+    {
+      "texto": "¿Cómo se conoce a la relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave?",
+      "opciones": [
+        "A) Vuelo chárter.",
+        "B) Vuelo de código compartido.",
+        "C) Vuelo asociado."
+      ],
+      "respuesta": "C) Vuelo asociado."
+    },
+    {
+      "texto": "¿De qué ministerio español depende la Dirección General de Aviación Civil (DGAC)?",
+      "opciones": [
+        "A) Ministerio de Transporte.",
+        "B) Ministerio de Interior.",
+        "C) Ministerio de Fomento."
+      ],
+      "respuesta": "C) Ministerio de Fomento."
+    },
+    {
+      "texto": "¿Cuáles son algunas de las fuentes de ingresos de AENA S.M.E., S.A. mencionadas en el documento?",
+      "opciones": [
+        "A) Únicamente tarifas aeroportuarias y cánones.",
+        "B) Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas.",
+        "C) Solo beneficios de vuelos comerciales."
+      ],
+      "respuesta": "B) Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas."
+    },
+    {
+      "texto": "¿Para qué se utiliza la 'hora de salida del stand' en la operación de salida de un vuelo?",
+      "opciones": [
+        "A) Para coordinar la llegada de los pasajeros al embarque.",
+        "B) Para fines estadísticos y de cobro de tasas.",
+        "C) Para asignar la tripulación al siguiente vuelo."
+      ],
+      "respuesta": "B) Para fines estadísticos y de cobro de tasas."
+    },
+    {
+      "texto": "¿Qué tipo de aeropuertos requieren una 'coordinación de vuelos de llegada y salida' para permitir conexiones rápidas?",
+      "opciones": [
+        "A) Aeropuertos con horarios facilitados.",
+        "B) Aeropuertos coordinados.",
+        "C) Aeropuertos HUB."
+      ],
+      "respuesta": "C) Aeropuertos HUB."
+    },
+    {
+      "texto": "¿A qué se refiere la frase 'no confiere derechos de propiedad' al hablar de un slot aeroportuario?",
+      "opciones": [
+        "A) El slot solo puede ser utilizado por la aerolínea que lo solicitó inicialmente.",
+        "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
+        "C) La aerolínea no tiene derecho a reclamar compensación por un slot cancelado."
+      ],
+      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella."
+    },
+    {
+      "texto": "¿Qué método se prefiere para el envío de solicitudes y respuestas de slots a la Oficina de Coordinación?",
+      "opciones": [
+        "A) Llamada telefónica o fax.",
+        "B) Mensajería postal certificada.",
+        "C) Preferentemente por SITA o correo electrónico."
+      ],
+      "respuesta": "C) Preferentemente por SITA o correo electrónico."
+    },
+    {
+      "texto": "¿Qué código de acción en los mensajes de solicitud de slot significa 'oferta'?",
+      "opciones": [
+        "A) N.",
+        "B) O.",
+        "C) C."
+      ],
+      "respuesta": "B) O."
+    },
+    {
+      "texto": "¿Con qué código finaliza la secuencia de mensajes de solicitud de slot para indicar su 'rechazo' por parte del Coordinador?",
+      "opciones": [
+        "A) R.",
+        "B) U.",
+        "C) X."
+      ],
+      "respuesta": "B) U."
+    },
+    {
+      "texto": "¿En qué se enfoca principalmente el personal de Operaciones según el documento?",
+      "opciones": [
+        "A) En la venta de billetes y atención al cliente.",
+        "B) En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas.",
+        "C) En el mantenimiento de las aeronaves."
+      ],
+      "respuesta": "B) En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas."
+    },
+    {
+      "texto": "¿Qué significa el término 'tráfico aéreo' en el contexto del documento?",
+      "opciones": [
+        "A) La congestión de aeronaves en el espacio aéreo.",
+        "B) La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga.",
+        "C) El número total de vuelos diarios de una compañía aérea."
+      ],
+      "respuesta": "B) La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga."
+    },
+    {
+      "texto": "¿Qué tipo de vuelos realiza el 'Tráfico No Regular (Chárter)'?",
+      "opciones": [
+        "A) Vuelos programados y frecuentes, incluso sin pasaje.",
+        "B) Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos).",
+        "C) Vuelos de carga exclusivos que operan solo de noche."
+      ],
+      "respuesta": "B) Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos)."
+    },
+    {
+      "texto": "¿Cuál es la función del Network Manager Operations Center (NMOC), anteriormente CFMU, de EUROCONTROL?",
+      "opciones": [
+        "A) Unificar los estándares de aeronavegabilidad.",
+        "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
+        "C) Realizar inspecciones de seguridad en aeropuertos."
+      ],
+      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo."
+    },
+    {
+      "texto": "¿Cuáles son las dos Temporadas en las que GESLOT divide el año para la planificación de vuelos?",
+      "opciones": [
+        "A) Temporada Alta y Temporada Baja.",
+        "B) Temporada de Verano y Temporada de Invierno.",
+        "C) Temporada Nacional y Temporada Internacional."
+      ],
+      "respuesta": "B) Temporada de Verano y Temporada de Invierno."
+    },
+    {
+      "texto": "¿Cuál es una de las funciones de AENA S.M.E., S.A. que abarca desde la ordenación hasta el diseño de infraestructuras?",
+      "opciones": [
+        "A) Solo la explotación y seguridad de aeropuertos.",
+        "B) La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros.",
+        "C) Únicamente la gestión de aeropuertos españoles."
+      ],
+      "respuesta": "B) La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros."
+    },
+    {
+      "texto": "¿Cuál de las siguientes es una función principal del sistema SCENA?",
+      "opciones": [
+        "A) La difusión de información de vuelos a los pasajeros.",
+        "B) La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos.",
+        "C) La gestión de cambios de última hora en los slots."
+      ],
+      "respuesta": "B) La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos."
+    },
+    {
+      "texto": "¿Qué sistema mejora la gestión del tráfico aéreo mediante el intercambio de información entre todos los actores aeroportuarios?",
+      "opciones": [
+        "A) SINA.",
+        "B) CDM (Colaboración de Toma de Decisiones en Aeropuertos).",
+        "C) SATE."
+      ],
+      "respuesta": "B) CDM (Colaboración de Toma de Decisiones en Aeropuertos)."
+    }
+  ]
+}
