@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AeroQuiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1 id="indice">AeroQuiz</h1>
+<ul>
+  <li><a href="#aeroportuaria" onclick="cargarJSON('aeroportuaria.json')">Gestión Aeroportuaria</a></li>
+  <li><a href="#aeronautica" onclick="cargarJSON('aeronautica.json')">Gestión Aeronáutica</a></li>
+</ul>
+
+<div id="marcador">
+  <button onclick="resetErr()">RESET-ERR</button>
+  <button onclick="resetAll()">RESET-ALL</button>
+  ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
+</div>
+
+<div id="contenido"></div>
+
+<script>
+let aciertos = parseInt(localStorage.getItem('aciertos')) || 0;
+let errores = parseInt(localStorage.getItem('errores')) || 0;
+let usados = JSON.parse(localStorage.getItem('usados')) || {};
+
+document.getElementById('aciertos').textContent = aciertos;
+document.getElementById('errores').textContent = errores;
+
+function guardarEstado() {
+  localStorage.setItem('aciertos', aciertos);
+  localStorage.setItem('errores', errores);
+  localStorage.setItem('usados', JSON.stringify(usados));
+}
+
+function verificar(qid, correcta) {
+  const sel = document.querySelector(`input[name="${qid}"]:checked`);
+  const resDiv = document.getElementById('res-' + qid);
+  if (!sel) {
+    resDiv.innerHTML = '<span class="incorrecto">Selecciona una opción</span>';
+    return;
+  }
+  if (sel.value === correcta) {
+    resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+    if (!usados[qid]) {
+      aciertos++;
+      usados[qid] = "correcto";
+    }
+  } else {
+    resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
+    if (!usados[qid]) {
+      errores++;
+      usados[qid] = "incorrecto";
+    }
+  }
+  document.getElementById('aciertos').textContent = aciertos;
+  document.getElementById('errores').textContent = errores;
+  guardarEstado();
+}
+
+function cargarJSON(nombreArchivo) {
+  fetch(nombreArchivo)
+    .then(resp => resp.json())
+    .then(data => {
+      const cont = document.getElementById('contenido');
+      cont.innerHTML = '';
+      Object.entries(data).forEach(([seccion, pregs]) => {
+        const sec = document.createElement('section');
+        sec.id = seccion;
+        sec.innerHTML = `<h2>${seccion.toUpperCase()}</h2>`;
+        pregs.forEach((p, i) => {
+          const qid = `${seccion}-${i}`;
+          let html = `<div class="pregunta"><p>${p.texto}</p>`;
+          p.opciones.forEach(opt => {
+            let checked = '';
+            if (usados[qid] && usados[qid] === "correcto" && opt === p.respuesta) {
+              checked = 'checked disabled';
+            }
+            html += `<label class="opcion">
+                       <input type="radio" name="${qid}" value="${opt}" ${checked}> ${opt}
+                     </label>`;
+          });
+          let resultadoPrevio = '';
+          if (usados[qid]) {
+            resultadoPrevio = usados[qid] === "correcto" ? 
+              '<span class="correcto">✔ Correcto</span>' : 
+              '<span class="incorrecto">✘ Incorrecto</span>';
+          }
+          html += `<button onclick="verificar('${qid}','${p.respuesta}')">Comprobar</button>
+                   <div id="res-${qid}">${resultadoPrevio}</div></div>`;
+          sec.innerHTML += html;
+        });
+        cont.appendChild(sec);
+      });
+    })
+    .catch(err => {
+      document.getElementById('contenido').innerHTML = '<p>Error al cargar las preguntas.</p>';
+      console.error(err);
+    });
+}
+
+function resetErr() {
+  for (let key in usados) {
+    if (usados[key] === "incorrecto") {
+      delete usados[key];
+    }
+  }
+  errores = 0;
+  document.getElementById('errores').textContent = errores;
+  guardarEstado();
+  const visibleSection = document.querySelector('#contenido section');
+  if (visibleSection) {
+    const href = visibleSection.id === 'aeroportuaria' ? 'aeroportuaria.json' : 'aeronautica.json';
+    cargarJSON(href);
+  }
+}
+
+function resetAll() {
+  usados = {};
+  aciertos = 0;
+  errores = 0;
+  document.getElementById('aciertos').textContent = aciertos;
+  document.getElementById('errores').textContent = errores;
+  guardarEstado();
+  const visibleSection = document.querySelector('#contenido section');
+  if (visibleSection) {
+    const href = visibleSection.id === 'aeroportuaria' ? 'aeroportuaria.json' : 'aeronautica.json';
+    cargarJSON(href);
+  }
+}
+
+window.onload = () => {
+  if (!document.querySelector('#contenido section')) {
+    cargarJSON('aeroportuaria.json');
+  }
+};
+</script>
+
+</body>
+</html>

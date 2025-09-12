@@ -1,44 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Prácticas Gamificadas - Operaciones Aeroportuarias</title>
-  <style>
-    body {font-family: Arial, sans-serif; margin: 20px;}
-    h1, h2 {color: #2a4d7a;}
-    .pregunta {margin-bottom: 20px;}
-    .opcion {margin-left: 20px; margin-bottom: 10px; font-size: 1.2em; line-height: 1.8em; display: block;}
-    .correcto {color: green; font-weight: bold;}
-    .incorrecto {color: red; font-weight: bold;}
-    #marcador {
-      position: fixed;
-      top: 10px;
-      right: 10px;
-      background: #eee;
-      padding: 10px;
-      border-radius: 8px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-    #marcador button {
-      font-size: 0.9em;
-      padding: 5px 8px;
-      cursor: pointer;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-      background: #fff;
-    }
-    a {cursor: pointer;}
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AeroQuiz - Prácticas Gamificadas</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<h1 id="indice">Índice</h1>
-<ul>
-  <li><a href="#aeroportuaria" onclick="cargarJSON('aeroportuaria.json')">Gestión Aeroportuaria</a></li>
-  <li><a href="#aeronautica" onclick="cargarJSON('aeronautica.json')">Gestión Aeronáutica</a></li>
-</ul>
+<h1>AeroQuiz</h1>
+
+<input type="file" id="jsonFile" accept=".json" style="display:none;">
+<button id="cargarJSONBtn" onclick="document.getElementById('jsonFile').click()">Cargar preguntas</button>
 
 <div id="marcador">
   <button onclick="resetErr()">RESET-ERR</button>
@@ -46,133 +19,243 @@
   ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
 </div>
 
+<p id="mensajeJSON">Selecciona tu archivo JSON para cargar las preguntas.</p>
+
 <div id="contenido"></div>
 
 <script>
-let aciertos = parseInt(localStorage.getItem('aciertos')) || 0;
-let errores = parseInt(localStorage.getItem('errores')) || 0;
-let usados = JSON.parse(localStorage.getItem('usados')) || {};
+/* Estado global */
+let aciertos = 0;
+let errores = 0;
+/* Estructura: usados[qid] = { estado: "correcto"|"incorrecto", seleccion: "valor" } */
+let usados = {};
+let jsonKey = null;
 
-document.getElementById('aciertos').textContent = aciertos;
-document.getElementById('errores').textContent = errores;
+/* Elementos DOM referenciados */
+const aciertosSpan = document.getElementById('aciertos');
+const erroresSpan = document.getElementById('errores');
+const contenidoDiv = document.getElementById('contenido');
+const mensajeJSON = document.getElementById('mensajeJSON');
+const jsonInput = document.getElementById('jsonFile');
 
-// Función para actualizar localStorage
-function guardarEstado() {
-  localStorage.setItem('aciertos', aciertos);
-  localStorage.setItem('errores', errores);
-  localStorage.setItem('usados', JSON.stringify(usados));
+/* ---------- RENDER: recibe un objeto JSON (data) y construye la UI ---------- */
+function cargarPreguntas(data) {
+  contenidoDiv.innerHTML = '';
+
+  Object.entries(data).forEach(([seccion, pregs]) => {
+    const sec = document.createElement('section');
+    sec.id = seccion;
+    sec.innerHTML = `<h2>${seccion}</h2>`;
+
+    pregs.forEach((p, i) => {
+      const qid = `${seccion}-${i}`;
+      const estadoPrevio = usados[qid]; // puede ser undefined o {estado, seleccion}
+      let preguntaHtml = `<div class="pregunta"><p>${p.texto}</p>`;
+
+      p.opciones.forEach(opt => {
+        // Determinar atributos según estado previo
+        const checked = (estadoPrevio && estadoPrevio.seleccion === opt) ? 'checked' : '';
+        const disabled = (estadoPrevio && estadoPrevio.estado === 'correcto') ? 'disabled' : '';
+
+        preguntaHtml += `<label class="opcion">
+                           <input type="radio" name="${qid}" value="${escapeHtml(opt)}" ${checked} ${disabled}>
+                           ${escapeHtml(opt)}
+                         </label>`;
+      });
+
+      const resultadoPrevio = estadoPrevio ? (estadoPrevio.estado === 'correcto' ? '<span class="correcto">✔ Correcto</span>' : '<span class="incorrecto">✘ Incorrecto</span>') : '';
+      preguntaHtml += `<div style="margin-top:8px;">
+                         <button onclick="verificar('${qid}','${escapeJs(p.respuesta)}')">Comprobar</button>
+                       </div>
+                       <div id="res-${qid}" style="margin-top:8px;">${resultadoPrevio}</div>
+                       </div>`;
+
+      sec.innerHTML += preguntaHtml;
+    });
+
+    contenidoDiv.appendChild(sec);
+  });
+
+  mensajeJSON.style.display = 'none';
 }
 
-// Verificar respuesta de una pregunta
+/* ---------- VERIFICAR RESPUESTA (maneja transiciones de estado) ---------- */
 function verificar(qid, correcta) {
+  // Selected input (value is escaped string from HTML)
   const sel = document.querySelector(`input[name="${qid}"]:checked`);
   const resDiv = document.getElementById('res-' + qid);
   if (!sel) {
     resDiv.innerHTML = '<span class="incorrecto">Selecciona una opción</span>';
     return;
   }
-  if (sel.value === correcta) {
+
+  const seleccion = unescapeHtml(sel.value);
+  const prev = usados[qid];
+
+  if (prev && prev.estado === 'correcto') {
+    // Ya estaba correcta: no contar otra vez
     resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
-    if (!usados[qid]) {
-      aciertos++;
-      usados[qid] = "correcto";
-    }
-  } else {
-    resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
-    if (!usados[qid]) {
-      errores++;
-      usados[qid] = "incorrecto";
-    }
+    return;
   }
-  document.getElementById('aciertos').textContent = aciertos;
-  document.getElementById('errores').textContent = errores;
+
+  if (seleccion === correcta) {
+    // Nuevo acierto
+    if (prev && prev.estado === 'incorrecto') {
+      // Corrige un error previo: decrementa errores y suma aciertos
+      errores = Math.max(0, errores - 1);
+      aciertos++;
+    } else if (!prev) {
+      aciertos++;
+    }
+    usados[qid] = { estado: 'correcto', seleccion };
+    resDiv.innerHTML = '<span class="correcto">✔ Correcto</span>';
+
+    // desactivar todas las opciones de esa pregunta para evitar cambios
+    const inputs = document.getElementsByName(qid);
+    inputs.forEach(inp => inp.disabled = true);
+
+  } else {
+    // Respuesta incorrecta
+    if (!prev) {
+      // primer intento: sumar error
+      errores++;
+      usados[qid] = { estado: 'incorrecto', seleccion };
+    } else if (prev.estado === 'incorrecto') {
+      // ya era incorrecta: actualizar selección (no cambiar contador)
+      usados[qid].seleccion = seleccion;
+    } else {
+      // improbable: prev.correcto -> no entraría porque correctas están deshabilitadas
+      usados[qid] = { estado: 'incorrecto', seleccion };
+    }
+    resDiv.innerHTML = '<span class="incorrecto">✘ Incorrecto</span>';
+    // dejar inputs activos para permitir reintentos
+  }
+
+  // actualizar vistas y persistir
+  aciertosSpan.textContent = aciertos;
+  erroresSpan.textContent = errores;
   guardarEstado();
 }
 
-// Cargar preguntas desde JSON
-function cargarJSON(nombreArchivo) {
-  fetch(nombreArchivo)
-    .then(resp => resp.json())
-    .then(data => {
-      const cont = document.getElementById('contenido');
-      cont.innerHTML = ''; // limpiar contenido previo
-      Object.entries(data).forEach(([seccion, pregs]) => {
-        const sec = document.createElement('section');
-        sec.id = seccion;
-        sec.innerHTML = `<h2>${seccion.toUpperCase()}</h2>`;
-        pregs.forEach((p, i) => {
-          const qid = `${seccion}-${i}`;
-          let html = `<div class="pregunta"><p>${p.texto}</p>`;
-          p.opciones.forEach(opt => {
-            // Si ya estaba respondida correctamente, marcar la opción
-            let checked = '';
-            if (usados[qid] && usados[qid] === "correcto" && opt === p.respuesta) {
-              checked = 'checked disabled';
-            }
-            html += `<label class="opcion">
-                       <input type="radio" name="${qid}" value="${opt}" ${checked}> ${opt}
-                     </label>`;
-          });
-          // Mostrar resultado previo si ya había sido respondida
-          let resultadoPrevio = '';
-          if (usados[qid]) {
-            resultadoPrevio = usados[qid] === "correcto" ? 
-              '<span class="correcto">✔ Correcto</span>' : 
-              '<span class="incorrecto">✘ Incorrecto</span>';
-          }
-          html += `<button onclick="verificar('${qid}','${p.respuesta}')">Comprobar</button>
-                   <div id="res-${qid}">${resultadoPrevio}</div></div>`;
-          sec.innerHTML += html;
-        });
-        cont.appendChild(sec);
-      });
-    })
-    .catch(err => {
-      document.getElementById('contenido').innerHTML = '<p>Error al cargar las preguntas.</p>';
-      console.error(err);
-    });
+/* ---------- GUARDAR / RESTAURAR ESTADO ---------- */
+function guardarEstado() {
+  if (!jsonKey) return;
+  localStorage.setItem(jsonKey, JSON.stringify({ aciertos, errores, usados }));
+  localStorage.setItem('ultimoJSON', jsonKey);
 }
 
-// RESET-ERR: reinicia solo preguntas incorrectas
+/* ---------- RESET botones ---------- */
 function resetErr() {
-  for (let key in usados) {
-    if (usados[key] === "incorrecto") {
-      delete usados[key];
-    }
+  for (const k of Object.keys(usados)) {
+    if (usados[k].estado === 'incorrecto') delete usados[k];
   }
   errores = 0;
-  document.getElementById('errores').textContent = errores;
+  erroresSpan.textContent = errores;
   guardarEstado();
-  // Recargar la sección visible para reflejar cambios
-  const visibleSection = document.querySelector('#contenido section');
-  if (visibleSection) {
-    const href = visibleSection.id === 'aeroportuaria' ? 'aeroportuaria.json' : 'aeronautica.json';
-    cargarJSON(href);
-  }
+  // Re-render current loaded JSON if jsonKey available and file accessible via fetch
+  // (If loaded by input file, user can re-select to update UI)
 }
 
-// RESET-ALL: reinicia todas las preguntas
 function resetAll() {
   usados = {};
   aciertos = 0;
   errores = 0;
-  document.getElementById('aciertos').textContent = aciertos;
-  document.getElementById('errores').textContent = errores;
+  aciertosSpan.textContent = aciertos;
+  erroresSpan.textContent = errores;
   guardarEstado();
-  // Recargar la sección visible
-  const visibleSection = document.querySelector('#contenido section');
-  if (visibleSection) {
-    const href = visibleSection.id === 'aeroportuaria' ? 'aeroportuaria.json' : 'aeronautica.json';
-    cargarJSON(href);
-  }
+  // same note about re-rendering
 }
 
-// Al cargar la página por primera vez, mostrar el primer JSON
+/* ---------- Manejador de input file ---------- */
+jsonInput.addEventListener('change', (event) => {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  jsonKey = file.name.trim();
+
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result);
+
+      // Restaurar estado previo (si existe)
+      const estadoPrevio = JSON.parse(localStorage.getItem(jsonKey));
+      if (estadoPrevio) {
+        aciertos = estadoPrevio.aciertos || 0;
+        errores = estadoPrevio.errores || 0;
+        usados = estadoPrevio.usados || {};
+      } else {
+        aciertos = 0; errores = 0; usados = {};
+      }
+      aciertosSpan.textContent = aciertos;
+      erroresSpan.textContent = errores;
+
+      cargarPreguntas(data);
+      guardarEstado();
+    } catch (err) {
+      alert('Error leyendo o parseando el JSON: ' + err);
+      console.error(err);
+    }
+  };
+  reader.readAsText(file);
+});
+
+/* ---------- ONLOAD: intentar cargar último JSON vía fetch (si está disponible en servidor) ---------- */
 window.onload = () => {
-  if (!document.querySelector('#contenido section')) {
-    cargarJSON('aeroportuaria.json');
+  const ultimoJSON = localStorage.getItem('ultimoJSON');
+  if (!ultimoJSON) return;
+
+  jsonKey = ultimoJSON.trim();
+
+  // Restablecer contadores desde estado guardado (si existe)
+  const estado = JSON.parse(localStorage.getItem(jsonKey));
+  if (estado) {
+    aciertos = estado.aciertos || 0;
+    errores = estado.errores || 0;
+    usados = estado.usados || {};
+    aciertosSpan.textContent = aciertos;
+    erroresSpan.textContent = errores;
   }
+
+  // Intentar fetch (solo funciona si el archivo está accesible en servidor)
+  fetch('./' + jsonKey)
+    .then(resp => {
+      if (!resp.ok) throw new Error(resp.status + ' ' + resp.statusText);
+      return resp.json();
+    })
+    .then(data => {
+      cargarPreguntas(data);
+      guardarEstado();
+    })
+    .catch(err => {
+      // Si no puede hacer fetch (archivo local no accesible), solo informar en consola.
+      console.log('No se pudo cargar automáticamente el JSON mediante fetch:', err);
+      // La UI muestra el estado (contadores) pero NO las preguntas hasta que el usuario cargue el archivo manualmente.
+    });
 };
+
+/* ---------- Utilidades para escapar / des-escapar HTML en valores (seguridad y consistencia) ---------- */
+function escapeHtml(str) {
+  if (typeof str !== 'string') return str;
+  return str.replaceAll('&', '&amp;')
+            .replaceAll('<', '&lt;')
+            .replaceAll('>', '&gt;')
+            .replaceAll('"', '&quot;')
+            .replaceAll("'", '&#39;');
+}
+function unescapeHtml(str) {
+  if (typeof str !== 'string') return str;
+  return str.replaceAll('&amp;', '&')
+            .replaceAll('&lt;', '<')
+            .replaceAll('&gt;', '>')
+            .replaceAll('&quot;', '"')
+            .replaceAll('&#39;', "'");
+}
+function escapeJs(str){
+  // escapar comillas para inyección al construir onclick string
+  if (typeof str !== 'string') return str;
+  return str.replace(/'/g,"\\'").replace(/"/g,'\\"');
+}
 </script>
 
 </body>
