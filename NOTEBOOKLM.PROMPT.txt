@@ -1,0 +1,15 @@
+Crea 100 preguntas tipo test a partir de la fuentes seleccionadas, en el siguiente formato json, cuidando que la respuesta correcta salga desordenada con respecto a las otras dos, y numerando las preguntas en el campo texto, con un formato como "1. ":
+{
+"Facilitación": [
+{
+"texto": "1. texto de la pregunta",
+"opciones": [
+"A) Opcion 1",
+"B) Opcion 2.",
+"C) Opcion 3."
+],
+"respuesta": "C) Opcion 3."
+},
+
+
+necesito un esquema organizacional de todos los organismos, dependencias, oficinas, etc que intervienen en la gestion aeroportuaria y de slots, con los responsables de cada uno, y lo que cada uno produce, ya sea documentos, servicios, mensajes, etc. y a quienes prestan esos servicios y van dirigidos esos documentos o mensajes. Y en esa misma linea qué servicios, documentos, etc, consumen cada uno y desde donde les llegan.

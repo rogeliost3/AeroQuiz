@@ -1,0 +1,1250 @@
+{
+  "Facilitación": [
+    {
+      "texto": "1. ¿Cuál es el rol principal de Aena SME S.A. en el ámbito aeroportuario global?",
+      "opciones": [
+        "A) Es la principal reguladora de la seguridad aérea en Europa.",
+        "B) Es el primer operador aeroportuario del mundo con la gestión de 46 aeropuertos y 2 helipuertos en España, además de participar en la gestión de otros 15 aeropuertos a nivel global.",
+        "C) Se encarga exclusivamente de la construcción y mantenimiento de nuevas infraestructuras aeroportuarias."
+      ],
+      "respuesta": "B) Es el primer operador aeroportuario del mundo con la gestión de 46 aeropuertos y 2 helipuertos en España, además de participar en la gestión de otros 15 aeropuertos a nivel global."
+    },
+    {
+      "texto": "2. ¿Cuál es una de las responsabilidades principales de Aena SME S.A. en relación con los aeropuertos y helipuertos bajo su control?",
+      "opciones": [
+        "A) Exclusivamente la emisión de licencias al personal aeronáutico.",
+        "B) La ordenación, dirección, coordinación, explotación, conservación, administración y gestión.",
+        "C) La fabricación y suministro de aeronaves para uso comercial."
+      ],
+      "respuesta": "B) La ordenación, dirección, coordinación, explotación, conservación, administración y gestión."
+    },
+    {
+      "texto": "3. ¿Qué función desempeña la Unidad de Operaciones dentro de cada aeropuerto?",
+      "opciones": [
+        "A) Realizar el control de tránsito aéreo en la torre de control.",
+        "B) Actuar como centro neurálgico para la coordinación de actividades aeroportuarias, operaciones y el tratamiento necesario para la preparación, información y seguimiento de las operaciones aeronáuticas.",
+        "C) Gestionar únicamente la facturación y el embarque de pasajeros."
+      ],
+      "respuesta": "B) Actuar como centro neurálgico para la coordinación de actividades aeroportuarias, operaciones y el tratamiento necesario para la preparación, información y seguimiento de las operaciones aeronáuticas."
+    },
+    {
+      "texto": "4. ¿En qué áreas se divide la Unidad de Operaciones de un aeropuerto?",
+      "opciones": [
+        "A) Área de Seguridad y Área de Mantenimiento.",
+        "B) Área de Operaciones y Área de Atención al Usuario.",
+        "C) Área de Aduanas y Área de Carga."
+      ],
+      "respuesta": "B) Área de Operaciones y Área de Atención al Usuario."
+    },
+    {
+      "texto": "5. ¿Cuál es la misión de la OACI, creada el 4 de abril de 1947?",
+      "opciones": [
+        "A) Fomentar exclusivamente el desarrollo de aeronaves militares.",
+        "B) Elaborar los principios y la técnica de la navegación aérea internacional, además de fomentar el establecimiento y desarrollo del transporte aéreo.",
+        "C) Regular las tarifas aéreas y la asignación de slots aeroportuarios a nivel mundial."
+      ],
+      "respuesta": "B) Elaborar los principios y la técnica de la navegación aérea internacional, además de fomentar el establecimiento y desarrollo del transporte aéreo."
+    },
+    {
+      "texto": "6. ¿En qué documento fundamental se basa la regulación de la OACI?",
+      "opciones": [
+        "A) El Tratado de Roma.",
+        "B) El Convenio sobre aviación civil internacional de Chicago.",
+        "C) El Protocolo de Montreal."
+      ],
+      "respuesta": "B) El Convenio sobre aviación civil internacional de Chicago."
+    },
+    {
+      "texto": "7. ¿Qué contienen los Anexos de la OACI?",
+      "opciones": [
+        "A) Manuales técnicos y procedimientos suplementarios regionales.",
+        "B) Normas y métodos recomendados internacionalmente para establecer niveles mínimos de actuación y uniformidad.",
+        "C) Directrices financieras para las aerolíneas internacionales."
+      ],
+      "respuesta": "B) Normas y métodos recomendados internacionalmente para establecer niveles mínimos de actuación y uniformidad."
+    },
+    {
+      "texto": "8. ¿Cuál es la obligación de los Estados Contratantes de la OACI si no pueden cumplir una norma contenida en un Anexo?",
+      "opciones": [
+        "A) Solicitar una exención permanente a la OACI.",
+        "B) Notificar las diferencias a la OACI.",
+        "C) Modificar la norma para adaptarla a su legislación nacional."
+      ],
+      "respuesta": "B) Notificar las diferencias a la OACI."
+    },
+    {
+      "texto": "9. ¿Cuántos Anexos de la OACI cubren áreas de la aviación civil?",
+      "opciones": ["A) 12 anexos.", "B) 19 anexos.", "C) 7 anexos."],
+      "respuesta": "B) 19 anexos."
+    },
+    {
+      "texto": "10. ¿Qué Anexo de la OACI establece los requisitos relativos a la matrícula e identificación de las aeronaves?",
+      "opciones": ["A) Anexo 15.", "B) Anexo 7.", "C) Anexo 1."],
+      "respuesta": "B) Anexo 7."
+    },
+    {
+      "texto": "11. Además de los Anexos, ¿qué otros tipos de documentos complementarios emite la OACI?",
+      "opciones": [
+        "A) Únicamente los Procedimientos para los servicios de navegación aérea (PANS).",
+        "B) Procedimientos para los servicios de navegación aérea (PANS), Procedimientos Suplementarios Regionales (SUPPS) y manuales técnicos.",
+        "C) Solamente informes anuales de seguridad operacional."
+      ],
+      "respuesta": "B) Procedimientos para los servicios de navegación aérea (PANS), Procedimientos Suplementarios Regionales (SUPPS) y manuales técnicos."
+    },
+    {
+      "texto": "12. ¿Qué organización es una asociación internacional de líneas aéreas regulares que busca soluciones comunes a problemas del sector?",
+      "opciones": ["A) OACI.", "B) AESA.", "C) IATA."],
+      "respuesta": "C) IATA."
+    },
+    {
+      "texto": "13. ¿Cuáles son los objetivos principales de los Servicios de Tránsito Aéreo (ATS)?",
+      "opciones": [
+        "A) Regular las tarifas de los vuelos y la asignación de puestos de estacionamiento.",
+        "B) Prevenir colisiones entre aeronaves y entre aeronaves y obstáculos en el área de maniobras, y acelerar y mantener ordenadamente el movimiento del tránsito aéreo.",
+        "C) Coordinar el mantenimiento de las aeronaves y la formación del personal técnico."
+      ],
+      "respuesta": "B) Prevenir colisiones entre aeronaves y entre aeronaves y obstáculos en el área de maniobras, y acelerar y mantener ordenadamente el movimiento del tránsito aéreo."
+    },
+    {
+      "texto": "14. ¿Qué componente de los ATS se proporciona a vuelos IFR y VFR según la clasificación del espacio aéreo?",
+      "opciones": [
+        "A) Servicio de Información de Vuelo (FIS).",
+        "B) Servicio de Control de Tránsito Aéreo (ATC).",
+        "C) Servicio de Alerta."
+      ],
+      "respuesta": "B) Servicio de Control de Tránsito Aéreo (ATC)."
+    },
+    {
+      "texto": "15. ¿Qué servicio de los ATS aconseja y facilita información útil para la realización segura y eficaz de los vuelos?",
+      "opciones": [
+        "A) Servicio de Control de Tránsito Aéreo (ATC).",
+        "B) Servicio de Información de Vuelo (FIS).",
+        "C) Servicio de Alerta."
+      ],
+      "respuesta": "B) Servicio de Información de Vuelo (FIS)."
+    },
+    {
+      "texto": "16. ¿Cuál es el propósito del Servicio de Alerta?",
+      "opciones": [
+        "A) Proporcionar información meteorológica detallada a las aeronaves.",
+        "B) Notificar y auxiliar a los organismos adecuados en caso de que una aeronave necesite ayuda de búsqueda y salvamento.",
+        "C) Regular la entrada y salida de aeronaves en el espacio aéreo controlado."
+      ],
+      "respuesta": "B) Notificar y auxiliar a los organismos adecuados en caso de que una aeronave necesite ayuda de búsqueda y salvamento."
+    },
+    {
+      "texto": "17. ¿Qué fase del Servicio de Alerta se declara cuando existe duda sobre la seguridad de una aeronave, por ejemplo, si falta comunicación durante 30 minutos?",
+      "opciones": [
+        "A) Fase de alerta (ALERFA).",
+        "B) Fase de incertidumbre (INCERFA).",
+        "C) Fase de peligro (DETRESFA)."
+      ],
+      "respuesta": "B) Fase de incertidumbre (INCERFA)."
+    },
+    {
+      "texto": "18. ¿Cuándo se declara la Fase de Peligro (DETRESFA)?",
+      "opciones": [
+        "A) Cuando se siente temor por la seguridad de la aeronave tras una fase de incertidumbre.",
+        "B) Cuando se cree justificado que existe un peligro grave e inminente para la aeronave, como combustible insuficiente o un aterrizaje forzoso probable.",
+        "C) Cuando una aeronave se desvía de su ruta sin autorización."
+      ],
+      "respuesta": "B) Cuando se cree justificado que existe un peligro grave e inminente para la aeronave, como combustible insuficiente o un aterrizaje forzoso probable."
+    },
+    {
+      "texto": "19. ¿Hasta qué Nivel de Vuelo (FL) se extiende el Espacio Aéreo Inferior?",
+      "opciones": ["A) FL195.", "B) FL245.", "C) FL460."],
+      "respuesta": "B) FL245."
+    },
+    {
+      "texto": "20. ¿Cuáles son las Regiones de Información de Vuelo (FIR/UIR) de España mencionadas en la guía?",
+      "opciones": [
+        "A) Madrid, Sevilla y Valencia.",
+        "B) Madrid, Barcelona y Canarias.",
+        "C) Bilbao, Galicia y Baleares."
+      ],
+      "respuesta": "B) Madrid, Barcelona y Canarias."
+    },
+    {
+      "texto": "21. ¿Qué tipo de vuelos se permiten exclusivamente en el espacio aéreo Clase A?",
+      "opciones": [
+        "A) VFR y IFR, separados entre sí.",
+        "B) Solo vuelos IFR, sujetos a Servicio de Control de Tránsito Aéreo y separados unos de otros.",
+        "C) Solo vuelos VFR, sin necesidad de autorización ATC."
+      ],
+      "respuesta": "B) Solo vuelos IFR, sujetos a Servicio de Control de Tránsito Aéreo y separados unos de otros."
+    },
+    {
+      "texto": "22. En el espacio aéreo Clase G, ¿qué servicio reciben los vuelos IFR y VFR si lo solicitan?",
+      "opciones": [
+        "A) Servicio de Control de Tránsito Aéreo.",
+        "B) Servicio de Alerta.",
+        "C) Servicio de Información de Vuelo."
+      ],
+      "respuesta": "C) Servicio de Información de Vuelo."
+    },
+    {
+      "texto": "23. ¿Qué prefijo se utiliza en los designadores de Rutas ATS para indicar que la ruta está en el espacio superior?",
+      "opciones": ["A) K.", "B) U.", "C) D."],
+      "respuesta": "B) U."
+    },
+    {
+      "texto": "24. ¿Qué incluye el Reglamento de la circulación aérea?",
+      "opciones": [
+        "A) Solo las Reglas de Vuelo por Instrumentos (IFR).",
+        "B) Toda la normativa sobre tráfico aéreo, incluyendo el Reglamento del aire con sus Reglas Generales y Reglas de Vuelo.",
+        "C) Exclusivamente las directrices para la asignación de slots aeroportuarios."
+      ],
+      "respuesta": "B) Toda la normativa sobre tráfico aéreo, incluyendo el Reglamento del aire con sus Reglas Generales y Reglas de Vuelo."
+    },
+    {
+      "texto": "25. ¿Qué aspecto regulan las Reglas Generales del Reglamento del Aire?",
+      "opciones": [
+        "A) Únicamente los requisitos para vuelos VFR.",
+        "B) Aspectos básicos como protección de personas y propiedad, alturas mínimas, niveles de vuelo y operaciones en un aeródromo.",
+        "C) La interacción entre diferentes sistemas de navegación por satélite."
+      ],
+      "respuesta": "B) Aspectos básicos como protección de personas y propiedad, alturas mínimas, niveles de vuelo y operaciones en un aeródromo."
+    },
+    {
+      "texto": "26. ¿Qué condiciones mínimas deben cumplir los vuelos VFR (Reglas de Vuelo Visual) para poder volar?",
+      "opciones": [
+        "A) Únicamente volar a una velocidad superior a 250 nudos.",
+        "B) Condiciones mínimas de visibilidad y distancia de nubes (VMC).",
+        "C) Estar siempre bajo el control de tránsito aéreo."
+      ],
+      "respuesta": "B) Condiciones mínimas de visibilidad y distancia de nubes (VMC)."
+    },
+    {
+      "texto": "27. ¿Qué tipo de vuelo utiliza señales de radio que emiten las distintas radioayudas para la navegación?",
+      "opciones": [
+        "A) Vuelo Visual Especial (VFR Especial).",
+        "B) Vuelo por Instrumentos (IFR).",
+        "C) Vuelo por Referencias Geográficas (VRG)."
+      ],
+      "respuesta": "B) Vuelo por Instrumentos (IFR)."
+    },
+    {
+      "texto": "28. ¿Qué es la Altitud según el reglamento del aire?",
+      "opciones": [
+        "A) Distancia vertical a una referencia especificada en tierra.",
+        "B) Distancia vertical al nivel medio del mar (MSL).",
+        "C) Presión atmosférica constante para un nivel de vuelo determinado."
+      ],
+      "respuesta": "B) Distancia vertical al nivel medio del mar (MSL)."
+    },
+    {
+      "texto": "29. ¿Qué presión atmosférica define el Nivel de Vuelo (FL) 0?",
+      "opciones": ["A) 1000 hPa.", "B) 1013,2 hPa.", "C) 980 hPa."],
+      "respuesta": "B) 1013,2 hPa."
+    },
+    {
+      "texto": "30. ¿Cuál es la Altitud de Transición (TA) en la mayoría de los aeropuertos españoles?",
+      "opciones": ["A) 7.000 ft.", "B) 6.000 ft.", "C) 10.000 ft."],
+      "respuesta": "B) 6.000 ft."
+    },
+    {
+      "texto": "31. ¿Qué es la Capa de Transición?",
+      "opciones": [
+        "A) La altitud mínima de vuelo sobre terreno montañoso.",
+        "B) El espacio aéreo entre la Altitud de Transición (TA) y el Nivel de Transición (TL).",
+        "C) El nivel de vuelo en el que se activa el RVSM."
+      ],
+      "respuesta": "B) El espacio aéreo entre la Altitud de Transición (TA) y el Nivel de Transición (TL)."
+    },
+    {
+      "texto": "32. ¿Qué significa RVSM?",
+      "opciones": [
+        "A) Reducción de la Separación Vertical Mínima.",
+        "B) Restricción de Vuelos en Espacios Militares.",
+        "C) Rutas de Vuelo Seguras y Mínimas."
+      ],
+      "respuesta": "A) Reducción de la Separación Vertical Mínima."
+    },
+    {
+      "texto": "33. ¿Qué reducción de la separación vertical permite el RVSM por encima de FL290?",
+      "opciones": [
+        "A) De 2000 ft a 1000 ft.",
+        "B) De 1000 ft a 500 ft.",
+        "C) De 3000 ft a 1500 ft."
+      ],
+      "respuesta": "A) De 2000 ft a 1000 ft."
+    },
+    {
+      "texto": "34. ¿Qué tipo de espacios aéreos están identificados por códigos alfanuméricos como LE-P, LE-R, LE-D?",
+      "opciones": [
+        "A) Zonas de Información de Vuelo (FIZ).",
+        "B) Zonas Prohibidas, Peligrosas y Restringidas.",
+        "C) Aerovías (AWY)."
+      ],
+      "respuesta": "B) Zonas Prohibidas, Peligrosas y Restringidas."
+    },
+    {
+      "texto": "35. ¿Qué documento de la OACI contiene Abreviaturas y Códigos utilizados en servicios de información aeronáutica, telecomunicaciones, mensajes meteorológicos y planes de vuelo?",
+      "opciones": ["A) Doc. 7910.", "B) Doc. 8400.", "C) Anexo 7."],
+      "respuesta": "B) Doc. 8400."
+    },
+    {
+      "texto": "36. En los Indicadores de Lugar OACI (Doc. 7910), ¿qué indica la primera letra de un código de cuatro letras?",
+      "opciones": [
+        "A) El estado o territorio.",
+        "B) El área de encaminamiento AFS.",
+        "C) El tipo de aeródromo."
+      ],
+      "respuesta": "B) El área de encaminamiento AFS."
+    },
+    {
+      "texto": "37. ¿Cuál es el Doc. OACI que establece los Designadores de Tipos de Aeronaves?",
+      "opciones": ["A) Doc. 8585.", "B) Doc. 8643.", "C) Doc. 8400."],
+      "respuesta": "B) Doc. 8643."
+    },
+    {
+      "texto": "38. ¿Qué categoría de Estela Turbulenta corresponde a una aeronave con una masa máxima certificada de despegue de 136000 kg o más?",
+      "opciones": ["A) M (Media).", "B) L (Ligera).", "C) H (Pesada)."],
+      "respuesta": "C) H (Pesada)."
+    },
+    {
+      "texto": "39. En los Designadores de Empresas Explotadoras de Aeronaves (Doc. 8585), ¿qué significa el designador YYY?",
+      "opciones": [
+        "A) Aeronaves militares.",
+        "B) Organismos civiles no asignados.",
+        "C) Aeronaves en vuelo."
+      ],
+      "respuesta": "B) Organismos civiles no asignados."
+    },
+    {
+      "texto": "40. ¿Qué Anexo de la OACI regula las Marcas de Nacionalidad y Matrícula de las aeronaves?",
+      "opciones": ["A) Anexo 15.", "B) Anexo 1.", "C) Anexo 7."],
+      "respuesta": "C) Anexo 7."
+    },
+    {
+      "texto": "41. ¿Cuál es la publicación clave de IATA para códigos de aerolíneas, aeropuertos y tipos de avión?",
+      "opciones": [
+        "A) Manual de Códigos Globales (MCG).",
+        "B) Airline Coding Directory (ACD).",
+        "C) World Airline Guide (WAG)."
+      ],
+      "respuesta": "B) Airline Coding Directory (ACD)."
+    },
+    {
+      "texto": "42. ¿Qué tipo de designadores de IATA se utilizan para la planificación de programación y operaciones diarias de aeronaves?",
+      "opciones": [
+        "A) Designadores de aerolíneas de dos o tres letras.",
+        "B) Designadores de tipos de aeronave IATA.",
+        "C) Códigos de países ISO."
+      ],
+      "respuesta": "B) Designadores de tipos de aeronave IATA."
+    },
+    {
+      "texto": "43. En los designadores de tipos de aeronave IATA, ¿qué categoría representa una aeronave con motor de pistón o alternativo?",
+      "opciones": ["A) J.", "B) P.", "C) T."],
+      "respuesta": "B) P."
+    },
+    {
+      "texto": "44. ¿Qué capítulo del Airline Coding Directory (ACD) de IATA contiene los Indicadores de Lugar de tres letras para identificar aeropuertos?",
+      "opciones": ["A) Capítulo 10.", "B) Capítulo 11.", "C) Capítulo 1."],
+      "respuesta": "B) Capítulo 11."
+    },
+    {
+      "texto": "45. ¿Cómo se define un aeródromo?",
+      "opciones": [
+        "A) Área definida exclusivamente para el despegue y aterrizaje de helicópteros.",
+        "B) Área definida de tierra o de agua, incluyendo edificios, instalaciones y equipos, destinada total o parcialmente a la llegada, salida y movimiento en superficie de aeronaves.",
+        "C) Únicamente el edificio terminal y sus instalaciones asociadas."
+      ],
+      "respuesta": "B) Área definida de tierra o de agua, incluyendo edificios, instalaciones y equipos, destinada total o parcialmente a la llegada, salida y movimiento en superficie de aeronaves."
+    },
+    {
+      "texto": "46. ¿Qué parte del aeródromo incluye el edificio terminal y la terminal de carga?",
+      "opciones": [
+        "A) Lado Aire.",
+        "B) Área de Movimiento.",
+        "C) Lado Tierra."
+      ],
+      "respuesta": "C) Lado Tierra."
+    },
+    {
+      "texto": "47. ¿Cuál es el rol principal de las tareas en el Lado Aire de un aeródromo?",
+      "opciones": [
+        "A) La gestión de pasajeros y equipajes.",
+        "B) Proporcionar y mantener infraestructuras, y coordinar con colectivos de operación.",
+        "C) Realizar operaciones de facturación y seguridad de forma exclusiva."
+      ],
+      "respuesta": "B) Proporcionar y mantener infraestructuras, y coordinar con colectivos de operación."
+    },
+    {
+      "texto": "48. ¿Qué son las Distancias Declaradas de una pista (RWY)?",
+      "opciones": [
+        "A) La longitud total pavimentada de la pista.",
+        "B) Las longitudes disponibles para despegue y aterrizaje (TORA, TODA, ASDA, LDA).",
+        "C) La distancia desde el umbral hasta la zona de toma de contacto."
+      ],
+      "respuesta": "B) Las longitudes disponibles para despegue y aterrizaje (TORA, TODA, ASDA, LDA)."
+    },
+    {
+      "texto": "49. ¿Qué tipo de señalización incluyen las calles de rodaje?",
+      "opciones": [
+        "A) Únicamente los designadores de pista.",
+        "B) Señalización de eje, intersecciones y puntos de espera.",
+        "C) Barras de referencia para alineación y viraje."
+      ],
+      "respuesta": "B) Señalización de eje, intersecciones y puntos de espera."
+    },
+    {
+      "texto": "50. ¿Para qué se utiliza la Plataforma en un aeródromo?",
+      "opciones": [
+        "A) Exclusivamente para el despegue y aterrizaje de aeronaves.",
+        "B) Para el estacionamiento, embarque/desembarque de pasajeros, abastecimiento y mantenimiento de aeronaves.",
+        "C) Para la gestión del control de tránsito aéreo."
+      ],
+      "respuesta": "B) Para el estacionamiento, embarque/desembarque de pasajeros, abastecimiento y mantenimiento de aeronaves."
+    },
+    {
+      "texto": "51. ¿Qué información proporciona un VOR (Very High Frequency Omnidirectional Range)?",
+      "opciones": [
+        "A) Distancia oblicua entre la aeronave y el equipo de tierra.",
+        "B) Guía horizontal y vertical para la aproximación de precisión.",
+        "C) 360 radiales HACIA o DESDE la estación, utilizado para navegación en ruta y aproximación."
+      ],
+      "respuesta": "C) 360 radiales HACIA o DESDE la estación, utilizado para navegación en ruta y aproximación."
+    },
+    {
+      "texto": "52. ¿Qué proporciona un DME (Distance Measuring Equipment)?",
+      "opciones": [
+        "A) Una indicación continua y precisa de la distancia oblicua entre la aeronave y el equipo de tierra.",
+        "B) La dirección a una estación VOR.",
+        "C) Información sobre la altitud barométrica."
+      ],
+      "respuesta": "A) Una indicación continua y precisa de la distancia oblicua entre la aeronave y el equipo de tierra."
+    },
+    {
+      "texto": "53. ¿Qué componentes principales incluye el ILS (Instrumental Landing System)?",
+      "opciones": [
+        "A) Transpondedor y radar de precisión.",
+        "B) Localizador (guía horizontal), Senda de Descenso (guía vertical) y Radiobalizas (distancia al umbral).",
+        "C) VOR y DME integrados."
+      ],
+      "respuesta": "B) Localizador (guía horizontal), Senda de Descenso (guía vertical) y Radiobalizas (distancia al umbral)."
+    },
+    {
+      "texto": "54. ¿Cuál de las siguientes es una ayuda a la navegación de uso militar?",
+      "opciones": ["A) VOR.", "B) ILS.", "C) TACAN."],
+      "respuesta": "C) TACAN."
+    },
+    {
+      "texto": "55. ¿Qué característica principal tiene un sistema de Navegación Inercial (INS)?",
+      "opciones": [
+        "A) Requiere actualizaciones constantes de GPS para funcionar.",
+        "B) Es un sistema autónomo que calcula la velocidad, posición y altitud de la aeronave basándose en acelerómetros y giroscopios, con errores acumulativos.",
+        "C) Proporciona guía de precisión para aterrizajes en condiciones de baja visibilidad."
+      ],
+      "respuesta": "B) Es un sistema autónomo que calcula la velocidad, posición y altitud de la aeronave basándose en acelerómetros y giroscopios, con errores acumulativos."
+    },
+    {
+      "texto": "56. ¿Qué función tiene un Radar de Precisión para la Aproximación (PAR)?",
+      "opciones": [
+        "A) Detectar la presencia de estela turbulenta de otras aeronaves.",
+        "B) Guiar a las aeronaves en la aproximación final.",
+        "C) Proporcionar información meteorológica en tiempo real."
+      ],
+      "respuesta": "B) Guiar a las aeronaves en la aproximación final."
+    },
+    {
+      "texto": "57. ¿Qué es el TCAS/ACAS?",
+      "opciones": [
+        "A) Un sistema para calcular automáticamente la distancia a la pista de aterrizaje.",
+        "B) Un sistema que proporciona avisos de alerta al piloto sobre posibles conflictos entre aeronaves dotadas de transpondedores SSR.",
+        "C) Un sistema de navegación por satélite de alta precisión."
+      ],
+      "respuesta": "B) Un sistema que proporciona avisos de alerta al piloto sobre posibles conflictos entre aeronaves dotadas de transpondedores SSR."
+    },
+    {
+      "texto": "58. ¿Qué información proporcionan las Ayudas Visuales Indicadoras de Pendiente de Aproximación como el PAPI o T-VASIS?",
+      "opciones": [
+        "A) La distancia horizontal restante hasta el umbral de la pista.",
+        "B) Información visual sobre la pendiente de aproximación correcta mediante patrones de luces blancas y rojas.",
+        "C) La dirección del viento en la cabecera de la pista."
+      ],
+      "respuesta": "B) Información visual sobre la pendiente de aproximación correcta mediante patrones de luces blancas y rojas."
+    },
+    {
+      "texto": "59. ¿Cuál es el propósito del Servicio Internacional de Telecomunicaciones Aeronáuticas?",
+      "opciones": [
+        "A) Establecer tarifas para las comunicaciones entre aeronaves y control terrestre.",
+        "B) Garantizar la seguridad, regularidad y eficiencia de la navegación aérea internacional.",
+        "C) Desarrollar nuevos equipos de comunicación para aeronaves."
+      ],
+      "respuesta": "B) Garantizar la seguridad, regularidad y eficiencia de la navegación aérea internacional."
+    },
+    {
+      "texto": "60. ¿Cuál es una de las técnicas de transmisión establecidas en los Procedimientos Radiotelefónicos?",
+      "opciones": [
+        "A) Hablar en voz alta y rápidamente.",
+        "B) Tono normal, claridad, velocidad constante y volumen adecuado.",
+        "C) Utilizar jerga técnica informal para ahorrar tiempo."
+      ],
+      "respuesta": "B) Tono normal, claridad, velocidad constante y volumen adecuado."
+    },
+    {
+      "texto": "61. En el Alfabeto de Deletreo OACI, ¿qué palabra se utiliza para la letra 'A'?",
+      "opciones": ["A) Alpha.", "B) América.", "C) Árbol."],
+      "respuesta": "A) Alpha."
+    },
+    {
+      "texto": "62. ¿Cuál es el rango de radiofrecuencias VHF para la aviación civil en comunicaciones T/A?",
+      "opciones": [
+        "A) 136 a 143 MHz.",
+        "B) 117,975 a 136 MHz.",
+        "C) 108 a 117,975 MHz."
+      ],
+      "respuesta": "B) 117,975 a 136 MHz."
+    },
+    {
+      "texto": "63. ¿Cuál es la frecuencia de emergencia civil?",
+      "opciones": ["A) 243,0 MHz.", "B) 121,5 MHz.", "C) 123,45 MHz."],
+      "respuesta": "B) 121,5 MHz."
+    },
+    {
+      "texto": "64. ¿Qué es el Servicio Fijo Aeronáutico (AFS)?",
+      "opciones": [
+        "A) Un servicio de radiodifusión de información meteorológica.",
+        "B) Un servicio de telecomunicaciones entre puntos fijos determinados que utiliza la Red de Telecomunicaciones Fijas Aeronáuticas (AFTN).",
+        "C) Un sistema de comunicación directa entre aeronaves en vuelo."
+      ],
+      "respuesta": "B) Un servicio de telecomunicaciones entre puntos fijos determinados que utiliza la Red de Telecomunicaciones Fijas Aeronáuticas (AFTN)."
+    },
+    {
+      "texto": "65. ¿Cuál es el centro de la red AFTN en España?",
+      "opciones": [
+        "A) La Oficina NOTAM Internacional (NOF).",
+        "B) El CRAMI (Centro de Retransmisión Automática de Mensajes Integrado) en Madrid/Torrejón.",
+        "C) La Unidad de Operaciones del Aeropuerto de Barajas."
+      ],
+      "respuesta": "B) El CRAMI (Centro de Retransmisión Automática de Mensajes Integrado) en Madrid/Torrejón."
+    },
+    {
+      "texto": "66. En el formato de mensaje AFTN, ¿qué contiene la parte de 'Dirección'?",
+      "opciones": [
+        "A) La hora de depósito del mensaje y el indicador de remitente.",
+        "B) La señal de comienzo y el serial del mensaje.",
+        "C) El indicador de prioridad (SS, DD, FF, GG) y el/los indicador(es) de destinatario (código OACI de 8 letras)."
+      ],
+      "respuesta": "C) El indicador de prioridad (SS, DD, FF, GG) y el/los indicador(es) de destinatario (código OACI de 8 letras)."
+    },
+    {
+      "texto": "67. ¿Qué parte del mensaje AFTN finaliza con siete saltos de línea y 'NNNN'?",
+      "opciones": [
+        "A) El Texto.",
+        "B) El Encabezamiento.",
+        "C) El Fin de Mensaje."
+      ],
+      "respuesta": "C) El Fin de Mensaje."
+    },
+    {
+      "texto": "68. ¿Cuál es la responsabilidad principal del Servicio de Información Aeronáutica (AIS)?",
+      "opciones": [
+        "A) Emitir licencias y certificados al personal aeronáutico.",
+        "B) Recopilar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, regularidad y eficacia de las operaciones aéreas.",
+        "C) Gestionar los servicios de aduanas y migración en los aeropuertos."
+      ],
+      "respuesta": "B) Recopilar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, regularidad y eficacia de las operaciones aéreas."
+    },
+    {
+      "texto": "69. ¿Qué es la EAD?",
+      "opciones": [
+        "A) Un sistema de gestión de tráfico aéreo global.",
+        "B) Una base de datos centralizada de EUROCONTROL que proporciona una única fuente de información aeronáutica europea para datos AIP, NOTAM y boletines.",
+        "C) El organismo encargado de la regulación del espacio aéreo en Europa."
+      ],
+      "respuesta": "B) Una base de datos centralizada de EUROCONTROL que proporciona una única fuente de información aeronáutica europea para datos AIP, NOTAM y boletines."
+    },
+    {
+      "texto": "70. ¿Cuál es el manual básico de información aeronáutica con información permanente y no sujeta a cambios frecuentes?",
+      "opciones": ["A) NOTAM.", "B) AIC.", "C) AIP."],
+      "respuesta": "C) AIP."
+    },
+    {
+      "texto": "71. ¿En qué tres partes principales se divide el AIP?",
+      "opciones": [
+        "A) Control de Área, Aproximación y Torre.",
+        "B) GENERALIDADES (GEN), EN RUTA (ENR) y AERÓDROMOS (AD).",
+        "C) Reglamento, Meteorología y Comunicaciones."
+      ],
+      "respuesta": "B) GENERALIDADES (GEN), EN RUTA (ENR) y AERÓDROMOS (AD)."
+    },
+    {
+      "texto": "72. ¿Qué color de portada tienen las Enmiendas al AIP (AMDT) de tipo AIRAC?",
+      "opciones": ["A) Azul.", "B) Verde.", "C) Amarillo."],
+      "respuesta": "B) Verde."
+    },
+    {
+      "texto": "73. ¿Con qué periodicidad suelen seguir las AMDT AIRAC un sistema de fechas de publicación y entrada en vigor?",
+      "opciones": ["A) Cada 15 días.", "B) Cada 28 días.", "C) Cada 60 días."],
+      "respuesta": "B) Cada 28 días."
+    },
+    {
+      "texto": "74. ¿Qué tipo de publicación de la documentación integrada de información aeronáutica tiene portada amarilla y se usa para información temporal de larga duración o muy extensa?",
+      "opciones": [
+        "A) AIC.",
+        "B) Suplemento al AIP (SUP) regular.",
+        "C) AMDT AIRAC."
+      ],
+      "respuesta": "B) Suplemento al AIP (SUP) regular."
+    },
+    {
+      "texto": "75. ¿Qué color de portada tienen los Suplementos al AIP (SUP) de tipo AIRAC?",
+      "opciones": ["A) Azul.", "B) Rosa.", "C) Amarillo."],
+      "respuesta": "B) Rosa."
+    },
+    {
+      "texto": "76. ¿Para qué se utilizan las Circulares de Información Aeronáutica (AIC)?",
+      "opciones": [
+        "A) Para difundir información urgente e impredecible.",
+        "B) Para información de carácter administrativo, explicativo o de asesoramiento que no justifica inclusión en AIP o NOTAM.",
+        "C) Para anunciar cambios permanentes en el AIP."
+      ],
+      "respuesta": "B) Para información de carácter administrativo, explicativo o de asesoramiento que no justifica inclusión en AIP o NOTAM."
+    },
+    {
+      "texto": "77. ¿Cuál es la misión de un NOTAM?",
+      "opciones": [
+        "A) Ser el manual básico de información aeronáutica.",
+        "B) Difundir con rapidez información de carácter urgente e impredecible que afecte a la seguridad de las operaciones.",
+        "C) Publicar cambios estacionales en los slots aeroportuarios."
+      ],
+      "respuesta": "B) Difundir con rapidez información de carácter urgente e impredecible que afecte a la seguridad de las operaciones."
+    },
+    {
+      "texto": "78. ¿Qué significa un NOTAMN?",
+      "opciones": [
+        "A) NOTAM de Reemplazo.",
+        "B) NOTAM de Cancelación.",
+        "C) Nuevo NOTAM."
+      ],
+      "respuesta": "C) Nuevo NOTAM."
+    },
+    {
+      "texto": "79. ¿Qué apartado de un NOTAM contiene campos codificados para el tratamiento automático de la información, incluyendo FIR, código NOTAM, tráfico, objetivo, alcance, límites de vuelo y coordenadas?",
+      "opciones": ["A) Apartado C.", "B) Apartado Q.", "C) Apartado F."],
+      "respuesta": "B) Apartado Q."
+    },
+    {
+      "texto": "80. ¿Qué es un Trigger NOTAM?",
+      "opciones": [
+        "A) Un aviso sobre condiciones de nieve/hielo en el área de movimiento.",
+        "B) Un aviso sobre actividad volcánica.",
+        "C) Un aviso sobre publicaciones importantes como AMDT o SUP AIRAC."
+      ],
+      "respuesta": "C) Un aviso sobre publicaciones importantes como AMDT o SUP AIRAC."
+    },
+    {
+      "texto": "81. ¿Para qué se utiliza la serie especial ASHTAM?",
+      "opciones": [
+        "A) Para informar sobre cierres de aeropuertos por eventos masivos.",
+        "B) Para informar sobre condiciones de nieve/hielo en pista.",
+        "C) Para informar sobre actividad volcánica."
+      ],
+      "respuesta": "C) Para informar sobre actividad volcánica."
+    },
+    {
+      "texto": "82. ¿Qué son los Boletines de Información Previa al Vuelo (PIB)?",
+      "opciones": [
+        "A) Pronósticos meteorológicos de aeródromo.",
+        "B) Listas de NOTAM en vigor seleccionados por aeródromo, área o ruta, confeccionados por las Oficinas de Información Aeronáutica (AIO) para satisfacer las necesidades de las tripulaciones.",
+        "C) Documentos que describen procedimientos de emergencia."
+      ],
+      "respuesta": "B) Listas de NOTAM en vigor seleccionados por aeródromo, área o ruta, confeccionados por las Oficinas de Información Aeronáutica (AIO) para satisfacer las necesidades de las tripulaciones."
+    },
+    {
+      "texto": "83. ¿Qué Oficina AIS es responsable de verificar, tratar y difundir NOTAM?",
+      "opciones": [
+        "A) La División AIS.",
+        "B) La Oficina NOTAM Internacional (NOF).",
+        "C) Las Oficinas de Información Aeronáutica (AIO)."
+      ],
+      "respuesta": "B) La Oficina NOTAM Internacional (NOF)."
+    },
+    {
+      "texto": "84. ¿Cuál es la misión principal de la Gestión del Tránsito Aéreo (ATM)?",
+      "opciones": [
+        "A) Optimizar la utilización del espacio aéreo.",
+        "B) Gestionar el sistema de aduanas en los aeropuertos.",
+        "C) Coordinar la asignación de personal en las terminales."
+      ],
+      "respuesta": "A) Optimizar la utilización del espacio aéreo."
+    },
+    {
+      "texto": "85. ¿Quién es el responsable de la planificación y ejecución de las medidas ATFM (Flow Management)?",
+      "opciones": [
+        "A) La OACI.",
+        "B) El NMOC (Network Manager Operations Centre) en Bruselas.",
+        "C) La AESA."
+      ],
+      "respuesta": "B) El NMOC (Network Manager Operations Centre) en Bruselas."
+    },
+    {
+      "texto": "86. ¿Qué información contiene un Plan de Vuelo Presentado (FPL)?",
+      "opciones": [
+        "A) Únicamente los datos meteorológicos del destino.",
+        "B) Toda la información relativa a las condiciones en las que se proyecta realizar un vuelo o parte del mismo.",
+        "C) El historial de mantenimiento de la aeronave."
+      ],
+      "respuesta": "B) Toda la información relativa a las condiciones en las que se proyecta realizar un vuelo o parte del mismo."
+    },
+    {
+      "texto": "87. ¿Qué tipo de plan de vuelo se utiliza para vuelos regulares que se realizan frecuentemente con idénticas características básicas?",
+      "opciones": [
+        "A) Plan de Vuelo Suplementario (SPL).",
+        "B) Plan de Vuelo Repetitivo (RPL).",
+        "C) Plan de Vuelo IFR (FPL)."
+      ],
+      "respuesta": "B) Plan de Vuelo Repetitivo (RPL)."
+    },
+    {
+      "texto": "88. ¿Qué significa el mensaje ACK del IFPS?",
+      "opciones": [
+        "A) Mensaje de Rechazo.",
+        "B) Mensaje de Indicación de Tratamiento Manual.",
+        "C) Mensaje de Aceptación."
+      ],
+      "respuesta": "C) Mensaje de Aceptación."
+    },
+    {
+      "texto": "89. ¿Qué mensaje ATS se utiliza para notificar una demora en un vuelo?",
+      "opciones": ["A) CHG.", "B) DLA.", "C) CNL."],
+      "respuesta": "B) DLA."
+    },
+    {
+      "texto": "90. ¿Para qué se asignan los Slots ATFM (Turnos) por el NMOC?",
+      "opciones": [
+        "A) Para determinar el precio del billete de avión.",
+        "B) Para conseguir una circulación fluida, en tiempo real, a través de zonas saturadas.",
+        "C) Para establecer la secuencia de aterrizaje de aeronaves militares."
+      ],
+      "respuesta": "B) Para conseguir una circulación fluida, en tiempo real, a través de zonas saturadas."
+    },
+    {
+      "texto": "91. ¿Qué organismo gestiona el Uso Flexible del Espacio Aéreo (FUA) a nivel estratégico y pretáctico?",
+      "opciones": [
+        "A) La Oficina NOTAM Internacional (NOF).",
+        "B) La Célula de Gestión de Espacio Aéreo (AMC).",
+        "C) El Centro de Control de Área (ACC)."
+      ],
+      "respuesta": "B) La Célula de Gestión de Espacio Aéreo (AMC)."
+    },
+    {
+      "texto": "92. ¿Qué significa la sigla AUP en el contexto del Uso Flexible del Espacio Aéreo?",
+      "opciones": [
+        "A) Autorización de Uso de Pista.",
+        "B) Airspace Use Plan (Plan de Uso del Espacio Aéreo).",
+        "C) Aviso Urgente de Peligro."
+      ],
+      "respuesta": "B) Airspace Use Plan (Plan de Uso del Espacio Aéreo)."
+    },
+    {
+      "texto": "93. ¿Qué sistema de rutas planificadas se utiliza para un uso más efectivo de la capacidad ATC?",
+      "opciones": [
+        "A) El sistema IFPS.",
+        "B) El RAD (Route Availability Document) y SRS (Standard Routeing Scheme).",
+        "C) El sistema RVSM."
+      ],
+      "respuesta": "B) El RAD (Route Availability Document) y SRS (Standard Routeing Scheme)."
+    },
+    {
+      "texto": "94. ¿Cuál es la temperatura y presión estándar al nivel del mar según la Atmósfera Tipo (ISA)?",
+      "opciones": [
+        "A) 0°C y 1000 hPa.",
+        "B) 15°C y 1013,2 hPa.",
+        "C) 20°C y 1025 hPa."
+      ],
+      "respuesta": "B) 15°C y 1013,2 hPa."
+    },
+    {
+      "texto": "95. Si un altímetro se ajusta a QFE, ¿qué indica al tocar tierra en el aeródromo?",
+      "opciones": [
+        "A) La altitud topográfica del aeródromo.",
+        "B) La presión estándar de 1013,2 hPa.",
+        "C) 0."
+      ],
+      "respuesta": "C) 0."
+    },
+    {
+      "texto": "96. ¿Qué tipo de nubes se asocian con tormentas, granizo, turbulencias y engelamiento muy fuerte?",
+      "opciones": [
+        "A) Nimbostratos.",
+        "B) Cumulonimbos (CB/TCU).",
+        "C) Estratos."
+      ],
+      "respuesta": "B) Cumulonimbos (CB/TCU)."
+    },
+    {
+      "texto": "97. ¿Qué es el RVR (Alcance Visual en Pista)?",
+      "opciones": [
+        "A) La visibilidad horizontal en el área terminal.",
+        "B) La distancia a la que se pueden ver objetos desde el eje de pista.",
+        "C) La visibilidad vertical desde la cabina de la aeronave."
+      ],
+      "respuesta": "B) La distancia a la que se pueden ver objetos desde el eje de pista."
+    },
+    {
+      "texto": "98. ¿Con qué frecuencia se renueva un informe METAR?",
+      "opciones": ["A) Cada hora.", "B) Cada media hora.", "C) Cada 6 horas."],
+      "respuesta": "B) Cada media hora."
+    },
+    {
+      "texto": "99. ¿Qué significa el término CAVOK en un informe METAR?",
+      "opciones": [
+        "A) Cielo Cubierto y Visibilidad Limitada.",
+        "B) Condiciones de Viento y Visibilidad Óptimas.",
+        "C) Ceiling And Visibility OK (Techo de nubes y visibilidad OK)."
+      ],
+      "respuesta": "C) Ceiling And Visibility OK (Techo de nubes y visibilidad OK)."
+    },
+    {
+      "texto": "100. ¿Para qué se utilizan los informes SPECI?",
+      "opciones": [
+        "A) Para pronósticos de aeródromo con vigencia variable.",
+        "B) Para notificar cambios significativos en un METAR.",
+        "C) Para la planificación de rutas a largo plazo."
+      ],
+      "respuesta": "B) Para notificar cambios significativos en un METAR."
+    },
+    {
+      "texto": "101. ¿Qué son los Derechos de Tráfico extracomunitarios?",
+      "opciones": [
+        "A) Los derechos de libre acceso entre países de la Unión Europea.",
+        "B) Derechos regulados mediante convenios bilaterales entre Estados.",
+        "C) Derechos reservados exclusivamente a compañías nacionales."
+      ],
+      "respuesta": "B) Derechos regulados mediante convenios bilaterales entre Estados."
+    },
+    {
+      "texto": "102. ¿Quién controla los Derechos de Tráfico en España?",
+      "opciones": [
+        "A) Únicamente el Coordinador de Slots Aeroportuarios.",
+        "B) La Dirección General de Aviación Civil y Aena SME S.A.",
+        "C) La Organización de Aviación Civil Internacional (OACI)."
+      ],
+      "respuesta": "B) La Dirección General de Aviación Civil y Aena SME S.A."
+    },
+    {
+      "texto": "103. ¿Qué es un SLOT Aeroportuario (franja horaria)?",
+      "opciones": [
+        "A) Un permiso para utilizar el espacio aéreo controlado por un período específico.",
+        "B) El permiso dado por un Coordinador para utilizar toda la infraestructura aeroportuaria necesaria con fines de aterrizaje o despegue en una fecha y hora determinadas.",
+        "C) Un turno asignado por el ATFM para gestionar la afluencia de tráfico aéreo."
+      ],
+      "respuesta": "B) El permiso dado por un Coordinador para utilizar toda la infraestructura aeroportuaria necesaria con fines de aterrizaje o despegue en una fecha y hora determinadas."
+    },
+    {
+      "texto": "104. ¿Cómo se asignan los slots aeroportuarios para las temporadas de verano e invierno?",
+      "opciones": [
+        "A) En tiempo real por la torre de control.",
+        "B) Mediante un proceso de coordinación en fases: Preconferencia, Conferencia y Postconferencia.",
+        "C) Exclusivamente por sorteo entre las aerolíneas solicitantes."
+      ],
+      "respuesta": "B) Mediante un proceso de coordinación en fases: Preconferencia, Conferencia y Postconferencia."
+    },
+    {
+      "texto": "105. ¿Qué conceden las 'franjas horarias históricas' a las aerolíneas?",
+      "opciones": [
+        "A) El derecho a volar sin restricciones de horario.",
+        "B) El derecho a solicitar el mismo slot para periodos equivalentes en temporadas futuras.",
+        "C) Descuentos exclusivos en las tasas aeroportuarias."
+      ],
+      "respuesta": "B) El derecho a solicitar el mismo slot para periodos equivalentes en temporadas futuras."
+    },
+    {
+      "texto": "106. ¿Qué formaliza el billete de pasaje y el talón de equipaje?",
+      "opciones": [
+        "A) El permiso de vuelo de la aeronave.",
+        "B) El Contrato de Transporte entre la compañía aérea y el pasajero.",
+        "C) La asignación de medios aeroportuarios para el vuelo."
+      ],
+      "respuesta": "B) El Contrato de Transporte entre la compañía aérea y el pasajero."
+    },
+    {
+      "texto": "107. ¿Quién puede tener competencia en las reclamaciones presentadas en un aeropuerto?",
+      "opciones": [
+        "A) Exclusivamente la compañía aérea.",
+        "B) La D.G.A.C., Aena o puede ser compartida.",
+        "C) Únicamente los organismos de protección al consumidor."
+      ],
+      "respuesta": "B) La D.G.A.C., Aena o puede ser compartida."
+    },
+    {
+      "texto": "108. ¿Qué busca el proceso de Asignación de Medios Aeroportuarios al establecer criterios y prioridades?",
+      "opciones": [
+        "A) Maximizar la flexibilidad operativa de cada aerolínea.",
+        "B) Garantizar la neutralidad y transparencia en la asignación.",
+        "C) Reducir al mínimo la cantidad de personal necesario."
+      ],
+      "respuesta": "B) Garantizar la neutralidad y transparencia en la asignación."
+    },
+    {
+      "texto": "109. ¿Cómo se define la Capacidad Aeroportuaria para la terminal de pasajeros?",
+      "opciones": [
+        "A) El número máximo de movimientos que puede tratar un aeropuerto por hora.",
+        "B) El número máximo de pasajeros por hora que puede procesar.",
+        "C) El número de puestos de estacionamiento disponibles en la plataforma."
+      ],
+      "respuesta": "B) El número máximo de pasajeros por hora que puede procesar."
+    },
+    {
+      "texto": "110. ¿Qué herramienta informática simplifica la asignación de medios en aeropuertos, ofreciendo modos de simulación, planificación e histórico?",
+      "opciones": [
+        "A) SCENA.",
+        "B) ICARO XXI.",
+        "C) SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)."
+      ],
+      "respuesta": "C) SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)."
+    },
+    {
+      "texto": "111. ¿Qué es un Procedimiento Operacional en el contexto aeroportuario?",
+      "opciones": [
+        "A) Un acuerdo bilateral entre dos aerolíneas.",
+        "B) Un conjunto de reglas y procesos escritos para el manejo fluido de las actividades propias del aeropuerto.",
+        "C) Un documento de pronóstico meteorológico a largo plazo."
+      ],
+      "respuesta": "B) Un conjunto de reglas y procesos escritos para el manejo fluido de las actividades propias del aeropuerto."
+    },
+    {
+      "texto": "112. ¿Con qué frecuencia se realizan los simulacros generales del Plan de Emergencia aeroportuario?",
+      "opciones": ["A) Anualmente.", "B) Cada dos años.", "C) Mensualmente."],
+      "respuesta": "B) Cada dos años."
+    },
+    {
+      "texto": "113. ¿Qué es el Puesto de Mando Avanzado (PMA) en un Plan de Emergencia?",
+      "opciones": [
+        "A) El centro de control de tránsito aéreo.",
+        "B) Un puesto de mando establecido en el lugar del incidente.",
+        "C) La sede de la dirección del aeropuerto."
+      ],
+      "respuesta": "B) Un puesto de mando establecido en el lugar del incidente."
+    },
+    {
+      "texto": "114. ¿Cómo se divide el Área de Respuesta en un Plan de Emergencia?",
+      "opciones": [
+        "A) Zona Norte y Zona Sur.",
+        "B) Zona A (responsabilidad aeroportuaria) y Zona B (responsabilidad de la autoridad civil fuera del aeropuerto).",
+        "C) Área de Vuelos y Área de Servicios Comerciales."
+      ],
+      "respuesta": "B) Zona A (responsabilidad aeroportuaria) y Zona B (responsabilidad de la autoridad civil fuera del aeropuerto)."
+    },
+    {
+      "texto": "115. ¿Qué herramienta informática permite gestionar datos para el control operativo y la facturación de un aeropuerto, incluyendo planificación previa y seguimiento en tiempo real?",
+      "opciones": ["A) SADAMA.", "B) ICARO XXI.", "C) SCENA."],
+      "respuesta": "C) SCENA."
+    },
+    {
+      "texto": "116. ¿Qué facilita la herramienta ICARO XXI para las oficinas COM/AIS/ARO?",
+      "opciones": [
+        "A) Únicamente la gestión de la facturación de las aerolíneas.",
+        "B) La recepción/transmisión automática de mensajes (COM), la creación de NOTAM/SNOWTAM y PIB (AIS), y la presentación y validación de planes de vuelo (ARO).",
+        "C) La asignación de puertas de embarque y cintas de equipajes."
+      ],
+      "respuesta": "B) La recepción/transmisión automática de mensajes (COM), la creación de NOTAM/SNOWTAM y PIB (AIS), y la presentación y validación de planes de vuelo (ARO)."
+    },
+    {
+      "texto": "117. ¿Para qué se utilizan las Estadísticas Aeroportuarias?",
+      "opciones": [
+        "A) Para determinar los salarios del personal aeroportuario.",
+        "B) Para la correcta definición de las instalaciones requeridas y la toma de decisiones de inversión.",
+        "C) Para la verificación del cumplimiento de los derechos de tráfico aéreo."
+      ],
+      "respuesta": "B) Para la correcta definición de las instalaciones requeridas y la toma de decisiones de inversión."
+    },
+    {
+      "texto": "118. ¿Qué tipo de datos estadísticos se recogen del Formulario Estadístico F-1 y el manifiesto de carga?",
+      "opciones": [
+        "A) Datos operacionales en tiempo real.",
+        "B) Datos administrativos (pasajeros, mercancía, correo).",
+        "C) Datos de mantenimiento de aeronaves."
+      ],
+      "respuesta": "B) Datos administrativos (pasajeros, mercancía, correo)."
+    },
+    {
+      "texto": "119. ¿Cuál es el significado de la abreviatura 'ACC' según el glosario?",
+      "opciones": [
+        "A) Aeródromo.",
+        "B) Centro de Control de Área.",
+        "C) Oficina de Información Aeronáutica."
+      ],
+      "respuesta": "B) Centro de Control de Área."
+    },
+    {
+      "texto": "120. ¿Qué significa la abreviatura 'AIO'?",
+      "opciones": [
+        "A) Publicación de Información Aeronáutica.",
+        "B) Oficina de Información Aeronáutica.",
+        "C) Servicio de Información Aeronáutica."
+      ],
+      "respuesta": "B) Oficina de Información Aeronáutica."
+    },
+    {
+      "texto": "121. ¿Qué significa 'AIRAC'?",
+      "opciones": [
+        "A) Reglas y Procedimientos de Control de Área.",
+        "B) Regulación y Control de Información Aeronáutica.",
+        "C) Regulación y Control de Información Aeronáutica (por fechas de entrada en vigor)."
+      ],
+      "respuesta": "C) Regulación y Control de Información Aeronáutica (por fechas de entrada en vigor)."
+    },
+    {
+      "texto": "122. ¿Qué indica la abreviatura 'AMDT'?",
+      "opciones": [
+        "A) Aeropuerto Designado.",
+        "B) Enmienda (al AIP).",
+        "C) Mensaje de Alerta Automática."
+      ],
+      "respuesta": "B) Enmienda (al AIP)."
+    },
+    {
+      "texto": "123. ¿Cuál es el significado de 'ATS'?",
+      "opciones": [
+        "A) Servicio de Aterrizaje y Despegue.",
+        "B) Servicios de Tránsito Aéreo.",
+        "C) Sistema de Transporte Automático."
+      ],
+      "respuesta": "B) Servicios de Tránsito Aéreo."
+    },
+    {
+      "texto": "124. ¿Qué significa 'CWY'?",
+      "opciones": [
+        "A) Calle de Rodaje.",
+        "B) Parada en Calle de Rodaje.",
+        "C) Pista de parada."
+      ],
+      "respuesta": "C) Pista de parada."
+    },
+    {
+      "texto": "125. ¿Qué significa la abreviatura 'DLA' en mensajes ATS?",
+      "opciones": [
+        "A) Despegue Libre Autorizado.",
+        "B) Demora.",
+        "C) Desvío de Ruta Aceptado."
+      ],
+      "respuesta": "B) Demora."
+    },
+    {
+      "texto": "126. ¿Qué indica 'EOBD'?",
+      "opciones": [
+        "A) Hora Estimada de Fuera Calzos.",
+        "B) Fecha de Salida Estimada.",
+        "C) Tiempo de Bloqueo Estimado de Duración."
+      ],
+      "respuesta": "B) Fecha de Salida Estimada."
+    },
+    {
+      "texto": "127. ¿Qué significa 'FIZ' en el glosario?",
+      "opciones": [
+        "A) Zona de Información de Vuelo.",
+        "B) Vuelo de Identificación Militar.",
+        "C) Zona de Interferencia de Frecuencias."
+      ],
+      "respuesta": "A) Zona de Información de Vuelo."
+    },
+    {
+      "texto": "128. ¿Qué significa la abreviatura 'FLS' en el glosario?",
+      "opciones": [
+        "A) Vuelo suspendido.",
+        "B) Nivel de Vuelo Libre.",
+        "C) Sistema de Iluminación de Pista."
+      ],
+      "respuesta": "A) Vuelo suspendido."
+    },
+    {
+      "texto": "129. ¿Qué indica 'FUA'?",
+      "opciones": [
+        "A) Flujo de Uso del Aire.",
+        "B) Uso Flexible del Espacio Aéreo.",
+        "C) Autoridad de Tráfico de Vuelo."
+      ],
+      "respuesta": "B) Uso Flexible del Espacio Aéreo."
+    },
+    {
+      "texto": "130. ¿Qué significa 'GAT'?",
+      "opciones": [
+        "A) Tráfico Aéreo General.",
+        "B) Sistema de Navegación Global.",
+        "C) Tiempo de Llegada Estimado."
+      ],
+      "respuesta": "A) Tráfico Aéreo General."
+    },
+    {
+      "texto": "131. ¿Cuál es el significado de 'GND'?",
+      "opciones": [
+        "A) Sistema de Navegación por Satélite.",
+        "B) Tierra (Ground).",
+        "C) Servicio de Navegación Global."
+      ],
+      "respuesta": "B) Tierra (Ground)."
+    },
+    {
+      "texto": "132. ¿Qué significa 'HRL' en el glosario?",
+      "opciones": [
+        "A) Helicóptero de Rango Largo.",
+        "B) Nivel de Vuelo Pesado.",
+        "C) Línea de Referencia de Rodaje Pesada."
+      ],
+      "respuesta": "C) Línea de Referencia de Rodaje Pesada."
+    },
+    {
+      "texto": "133. ¿Qué significa la abreviatura 'IFPS'?",
+      "opciones": [
+        "A) Servicio Internacional de Planes de Vuelo.",
+        "B) Sistema Integrado para el Tratamiento Inicial de Planes de Vuelo.",
+        "C) Plan de Vuelo por Instrumentos y Servicios."
+      ],
+      "respuesta": "B) Sistema Integrado para el Tratamiento Inicial de Planes de Vuelo."
+    },
+    {
+      "texto": "134. ¿Qué significa 'LDA' en relación con las distancias declaradas de una pista?",
+      "opciones": [
+        "A) Longitud de Despegue Acelerado.",
+        "B) Longitud de Aterrizaje Disponible.",
+        "C) Longitud de Despegue con Obstáculo."
+      ],
+      "respuesta": "B) Longitud de Aterrizaje Disponible."
+    },
+    {
+      "texto": "135. ¿Qué indica 'LLZ'?",
+      "opciones": [
+        "A) Radiofaro de Localizador.",
+        "B) Zona de Aterrizaje Ligera.",
+        "C) Luz de Zona de Aterrizaje."
+      ],
+      "respuesta": "A) Radiofaro de Localizador."
+    },
+    {
+      "texto": "136. ¿Qué significa 'MSL'?",
+      "opciones": [
+        "A) Nivel Estándar Medio.",
+        "B) Nivel Medio del Mar.",
+        "C) Nivel Máximo de Seguridad."
+      ],
+      "respuesta": "B) Nivel Medio del Mar."
+    },
+    {
+      "texto": "137. ¿Qué indica 'NOF'?",
+      "opciones": [
+        "A) Oficina de Operaciones de Navegación.",
+        "B) Oficina NOTAM Internacional.",
+        "C) Frecuencia de Notificación Operacional."
+      ],
+      "respuesta": "B) Oficina NOTAM Internacional."
+    },
+    {
+      "texto": "138. ¿Qué significa 'OAT'?",
+      "opciones": [
+        "A) Tráfico Aéreo Operacional.",
+        "B) Observatorio de Aeronáutica y Tiempo.",
+        "C) Oficial de Aterrizaje y Despegue."
+      ],
+      "respuesta": "A) Tráfico Aéreo Operacional."
+    },
+    {
+      "texto": "139. ¿Qué significa 'PAPI'?",
+      "opciones": [
+        "A) Indicador de Trayectoria de Aproximación de Precisión.",
+        "B) Punto de Aproximación Principal del Aeródromo.",
+        "C) Sistema de Ayuda al Piloto de Información."
+      ],
+      "respuesta": "A) Indicador de Trayectoria de Aproximación de Precisión."
+    },
+    {
+      "texto": "140. ¿Qué significa 'PIB'?",
+      "opciones": [
+        "A) Planificación de Vuelos Instrumentales.",
+        "B) Boletín de Información Previa al Vuelo.",
+        "C) Procedimiento de Iluminación de Balizas."
+      ],
+      "respuesta": "B) Boletín de Información Previa al Vuelo."
+    },
+    {
+      "texto": "141. ¿Qué significa 'QNH'?",
+      "opciones": [
+        "A) Presión atmosférica en el umbral de la pista.",
+        "B) Ajuste de altímetro que indica la altitud del aeródromo sobre el nivel medio del mar.",
+        "C) Presión estándar de 1013,2 hPa."
+      ],
+      "respuesta": "B) Ajuste de altímetro que indica la altitud del aeródromo sobre el nivel medio del mar."
+    },
+    {
+      "texto": "142. ¿Qué significa 'RCA'?",
+      "opciones": [
+        "A) Reglamento de Control de Aproximación.",
+        "B) Reglamento de Circulación Aérea.",
+        "C) Ruta de Control de Aerovías."
+      ],
+      "respuesta": "B) Reglamento de Circulación Aérea."
+    },
+    {
+      "texto": "143. ¿Qué indica 'RPL'?",
+      "opciones": [
+        "A) Plan de Vuelo Restringido.",
+        "B) Plan de Vuelo Presentado.",
+        "C) Plan de Vuelo Repetitivo."
+      ],
+      "respuesta": "C) Plan de Vuelo Repetitivo."
+    },
+    {
+      "texto": "144. ¿Qué significa 'RVR'?",
+      "opciones": [
+        "A) Ruta de Vuelo Restringida.",
+        "B) Alcance Visual en Pista.",
+        "C) Vuelo con Requerimiento Visual."
+      ],
+      "respuesta": "B) Alcance Visual en Pista."
+    },
+    {
+      "texto": "145. ¿Qué significa 'RWY'?",
+      "opciones": ["A) Reglas de Vuelo.", "B) Pista.", "C) Ruta de Rodaje."],
+      "respuesta": "B) Pista."
+    },
+    {
+      "texto": "146. ¿Qué indica 'SADAMA'?",
+      "opciones": [
+        "A) Sistema de Alerta de Demoras Aeroportuarias.",
+        "B) Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios.",
+        "C) Sistema de Datos Meteorológicos Avanzado."
+      ],
+      "respuesta": "B) Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios."
+    },
+    {
+      "texto": "147. ¿Qué significa 'SCENA'?",
+      "opciones": [
+        "A) Sistema de Control y Explotación de la Navegación Aérea.",
+        "B) Sistema Central de Notificaciones Aeronáuticas.",
+        "C) Sistema de Gestión de Control Operativo y Facturación de Aeropuertos."
+      ],
+      "respuesta": "C) Sistema de Gestión de Control Operativo y Facturación de Aeropuertos."
+    },
+    {
+      "texto": "148. ¿Qué significa 'SPECI'?",
+      "opciones": [
+        "A) Informe Meteorológico Periódico.",
+        "B) Informe Meteorológico Especial.",
+        "C) Pronóstico de Visibilidad Específica."
+      ],
+      "respuesta": "B) Informe Meteorológico Especial."
+    },
+    {
+      "texto": "149. ¿Qué indica 'SUP'?",
+      "opciones": [
+        "A) Servicio de Utilidad Pública.",
+        "B) Suplemento (al AIP).",
+        "C) Sistema de Ubicación de Pistas."
+      ],
+      "respuesta": "B) Suplemento (al AIP)."
+    },
+    {
+      "texto": "150. ¿Qué significa 'TAF'?",
+      "opciones": [
+        "A) Temperatura y Altitud de Vuelo.",
+        "B) Pronóstico de Aeródromo Terminal.",
+        "C) Regulación de Tráfico Aéreo Futuro."
+      ],
+      "respuesta": "B) Pronóstico de Aeródromo Terminal."
+    }
+  ]
+}
