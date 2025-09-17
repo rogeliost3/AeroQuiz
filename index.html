@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <h1>AeroQuiz</h1>
+    <h2>AeroQuiz</h2>
 
     <input type="file" id="jsonFile" accept=".json" style="display: none" />
     <button
@@ -23,6 +23,8 @@
     </button>
 
     <div id="marcador">
+      <!-- Botón de tema -->
+      <button id="toggleThemeBtn">🌙</button>
       <!-- <button onclick="resetErr()">RESET-ERR</button> -->
       <button onclick="resetAll()">RESET-ALL</button>
       ✅ <span id="aciertos">0</span> / ❌ <span id="errores">0</span>
@@ -48,6 +50,23 @@
       const contenidoDiv = document.getElementById("contenido");
       const mensajeJSON = document.getElementById("mensajeJSON");
       const jsonInput = document.getElementById("jsonFile");
+      const toggleThemeBtn = document.getElementById("toggleThemeBtn");
+
+      /* ---------- Cambiar tema ---------- */
+      function setTheme(theme) {
+        document.body.classList.toggle("dark", theme === "dark");
+        toggleThemeBtn.textContent = theme === "dark" ? "☀️" : "🌙";
+        localStorage.setItem("theme", theme);
+      }
+      toggleThemeBtn.addEventListener("click", () => {
+        const newTheme = document.body.classList.contains("dark")
+          ? "light"
+          : "dark";
+        setTheme(newTheme);
+      });
+      // Inicializar tema
+      const savedTheme = localStorage.getItem("theme") || "light";
+      setTheme(savedTheme);
 
       /* ---------- RENDER: recibe un objeto JSON (data) y construye la UI ---------- */
       function cargarPreguntas(data) {
@@ -191,7 +210,33 @@
         aciertosSpan.textContent = aciertos;
         erroresSpan.textContent = errores;
         guardarEstado();
-        // same note about re-rendering
+        // Re-render current loaded JSON if jsonKey available and file accessible via fetch
+        // (If loaded by input file, user can re-select to update UI)
+        if (jsonKey) {
+          const estado = JSON.parse(localStorage.getItem(jsonKey));
+          if (estado) {
+            aciertos = estado.aciertos || 0;
+            errores = estado.errores || 0;
+            usados = estado.usados || {};
+            aciertosSpan.textContent = aciertos;
+            erroresSpan.textContent = errores;
+          }
+          fetch("./" + jsonKey)
+            .then((resp) => {
+              if (!resp.ok)
+                throw new Error(resp.status + " " + resp.statusText);
+              return resp.json();
+            })
+            .then((data) => {
+              cargarPreguntas(data);
+            })
+            .catch((err) => {
+              console.log(
+                "No se pudo recargar automáticamente el JSON mediante fetch:",
+                err
+              );
+            });
+        }
       }
 
       /* ---------- Manejador de input file ---------- */

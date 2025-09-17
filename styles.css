@@ -1,11 +1,40 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --btn-bg: #0077cc;
+  --btn-text: #ffffff;
+  --card-bg: #cfcfcf;
+}
+
+body.dark {
+  --bg-color: #121212;
+  --text-color: #eaeaea;
+  --btn-bg: #3399ff;
+  --btn-text: #000000;
+  --card-bg: #192c46;
+}
+
 body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* button:hover {
+      opacity: 0.9;
+    } */
+
+/* body {
   font-family: Arial, sans-serif;
   margin: 20px;
   background: #f5f5f5;
-}
+} */
 
-h1, h2 {
-  color: #2a4d7a;
+h3,
+h2 {
+  color: var(--text-color);
 }
 
 #cargarJSONBtn {
@@ -23,7 +52,7 @@ h1, h2 {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: #eee;
+  background: var(--card-bg);
   padding: 10px;
   border-radius: 8px;
   display: flex;
@@ -37,15 +66,25 @@ h1, h2 {
   cursor: pointer;
   border-radius: 5px;
   border: 1px solid #ccc;
-  background: #fff;
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
 }
+/* button {
+      background-color: var(--btn-bg);
+      color: var(--btn-text);
+      border: none;
+      padding: 6px 12px;
+      margin: 4px;
+      border-radius: 5px;
+      cursor: pointer;
+    } */
 
 .pregunta {
-  background: white;
+  background-color: var(--card-bg);
   border-radius: 12px;
   padding: 15px 20px;
   margin-bottom: 20px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .pregunta p {
@@ -64,8 +103,10 @@ h1, h2 {
 
 .pregunta button {
   padding: 8px 15px;
-  background: linear-gradient(135deg, #f39c12, #e67e22);
-  color: white;
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+  /* background: linear-gradient(135deg, #f39c12, #e67e22);
+  color: white; */
   border: none;
   border-radius: 8px;
   font-weight: bold;
