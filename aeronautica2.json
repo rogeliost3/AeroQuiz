@@ -1,8 +1,6 @@
-He aquí 150 preguntas tipo test, elaboradas en formato JSON, a partir del documento 5.T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS, cumpliendo con todas las reglas y restricciones solicitadas.
-
 
 {
-  "Facilitación": [
+  "Aeronáutica II": [
     {
       "texto": "1. ¿Qué función principal tiene el Servicio de Información Aeronáutica (AIS) según la definición proporcionada en las fuentes?",
       "opciones": [
