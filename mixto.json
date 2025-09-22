@@ -1,0 +1,1655 @@
+
+{
+  "Facilitación": [
+    {
+      "texto": "1. ¿Cuál es el objetivo principal de los anexos al Convenio sobre aviación civil internacional?",
+      "opciones": [
+        "A) Establecer los códigos y abreviaturas oficiales de la OACI.",
+        "B) Definir los procedimientos operacionales detallados para la navegación aérea.",
+        "C) Establecer ciertos niveles mínimos de actuación y prestación de servicios, y lograr determinada uniformidad en los mismos."
+      ],
+      "respuesta": "C) Establecer ciertos niveles mínimos de actuación y prestación de servicios, y lograr determinada uniformidad en los mismos.",
+      "referencia": "4.T104032. Módulo 1. Unidad 2. Apartado 2.2.1. Página 2.",
+      "explicacion": "Los anexos al Convenio sobre aviación civil internacional tienen por objeto el establecimiento de ciertos niveles mínimos de actuación y prestación de servicios, y la consecución de determinada uniformidad en los mismos."
+    },
+    {
+      "texto": "2. ¿Qué especificación, cuya aplicación uniforme se considera conveniente por razones de seguridad, regularidad o eficiencia de la navegación aérea internacional, tratarán de ajustarse los Estados contratantes?",
+      "opciones": [
+        "A) Método recomendado.",
+        "B) Definiciones.",
+        "C) Norma."
+      ],
+      "respuesta": "A) Método recomendado.",
+      "referencia": "4.T104032. Módulo 1. Unidad 2. Apartado 2.2.1. Página 3.",
+      "explicacion": "El Método recomendado es toda especificación cuya aplicación uniforme se considera conveniente por razones de seguridad, regularidad o eficiencia de la navegación aérea internacional y a la cual tratarán de ajustarse los Estados contratantes."
+    },
+    {
+      "texto": "3. ¿Qué información se recoge en el Anexo 1 de la OACI?",
+      "opciones": [
+        "A) Normas sobre la realización del vuelo visual y del vuelo por instrumentos.",
+        "B) Otorgamiento, capacitación e instrucción exigible a un determinado personal aeronáutico.",
+        "C) Procedimientos para los servicios de navegación aérea."
+      ],
+      "respuesta": "B) Otorgamiento, capacitación e instrucción exigible a un determinado personal aeronáutico.",
+      "referencia": "4.T104032. Módulo 1. Unidad 2. Apartado 2.2.1. Página 4.",
+      "explicacion": "El Anexo 1, denominado LICENCIAS AL PERSONAL, trata sobre el otorgamiento y la capacitación e instrucción exigible a un determinado personal aeronáutico."
+    },
+    {
+      "texto": "4. ¿Cuál de los siguientes documentos comprende, en su mayor parte, procedimientos operacionales y disposiciones que se consideran demasiado detalladas para incluirlas en los Anexos?",
+      "opciones": [
+        "A) Documento 8400 (ABC).",
+        "B) Anexo 15.",
+        "C) Procedimientos para los Servicios de Navegación Aérea (PANS)."
+      ],
+      "respuesta": "C) Procedimientos para los Servicios de Navegación Aérea (PANS).",
+      "referencia": "4.T104032. Módulo 1. Unidad 2. Apartado 2.2.1. Página 5.",
+      "explicacion": "Los Procedimientos para los servicios de navegación aérea (PANS) comprenden procedimientos operacionales y disposiciones que se consideran demasiado detalladas para incluirlas en los Anexos."
+    },
+    {
+      "texto": "5. ¿Qué documento técnico de orientación publicado por la OACI pertenece al grupo AGA (Aeródromos, rutas aéreas y ayudas terrestres)?",
+      "opciones": [
+        "A) Manual de planificación de aeropuertos (Documento 9184).",
+        "B) RAC - Reglamento del aire y servicios de tránsito aéreo (Documento 4444).",
+        "C) OPS - Operaciones de aeronaves (Documento 8168)."
+      ],
+      "respuesta": "A) Manual de planificación de aeropuertos (Documento 9184).",
+      "referencia": "4.T104032. Módulo 1. Unidad 2. Apartado 2.2.1. Página 6.",
+      "explicacion": "El Documento 9184, Manual de planificación de aeropuertos, está incluido en el grupo AGA (Aeródromos, rutas aéreas y ayudas terrestres)."
+    },
+    {
+      "texto": "6. ¿Qué tipo de información se proporciona a los vuelos sobre áreas marítimas si el piloto lo solicita?",
+      "opciones": [
+        "A) Información detallada sobre las condiciones meteorológicas pronosticadas.",
+        "B) Distintivo de llamada de radio, posición, derrota verdadera y velocidad de las embarcaciones de superficie.",
+        "C) Servicios de búsqueda y salvamento disponibles en la región FIR/UIR."
+      ],
+      "respuesta": "B) Distintivo de llamada de radio, posición, derrota verdadera y velocidad de las embarcaciones de superficie.",
+      "referencia": "4.T104032. Módulo 1. Unidad 3. Apartado 3.2.1. Página 8.",
+      "explicacion": "Para los vuelos sobre áreas marítimas, si lo solicita el piloto, se proporciona toda información disponible sobre embarcaciones de superficie, como distintivo de llamada de radio, posición, derrota verdadera, velocidad, etc.."
+    },
+    {
+      "texto": "7. ¿Cuántas clases distintas de espacio aéreo se establecen en el Anexo 11 OACI, dependiendo del tipo de vuelo y de los servicios de tránsito aéreo que se prestan?",
+      "opciones": [
+        "A) Cinco clases (A, B, C, D y E).",
+        "B) Seis clases (A, B, C, D, E y F).",
+        "C) Siete clases (A, B, C, D, E, F y G)."
+      ],
+      "respuesta": "C) Siete clases (A, B, C, D, E, F y G).",
+      "referencia": "4.T104032. Módulo 1. Unidad 4. Apartado 4.4.1. Página 17.",
+      "explicacion": "El espacio aéreo español se clasifica, según lo establecido en el anexo 11 OACI, en siete clases distintas (A, B, C, D, E, F, y G)."
+    },
+    {
+      "texto": "8. En el espacio aéreo Clase D, ¿qué tipo de vuelos están separados de otros vuelos IFR y reciben información de tránsito respecto de todos los otros vuelos?",
+      "opciones": [
+        "A) Vuelos VFR y IFR no controlados.",
+        "B) Todos los vuelos IFR.",
+        "C) Únicamente vuelos VFR."
+      ],
+      "respuesta": "B) Todos los vuelos IFR.",
+      "referencia": "4.T104032. Módulo 1. Unidad 4. Apartado 4.4.1. Página 18.",
+      "explicacion": "En la Clase D se permiten vuelos IFR y VFR. Todos los vuelos están sujetos al Servicio de Control de Tránsito Aéreo, y los vuelos IFR están separados de otros vuelos IFR y reciben información de tránsito respecto de todos los otros vuelos."
+    },
+    {
+      "texto": "9. ¿Cuáles son los objetivos del estudio de los códigos aeronáuticos?",
+      "opciones": [
+        "A) Conocer los distintos códigos y los documentos que los recogen, comprender su importancia para la simplificación y facilitación de las comunicaciones, y estudiar su composición y uso en los documentos relacionados.",
+        "B) Conocer el Documento 8400 (Códigos y abreviaturas OACI) y el Documento 7910 (Indicadores de Lugar).",
+        "C) Estudiar la composición de los códigos de la OACI y de IATA para su uso en los Planes de Vuelo."
+      ],
+      "respuesta": "A) Conocer los distintos códigos y los documentos que los recogen, comprender su importancia para la simplificación y facilitación de las comunicaciones, y estudiar su composición y uso en los documentos relacionados.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Página 20.",
+      "explicacion": "Los objetivos de la Unidad 6 incluyen: Conocer los distintos códigos aeronáuticos utilizados y los documentos que los recogen; comprender la importancia para la simplificación y facilitación de las comunicaciones y el desempeño de las funciones; y estudiar la composición de estos códigos y su uso en los documentos relacionados."
+    },
+    {
+      "texto": "10. ¿Cuál es el grupo de clave de cuatro letras, formulado de acuerdo con las disposiciones prescritas por la OACI, y asignado al lugar geográfico en el que está situada una estación fija aeronáutica?",
+      "opciones": [
+        "A) Designadores de tipos de aeronaves (Doc. 8643).",
+        "B) Designadores de empresas explotadoras (Doc. 8585).",
+        "C) Indicadores de lugar (Doc. 7910)."
+      ],
+      "respuesta": "C) Indicadores de lugar (Doc. 7910).",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.3. Página 22.",
+      "explicacion": "El indicador de lugar es un grupo de clave de cuatro letras, formulado de acuerdo con las disposiciones prescritas por la OACI y asignado al lugar geográfico en el que está situada una estación fija aeronáutica."
+    },
+    {
+      "texto": "11. ¿Cuál es la composición del designador básico en un designador de rutas ATS normalizadas distintas de las de salida y llegada?",
+      "opciones": [
+        "A) Una letra seguida de un número del 1 al 99.",
+        "B) Una letra seguida de un número del 1 al 999.",
+        "C) Dos letras seguidas de un número del 1 al 999."
+      ],
+      "respuesta": "B) Una letra seguida de un número del 1 al 999.",
+      "referencia": "4.T104032. Módulo 1. Unidad 4. Apartado 1. Página 10.",
+      "explicacion": "El designador básico consiste en una letra del alfabeto seguida de un número del 1 al 999. Este designador tendrá como máximo 4 caracteres."
+    },
+    {
+      "texto": "12. ¿Qué indica la letra U cuando se añade como prefijo al designador básico de una ruta ATS?",
+      "opciones": [
+        "A) Que la ruta o parte de la ruta está establecida en el espacio aéreo superior.",
+        "B) Que la ruta está establecida para ser utilizada principalmente por helicópteros.",
+        "C) Que en la ruta o parte de ella solo se proporciona servicio de información de vuelo."
+      ],
+      "respuesta": "A) Que la ruta o parte de la ruta está establecida en el espacio aéreo superior.",
+      "referencia": "4.T104032. Módulo 1. Unidad 4. Apartado 1. Página 11.",
+      "explicacion": "La letra U se utilizará para indicar que la ruta o parte de la ruta está establecida en el espacio aéreo superior."
+    },
+    {
+      "texto": "13. ¿Cuál de los siguientes elementos forma parte del designador en clave de una ruta normalizada de salida o llegada?",
+      "opciones": [
+        "A) La palabra SALIDA o LLEGADA.",
+        "B) El indicador básico.",
+        "C) El nombre en clave del punto significativo donde termina o empieza la ruta."
+      ],
+      "respuesta": "C) El nombre en clave del punto significativo donde termina o empieza la ruta.",
+      "referencia": "4.T104032. Módulo 1. Unidad 4. Apartado 4. Página 16.",
+      "explicacion": "El designador en clave de una ruta normalizada de salida o llegada constará de: el nombre en clave del punto significativo en el que termina la ruta normalizada de salida o empieza la ruta normalizada de llegada, seguido del indicador de validez y el indicador de ruta."
+    },
+    {
+      "texto": "14. ¿Para qué usos se emplean fundamentalmente los designadores de aerolíneas IATA (de dos caracteres)?",
+      "opciones": [
+        "A) Reservas, programas de vuelos (timetable), billetes y tarifas.",
+        "B) Identificación de aeronaves en los planes de vuelo y mensajes de ATS.",
+        "C) Identificación de organismos gubernamentales que suministran servicios a la aviación civil."
+      ],
+      "respuesta": "A) Reservas, programas de vuelos (timetable), billetes y tarifas.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.2. Página 35.",
+      "explicacion": "Los designadores de aerolíneas (código IATA - sección 3 del ACD) se usan fundamentalmente para reservas, programas de vuelos (timetable), billetes, tarifas, conocimientos aéreos, publicaciones y telecomunicaciones entre aerolíneas."
+    },
+    {
+      "texto": "15. ¿Por cuántas letras está formado el designador de empresas explotadoras de aeronaves, entidades oficiales y servicios aeronáuticos de la OACI (Documento 8585)?",
+      "opciones": [
+        "A) Cuatro letras.",
+        "B) Tres letras.",
+        "C) Dos letras."
+      ],
+      "respuesta": "B) Tres letras.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.5. Página 30.",
+      "explicacion": "La OACI cambió los designadores de empresas explotadoras de aeronaves, entidades oficiales y servicios aeronáuticos a tres letras el 25 de octubre de 1987."
+    },
+    {
+      "texto": "16. La primera letra del indicador de lugar (Doc. 7910) está asignada a:",
+      "opciones": [
+        "A) El área de encaminamiento del Servicio fijo aeronáutico (AFS).",
+        "B) El estado o territorio dentro del cual está situado el lugar.",
+        "C) La dependencia ATS a la que está asignado el lugar."
+      ],
+      "respuesta": "A) El área de encaminamiento del Servicio fijo aeronáutico (AFS).",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.3. Página 23.",
+      "explicacion": "La primera letra del indicador de lugar será la letra asignada al área de encaminamiento del Servicio fijo aeronáutico (AFS), dentro de la cual está situado el lugar."
+    },
+    {
+      "texto": "17. ¿Cuál es la única excepción para la asignación de la primera letra de un indicador de lugar?",
+      "opciones": [
+        "A) Cuando el lugar está servido por un centro de comunicaciones fuera del estado.",
+        "B) Cuando el centro de comunicaciones y el lugar están en la misma FIR.",
+        "C) Cuando el lugar está servido únicamente por un solo centro de comunicaciones situado en otra área de encaminamiento de AFS."
+      ],
+      "respuesta": "C) Cuando el lugar está servido únicamente por un solo centro de comunicaciones situado en otra área de encaminamiento de AFS.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.3. Página 24.",
+      "explicacion": "La única excepción se da cuando el lugar esté servido únicamente por un sólo centro de comunicaciones situado en otra área de encaminamiento de AFS; en este caso, la primera letra será la asignada al área de dicho centro."
+    },
+    {
+      "texto": "18. Según la OACI, ¿a partir de qué masa máxima certificada de despegue se clasifica una aeronave con la categoría de estela turbulenta Pesada (H)?",
+      "opciones": [
+        "A) 7.000 kg o menos.",
+        "B) 136.000 kg o más.",
+        "C) Menos de 136.000 kg, pero más de 7.000 kg."
+      ],
+      "respuesta": "B) 136.000 kg o más.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.4. Página 30.",
+      "explicacion": "La categoría H (pesada) corresponde a todos los tipos de aeronaves de 136.000 kg (300.000 libras) o más."
+    },
+    {
+      "texto": "19. ¿Cuál es la masa máxima certificada de despegue que define a una aeronave de categoría de estela turbulenta Media (M)?",
+      "opciones": [
+        "A) Inferior a 136.000 kg, pero más de 7.000 kg.",
+        "B) 136.000 kg o más.",
+        "C) 7.000 kg o menos."
+      ],
+      "respuesta": "A) Inferior a 136.000 kg, pero más de 7.000 kg.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.4. Página 30.",
+      "explicacion": "La categoría M (media) corresponde a tipos de aeronaves de peso inferior a 136.000 kg (300.000 libras) pero superior a 7.000 kg."
+    },
+    {
+      "texto": "20. ¿Qué característica de las aeronaves influye directamente en la asignación del puesto de aparcamiento?",
+      "opciones": [
+        "A) Peso máximo al despegue (MTOW).",
+        "B) Longitud y envergadura.",
+        "C) Estela turbulenta."
+      ],
+      "respuesta": "B) Longitud y envergadura.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.3.2. Página 43.",
+      "explicacion": "Tanto la Longitud como la Envergadura de la aeronave inciden en el puesto de aparcamiento."
+    },
+    {
+      "texto": "21. ¿Qué serie de designadores de tres letras se atribuye solamente a organismos gubernamentales que suministran instalaciones y servicios a la aviación civil?",
+      "opciones": [
+        "A) Serie Z (excepto ZXA a ZXZ).",
+        "B) Los grupos reservados que los estados contratantes pueden asignar sin notificar a OACI.",
+        "C) Solamente la serie Y."
+      ],
+      "respuesta": "C) Solamente la serie Y.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.5. Página 32.",
+      "explicacion": "Se atribuye solamente la serie Y para organismos gubernamentales que suministran instalaciones y servicios a la aviación civil. La serie Z se atribuye a organismos gubernamentales que suministran servicios de tránsito aéreo."
+    },
+    {
+      "texto": "22. ¿Cuál es el formato de los designadores de tipos de aeronaves según el Documento 8643?",
+      "opciones": [
+        "A) Cuatro caracteres alfanuméricos fijos.",
+        "B) Dos caracteres alfabéticos seguidos de cuatro numéricos.",
+        "C) Mínimo dos caracteres y máximo cuatro alfanuméricos."
+      ],
+      "respuesta": "C) Mínimo dos caracteres y máximo cuatro alfanuméricos.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.4. Página 27.",
+      "explicacion": "Los designadores de tipos de aeronaves están formados por dos caracteres alfanuméricos como mínimo y cuatro como máximo."
+    },
+    {
+      "texto": "23. ¿Qué parte del Documento 8643 contiene los fabricantes de aeronaves por orden alfabético?",
+      "opciones": [
+        "A) Parte 1.",
+        "B) Parte 2 y 3.",
+        "C) Parte 4."
+      ],
+      "respuesta": "A) Parte 1.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.4. Página 27.",
+      "explicacion": "El Documento 8643 consta de cuatro partes, siendo la Parte 1 la que contiene los fabricantes de aeronaves por orden alfabético."
+    },
+    {
+      "texto": "24. ¿Con qué frecuencia se edita el ACD (Airline Coding Directory)?",
+      "opciones": [
+        "A) Una vez al año, con actualizaciones semestrales.",
+        "B) Mensualmente, con una edición anual de consolidación.",
+        "C) Tres veces al año (abril, agosto y diciembre), complementado con enmiendas mensuales."
+      ],
+      "respuesta": "C) Tres veces al año (abril, agosto y diciembre), complementado con enmiendas mensuales.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.1. Página 35.",
+      "explicacion": "El ACD se edita tres veces al año (abril, agosto y diciembre) y se complementa con enmiendas mensuales de actualización."
+    },
+    {
+      "texto": "25. ¿Qué criterio utiliza IATA para asignar un único designador general de aeronave?",
+      "opciones": [
+        "A) Una familia de aviones con una sección de fuselaje común y un servicio del mismo carácter.",
+        "B) Aeronaves que operan con distinta longitud de fuselaje y requieren diferentes designadores.",
+        "C) La capacidad máxima de pasajeros y el número de motores de la aeronave."
+      ],
+      "respuesta": "A) Una familia de aviones con una sección de fuselaje común y un servicio del mismo carácter.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.3. Página 37.",
+      "explicacion": "Se asignará un único designador general para una familia de aviones, con una sección de fuselaje común y un servicio del mismo carácter, utilizándose normalmente para la programación de vuelos y sistemas de reservas."
+    },
+    {
+      "texto": "26. ¿A qué corresponde la Categoría 'T' en los designadores de tipos de aeronave IATA?",
+      "opciones": [
+        "A) Motor alternativo (hélice).",
+        "B) Turbohélice.",
+        "C) Turborreactor."
+      ],
+      "respuesta": "B) Turbohélice.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.3. Página 38.",
+      "explicacion": "La Categoría T en IATA corresponde al Turbohélice."
+    },
+    {
+      "texto": "27. ¿En qué capítulo del Airline Coding Directory (ACD) se encuentran relacionados los países con sus correspondientes códigos ISO?",
+      "opciones": [
+        "A) Capítulo 10.",
+        "B) Capítulo 9.",
+        "C) Capítulo 11."
+      ],
+      "respuesta": "A) Capítulo 10.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.4. Página 38.",
+      "explicacion": "En el Capítulo 10 se encuentran relacionados los países con sus correspondientes códigos ISO (International Standard Organization)."
+    },
+    {
+      "texto": "28. ¿Cuál es el indicador de lugar utilizado fundamentalmente para localizar el área geográfica donde se encuentra el aeropuerto y se formula según la Resolución 763 de IATA?",
+      "opciones": [
+        "A) Indicador de lugar OACI (4 letras).",
+        "B) Código de País ISO (2 caracteres).",
+        "C) Indicador de lugar IATA (3 letras)."
+      ],
+      "respuesta": "C) Indicador de lugar IATA (3 letras).",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.5. Página 39.",
+      "explicacion": "El indicador de lugar IATA es un grupo de tres letras, formulado de acuerdo con la resolución 763 de IATA y asignado fundamentalmente al lugar donde está situado el aeropuerto."
+    },
+    {
+      "texto": "29. En el ejemplo de matrícula EC-DIA, ¿qué representa el prefijo EC?",
+      "opciones": [
+        "A) Marca común asignada por una autoridad de registro.",
+        "B) Marca de nacionalidad (España).",
+        "C) Marca de matrícula."
+      ],
+      "respuesta": "B) Marca de nacionalidad (España).",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.3.1. Página 42.",
+      "explicacion": "En el ejemplo EC-DIA, EC corresponde a la Marca de nacionalidad (España)."
+    },
+    {
+      "texto": "30. ¿Cuáles son las categorías correctas de tipos de aeronaves según el número de motores, conforme a las características que inciden en la actividad aeroportuaria?",
+      "opciones": [
+        "A) T (Monomotor), S (Bimotor), P (Trimotor).",
+        "B) 1 (Monomotor), 3 (Trimotor), 5 (Pentamotor).",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "C) Ninguna es correcta.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.1.4. Página 29.",
+      "explicacion": "Las clasificaciones por número de motores son: 1 (Monomotor), 2 (Bimotor), 3 (Trimotor), 4 (Cuatrimotor), 6 (Seis motores), 8 (Ocho motores). No se mencionan los 'Pentamotores'."
+    },
+    {
+      "texto": "31. Atendiendo a la organización y funcionamiento, ¿cómo puede clasificarse la facturación en un aeropuerto?",
+      "opciones": [
+        "A) Facturación de llegadas o facturación de salidas.",
+        "B) Facturación física o facturación virtual.",
+        "C) Facturación dedicada o facturación múltiple."
+      ],
+      "respuesta": "C) Facturación dedicada o facturación múltiple.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Facturación. Página 49.",
+      "explicacion": "Atendiendo a su organización y funcionamiento, la facturación puede ser: dedicada (mostradores específicos a determinadas aerolíneas o vuelos) o múltiple (se puede facturar cualquier vuelo desde los mostradores)."
+    },
+    {
+      "texto": "32. Además de ser segura, rápida y eficaz, ¿qué característica debe tener la operación en el lado tierra de un aeródromo, según los principios de OACI?",
+      "opciones": [
+        "A) Confortable.",
+        "B) Mecanizada.",
+        "C) Automatizada."
+      ],
+      "respuesta": "A) Confortable.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado 1. Página 47.",
+      "explicacion": "La operación, tanto en el lado aire como en el lado tierra, debe ser segura, rápida y eficaz. Además, en el lado tierra deberá ser confortable."
+    },
+    {
+      "texto": "33. ¿De qué color son los letreros con instrucciones obligatorias en el área de movimiento de un aeródromo?",
+      "opciones": [
+        "A) Amarillo con texto negro.",
+        "B) Rojo con texto blanco.",
+        "C) Negro con texto amarillo."
+      ],
+      "respuesta": "B) Rojo con texto blanco.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Letreros. Página 51.",
+      "explicacion": "Los letreros con instrucciones obligatorias son de color rojo con texto blanco."
+    },
+    {
+      "texto": "34. ¿De qué color son los letreros de información de dirección en el área de movimiento de un aeródromo?",
+      "opciones": [
+        "A) Rojo con texto blanco.",
+        "B) Negro con texto amarillo.",
+        "C) Amarillo con texto negro."
+      ],
+      "respuesta": "C) Amarillo con texto negro.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Letreros. Página 51.",
+      "explicacion": "Los letreros de información de dirección son de color amarillo con texto negro."
+    },
+    {
+      "texto": "35. ¿De qué color son las balizas de emplazamiento en el área de movimiento?",
+      "opciones": [
+        "A) Negro con texto amarillo.",
+        "B) Amarillo con texto negro.",
+        "C) Rojo con texto blanco."
+      ],
+      "respuesta": "A) Negro con texto amarillo.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Letreros. Página 51.",
+      "explicacion": "Las balizas de emplazamiento son de color negro con texto amarillo."
+    },
+    {
+      "texto": "36. ¿Qué se define como el comienzo de la parte de la pista utilizable para el aterrizaje?",
+      "opciones": [
+        "A) Zona de parada.",
+        "B) Umbral de pista.",
+        "C) Zona de toma de contacto."
+      ],
+      "respuesta": "B) Umbral de pista.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Umbral de Pista. Página 52.",
+      "explicacion": "El umbral de pista es el comienzo de la parte de la pista utilizable para el aterrizaje."
+    },
+    {
+      "texto": "37. ¿Cuál es el objeto principal de las líneas de viraje?",
+      "opciones": [
+        "A) Limitar el viraje de la aeronave dentro de la superficie designada, manteniéndola distanciada de los obstáculos.",
+        "B) Proporcionar una guía desde los puestos de estacionamiento hasta las calles de rodaje.",
+        "C) Indicar el punto de comienzo del viraje a la altura del puesto de pilotaje."
+      ],
+      "respuesta": "A) Limitar el viraje de la aeronave dentro de la superficie designada, manteniéndola distanciada de los obstáculos.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Líneas de Viraje. Página 54.",
+      "explicacion": "El objeto principal de estas líneas es limitar el viraje de la aeronave dentro de la superficie designada, de forma que ésta se mantenga distanciada de los obstáculos."
+    },
+    {
+      "texto": "38. La Barra de Viraje está situada a la izquierda en el sentido de la marcha y en ángulo recto con la línea de guía. ¿Qué indica esta barra?",
+      "opciones": [
+        "A) Indica el límite de la zona de seguridad para el repostaje de la aeronave.",
+        "B) Indica el punto de comienzo del viraje a la altura del puesto de pilotaje y visible desde éste.",
+        "C) Indica el punto de parada final de la aeronave para su posterior conexión a la pasarela telescópica."
+      ],
+      "respuesta": "B) Indica el punto de comienzo del viraje a la altura del puesto de pilotaje y visible desde éste.",
+      "referencia": "4.T104032. Módulo 2. Unidad 1. Apartado Barra de Viraje. Página 55.",
+      "explicacion": "La barra de viraje indica el punto de comienzo del viraje a la altura del puesto de pilotaje y visible desde éste."
+    },
+    {
+      "texto": "39. ¿Qué sistema indicador de pendiente de aproximación consiste en una barra de ala con cuatro elementos de lámparas múltiples situados a intervalos iguales?",
+      "opciones": [
+        "A) T-VASIS.",
+        "B) ILS (Instrument Landing System).",
+        "C) PAPI (Precision Approach Path Indicator)."
+      ],
+      "respuesta": "C) PAPI (Precision Approach Path Indicator).",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.3. Página 58.",
+      "explicacion": "El sistema PAPI (Precision Approach Path Indicator) consistirá en una barra de ala con cuatro elementos de lámparas múltiples situados a intervalos iguales."
+    },
+    {
+      "texto": "40. ¿Cuáles son las clasificaciones de las ayudas a la navegación?",
+      "opciones": [
+        "A) Instrumentales, Visuales y Otros tipos de ayudas.",
+        "B) Corta distancia, Media distancia y Larga distancia.",
+        "C) Radioayudas, Ayudas de iluminación y Sistemas de guía en rodaje."
+      ],
+      "respuesta": "A) Instrumentales, Visuales y Otros tipos de ayudas.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.1. Página 57.",
+      "explicacion": "Las ayudas a la navegación se clasifican en tres grupos distintos: Instrumentales, Visuales y Otros tipos de ayudas."
+    },
+    {
+      "texto": "41. ¿Dónde se debe colocar el sistema PAPI, a menos que sea materialmente imposible?",
+      "opciones": [
+        "A) A ambos lados de la pista, simétricamente.",
+        "B) Al lado derecho de la pista, si la pista es de Categoría I o II.",
+        "C) Al lado izquierdo de la pista."
+      ],
+      "respuesta": "C) Al lado izquierdo de la pista.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.3. Página 59.",
+      "explicacion": "El sistema se colocará al lado izquierdo de la pista, a menos que sea materialmente imposible."
+    },
+    {
+      "texto": "42. Cuando el piloto que realiza la aproximación con PAPI vea rojas las dos luces más cercanas a la pista y blancas las dos más alejadas, ¿en qué condición se encuentra?",
+      "opciones": [
+        "A) Se encuentra en la pendiente de aproximación o cerca de ella.",
+        "B) Se encuentra por debajo de la pendiente de aproximación.",
+        "C) Se encuentra por encima de la pendiente de aproximación."
+      ],
+      "respuesta": "A) Se encuentra en la pendiente de aproximación o cerca de ella.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.3. Página 59.",
+      "explicacion": "El piloto verá rojas las dos luces más cercanas a la pista y blancas las dos más alejadas, cuando se encuentre en la pendiente de aproximación o cerca de ella."
+    },
+    {
+      "texto": "43. ¿Qué sistema de ayuda visual indicadora de pendiente de aproximación consta de dos pares de 10 lámparas a ambos lados de la pista?",
+      "opciones": [
+        "A) PAPI.",
+        "B) T-VASIS.",
+        "C) ILS."
+      ],
+      "respuesta": "B) T-VASIS.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.3. Página 60.",
+      "explicacion": "El sistema T-VASIS consta de dos pares de 10 lámparas a ambos lados de la pista."
+    },
+    {
+      "texto": "44. ¿Qué sistema radar proporciona instrucciones a una aeronave para que pueda mantenerse exactamente alineada en el descenso para la aproximación final a la pista, utilizando medios orales?",
+      "opciones": [
+        "A) ILS (Instrument Landing System).",
+        "B) SSR (Radar Secundario de Vigilancia).",
+        "C) PAR (Radar de Precisión para la Aproximación)."
+      ],
+      "respuesta": "C) PAR (Radar de Precisión para la Aproximación).",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.2. Página 63.",
+      "explicacion": "El PAR (Radar de Precisión para la Aproximación) es un sistema radar que proporciona instrucciones a una aeronave para que pueda mantenerse exactamente alineada en el descenso para la aproximación final, y la información de guía se presenta al piloto sirviéndose del controlador (medios orales)."
+    },
+    {
+      "texto": "45. ¿Cuál es el modo de interrogación SSR utilizado para obtener automáticamente información de las aeronaves sobre su identificación?",
+      "opciones": [
+        "A) Modo A.",
+        "B) Modo S.",
+        "C) Modo C."
+      ],
+      "respuesta": "A) Modo A.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.2. Página 62.",
+      "explicacion": "El Modo A se utiliza para obtener automáticamente información de las aeronaves sobre su identificación."
+    },
+    {
+      "texto": "46. ¿Cuál es el modo de interrogación SSR utilizado para obtener automáticamente de las aeronaves información de altitud de presión?",
+      "opciones": [
+        "A) Modo A.",
+        "B) Modo S.",
+        "C) Modo C."
+      ],
+      "respuesta": "C) Modo C.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.2. Página 62.",
+      "explicacion": "El Modo C se utiliza para obtener automáticamente de las aeronaves información de altitud de presión."
+    },
+    {
+      "texto": "47. ¿Qué modo de interrogación SSR proporciona simultáneamente información sobre identificación, posición y altitud de una aeronave, y dispone de 16 millones de claves de respuesta?",
+      "opciones": [
+        "A) Modo C.",
+        "B) Modo S.",
+        "C) Modo A."
+      ],
+      "respuesta": "B) Modo S.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.2. Página 63.",
+      "explicacion": "El Modo S proporciona simultáneamente información sobre identificación, posición y altitud de una aeronave. Dispone de 16 millones de claves de respuesta."
+    },
+    {
+      "texto": "48. ¿A qué distancia del umbral se extiende una fila de luces situadas cada 30 metros en la prolongación del eje de pista, en los Sistemas de Iluminación de Aproximación de Categoría II y III?",
+      "opciones": [
+        "A) Hasta 900 metros.",
+        "B) Hasta 420 metros.",
+        "C) Hasta 270 metros."
+      ],
+      "respuesta": "A) Hasta 900 metros.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.3. Página 66.",
+      "explicacion": "Los Sistemas de iluminación de aproximación Categoría II y III consisten en una fila de luces situadas cada 30 metros en la prolongación del eje de pista que se extiende hasta 900 metros desde el umbral."
+    },
+    {
+      "texto": "49. ¿En qué leyes se basa el principio de funcionamiento de la Navegación Inercial (INS)?",
+      "opciones": [
+        "A) Las leyes de Newton sobre la gravitación y la cinemática.",
+        "B) Las leyes del electromagnetismo y la termodinámica.",
+        "C) Las leyes de la inercia y la mecánica."
+      ],
+      "respuesta": "C) Las leyes de la inercia y la mecánica.",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.1. Página 61.",
+      "explicacion": "El principio de funcionamiento de este sistema se encuentra en las leyes de la inercia y la mecánica, siendo capaz de calcular la velocidad de la aeronave, su posición y su altitud."
+    },
+    {
+      "texto": "50. ¿Qué sistema proporciona avisos de alerta al piloto sobre posibles conflictos entre aeronaves dotadas de transpondedores SSR?",
+      "opciones": [
+        "A) TCAS/ACAS (Traffic Alert & Collision Avoidance System).",
+        "B) NDB (Non Directional Beacon).",
+        "C) INS (Sistema de Navegación Inercial)."
+      ],
+      "respuesta": "A) TCAS/ACAS (Traffic Alert & Collision Avoidance System).",
+      "referencia": "4.T104032. Módulo 2. Unidad 2. Apartado 2.4.5. Página 72.",
+      "explicacion": "El sistema TCAS/ACAS proporciona avisos de alerta al piloto sobre posibles conflictos entre aeronaves dotadas de transpondedores SSR."
+    },
+    {
+      "texto": "51. Respecto a la técnica de transmisión oral, ¿qué acción se debe realizar para asegurar que se ha transmitido la totalidad del mensaje?",
+      "opciones": [
+        "A) Mantener una ligera pausa antes y después de transmitir números.",
+        "B) Evitar emitir sonidos en momentos de duda tales como humm o este.",
+        "C) Oprimir a fondo el interruptor de transmisión antes de empezar a hablar y no soltarlo hasta terminar el mensaje."
+      ],
+      "respuesta": "C) Oprimir a fondo el interruptor de transmisión antes de empezar a hablar y no soltarlo hasta terminar el mensaje.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.2. Página 70.",
+      "explicacion": "Antes de empezar a hablar, se oprimirá a fondo el interruptor de transmisión y no se soltará hasta terminar el mensaje, asegurando que se ha transmitido la totalidad."
+    },
+    {
+      "texto": "52. Según la OACI, ¿cuál es la pronunciación correcta en inglés para el número 9?",
+      "opciones": [
+        "A) NAI-na.",
+        "B) SIKS.",
+        "C) FO-ar."
+      ],
+      "respuesta": "A) NAI-na.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.3. Página 72.",
+      "explicacion": "La pronunciación establecida por OACI para el número 9 es NAI-na."
+    },
+    {
+      "texto": "53. ¿Cómo se transmitirán en inglés los centenares enteros, exceptuando los centenares, millares enteros y combinaciones de millares y centenares enteros?",
+      "opciones": [
+        "A) Pronunciando cada dígito por separado.",
+        "B) Pronunciando cada dígito del número de centenares seguido de la palabra JAN-dred.",
+        "C) Pronunciando la palabra ZAU-SAND seguida del número de centenares."
+      ],
+      "respuesta": "B) Pronunciando cada dígito del número de centenares seguido de la palabra JAN-dred.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.3. Página 73.",
+      "explicacion": "Los centenares enteros se transmitirán pronunciando cada dígito del número de centenares seguidos de la palabra JAN-dred, según el caso."
+    },
+    {
+      "texto": "54. ¿Cuándo se evitará el empleo de lenguaje claro en los mensajes AFTN?",
+      "opciones": [
+        "A) Cuando el mensaje contenga información de carácter administrativo.",
+        "B) Cuando la longitud del mensaje exceda los 1.800 caracteres de texto.",
+        "C) Cuando sea posible reducir el mensaje mediante el empleo de códigos y abreviaturas OACI."
+      ],
+      "respuesta": "C) Cuando sea posible reducir el mensaje mediante el empleo de códigos y abreviaturas OACI.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.1. Página 80.",
+      "explicacion": "Se emplearán las abreviaturas y códigos OACI siempre que sean adecuados y su uso simplifique y facilite las comunicaciones, es decir, se evitará el empleo de lenguaje claro cuando sea posible reducir éste."
+    },
+    {
+      "texto": "55. ¿Qué acción deben realizar las aeronaves con categoría de estela turbulenta pesada en las comunicaciones radiotelefónicas al hacer la llamada inicial a la torre de control de aeródromo o a la dependencia de control de aproximación?",
+      "opciones": [
+        "A) Incluir su número de registro completo después del distintivo de llamada.",
+        "B) Incluir la palabra PESADA inmediatamente después del distintivo de llamada de la aeronave.",
+        "C) Confirmar su masa máxima certificada de despegue (MTOW) antes de realizar la aproximación."
+      ],
+      "respuesta": "B) Incluir la palabra PESADA inmediatamente después del distintivo de llamada de la aeronave.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.3. Página 75.",
+      "explicacion": "Las comunicaciones radiotelefónicas las aeronaves con categoría de estela turbulenta pesada incluirán la palabra PESADA inmediatamente después del distintivo de llamada de la aeronave, al hacer la llamada inicial a la torre de control de aeródromo o a la dependencia de control de aproximación."
+    },
+    {
+      "texto": "56. ¿En qué anexo de la OACI se describen las características de un sistema VHF?",
+      "opciones": [
+        "A) Anexo 10, Telecomunicaciones Aeronáuticas.",
+        "B) Anexo 11, Servicios de Tránsito Aéreo.",
+        "C) Anexo 15, Servicios de Información Aeronáutica."
+      ],
+      "respuesta": "A) Anexo 10, Telecomunicaciones Aeronáuticas.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.4. Página 76.",
+      "explicacion": "Las características de un sistema VHF se describen en el Anexo 10 de OACI “Telecomunicaciones Aeronáuticas”."
+    },
+    {
+      "texto": "57. ¿Qué tipo de emisión se utiliza para las comunicaciones radiotelefónicas en frecuencias de más de 30 MHz?",
+      "opciones": [
+        "A) Modulación de frecuencia (FM) con banda ancha.",
+        "B) Portadora de onda interrumpida con Banda Estrecha (F3E).",
+        "C) Portadora de onda continua (CW) modulada en amplitud, con Banda estrecha (A3E)."
+      ],
+      "respuesta": "C) Portadora de onda continua (CW) modulada en amplitud, con Banda estrecha (A3E).",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.4. Página 76.",
+      "explicacion": "Las emisiones en las comunicaciones radiotelefónicas se harán con portadora de onda continua (CW) modulada en amplitud. Con Banda estrecha (A3E)."
+    },
+    {
+      "texto": "58. ¿Cuál es el propósito de la fraseología de OACI en las comunicaciones?",
+      "opciones": [
+        "A) Sustituir completamente el uso de lenguaje claro en todas las situaciones operacionales.",
+        "B) Asegurar que las comunicaciones sean eficientes, claras, concisas e inequívocas.",
+        "C) Permitir que las oficinas amplíen o complementen la fraseología con lenguaje claro a su discreción."
+      ],
+      "respuesta": "B) Asegurar que las comunicaciones sean eficientes, claras, concisas e inequívocas.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.2.5. Página 77.",
+      "explicacion": "La fraseología de OACI se ha concebido teniendo en cuenta que las comunicaciones han de ser eficientes, claras concisas e inequívocas."
+    },
+    {
+      "texto": "59. ¿Cuál de estos es un carácter permitido en los mensajes transmitidos por la AFTN?",
+      "opciones": [
+        "A) Raya de fracción (/).",
+        "B) Signo de almohadilla (#).",
+        "C) Signo de porcentaje (%)."
+      ],
+      "respuesta": "A) Raya de fracción (/).",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.1. Página 80.",
+      "explicacion": "Entre los caracteres permitidos se encuentran las letras A-Z, cifras 0-9 y otros signos como el guión, signo de interrogación, dos puntos, paréntesis, punto, coma, signo igual, apóstrofo, raya de fracción y signo más."
+    },
+    {
+      "texto": "60. ¿Cuál es el indicador de prioridad AFTN correcto para mensajes relativos al Plan de Vuelo (FPL)?",
+      "opciones": [
+        "A) SS.",
+        "B) GG.",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "C) Ninguna es correcta.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 84.",
+      "explicacion": "Los mensajes de tránsito aéreo, como el Plan de vuelo (FPL) y sus mensajes asociados, utilizan el indicador de prioridad FF."
+    },
+    {
+      "texto": "61. ¿Cuál es el indicador de prioridad AFTN que se debería emplear, según las directrices de EUROCONTROL, en todos los mensajes de cancelación de vuelo?",
+      "opciones": [
+        "A) GG.",
+        "B) DD.",
+        "C) FF."
+      ],
+      "respuesta": "B) DD.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 83.",
+      "explicacion": "El indicador DD corresponde a mensajes que justifiquen una especial prioridad y, tal y como marcan las directrices de EUROCONTROL, se debería emplear en todos los mensajes de cancelación de vuelo."
+    },
+    {
+      "texto": "62. ¿Qué indicador de prioridad AFTN se utiliza para los mensajes meteorológicos y mensajes relativos al Servicio de Información Aeronáutica?",
+      "opciones": [
+        "A) GG.",
+        "B) FF.",
+        "C) SS."
+      ],
+      "respuesta": "A) GG.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 84.",
+      "explicacion": "GG se utiliza para mensajes meteorológicos, mensajes relativos al Servicio de Información Aeronáutica y mensajes generales."
+    },
+    {
+      "texto": "63. ¿Qué designador de tres letras se utiliza en el Indicador de Destinatario (AFTN) para identificar al organismo de destino?",
+      "opciones": [
+        "A) Indicador de lugar OACI (4 letras).",
+        "B) Letra X o letra que represente el departamento.",
+        "C) Designador OACI (Doc 8585)."
+      ],
+      "respuesta": "C) Designador OACI (Doc 8585).",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 85.",
+      "explicacion": "El Indicador de destinatario incluye inmediatamente después de las cuatro primeras letras (indicador de lugar) el designador OACI de tres letras (recogido en el DOC 8585) que identifica al organismo de destino."
+    },
+    {
+      "texto": "64. Si se envía un mensaje AFTN a un organismo civil que no dispone de designador OACI de tres letras, ¿cuál se debe utilizar?",
+      "opciones": [
+        "A) ZZZ.",
+        "B) YYY.",
+        "C) YXY."
+      ],
+      "respuesta": "B) YYY.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 86.",
+      "explicacion": "Cuando se envíe un mensaje a un destinatario que no disponga de designador OACI de tres letras, se utilizará YYY para organismos civiles."
+    },
+    {
+      "texto": "65. ¿Cuál es el número máximo de indicadores de destinatario que puede llevar la línea de dirección de un mensaje AFTN?",
+      "opciones": [
+        "A) 21 indicadores.",
+        "B) 7 indicadores.",
+        "C) 3 indicadores."
+      ],
+      "respuesta": "A) 21 indicadores.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 86.",
+      "explicacion": "La dirección podrá llevar hasta tres líneas de indicadores de destinatario, y como cada línea puede llevar hasta 69 caracteres, el número máximo de indicadores de destinatario es de 21 (7 indicadores por línea)."
+    },
+    {
+      "texto": "66. ¿Cuál es la longitud máxima permitida para el texto de un mensaje AFTN?",
+      "opciones": [
+        "A) 2.100 caracteres.",
+        "B) 1.500 caracteres.",
+        "C) 1.800 caracteres."
+      ],
+      "respuesta": "C) 1.800 caracteres.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 89.",
+      "explicacion": "La longitud del texto no excederá de 1.800 caracteres, y la longitud total del mensaje no excederá de 2.100 caracteres."
+    },
+    {
+      "texto": "67. En el método para la división de mensajes AFTN excesivamente largos, ¿cómo debe terminar el último mensaje?",
+      "opciones": [
+        "A) //LAST PART XX//.",
+        "B) //END PART XX/XX//.",
+        "C) //FINAL PART//."
+      ],
+      "respuesta": "B) //END PART XX/XX//.",
+      "referencia": "4.T104032. Módulo 3. Unidad 1. Apartado 1.3.2. Página 92.",
+      "explicacion": "El fin del último mensaje dividido se indica mediante //END PART XX/XX//."
+    },
+    {
+      "texto": "68. ¿Cuáles son las funciones primarias del Servicio de Información Aeronáutica (AIS)?",
+      "opciones": [
+        "A) Recopilar, verificar, tratar, publicar y distribuir la información aeronáutica necesaria para la seguridad, regularidad y eficacia de las operaciones aéreas.",
+        "B) Elaborar el Plan de Vuelo Presentado (FPL) y el Plan de Vuelo Repetitivo (RPL).",
+        "C) Controlar el tránsito aéreo y la organización de afluencia de vuelos (ATFM)."
+      ],
+      "respuesta": "A) Recopilar, verificar, tratar, publicar y distribuir la información aeronáutica necesaria para la seguridad, regularidad y eficacia de las operaciones aéreas.",
+      "referencia": "4.T104032. Módulo 4. Unidad 1. Apartado 1.1. Página 95.",
+      "explicacion": "El AIS es el responsable de recopilar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, regularidad y eficacia de las operaciones aéreas."
+    },
+    {
+      "texto": "69. ¿Mediante qué publicación se proporciona la información permanente, que no es objeto de cambios frecuentes?",
+      "opciones": [
+        "A) NOTAM.",
+        "B) Suplementos al AIP (SUP).",
+        "C) Publicación de Información Aeronáutica (AIP)."
+      ],
+      "respuesta": "C) Publicación de Información Aeronáutica (AIP).",
+      "referencia": "4.T104032. Módulo 4. Unidad 1. Apartado 1.3. Página 98.",
+      "explicacion": "La información permanente es aquella que no es objeto de cambios frecuentes y se proporciona mediante un manual denominado Publicación de información aeronáutica (AIP)."
+    },
+    {
+      "texto": "70. El cambio de procedimientos de aproximación a un aeropuerto o el establecimiento de una radioayuda son ejemplos de:",
+      "opciones": [
+        "A) Información predecible.",
+        "B) Información impredecible.",
+        "C) Información urgente."
+      ],
+      "respuesta": "A) Información predecible.",
+      "referencia": "4.T104032. Módulo 4. Unidad 1. Apartado 1.3. Página 99.",
+      "explicacion": "Ejemplos de información predecible son: cambio de procedimientos de aproximación a un aeropuerto, establecimiento o eliminación de una radioayuda, etc.."
+    },
+    {
+      "texto": "71. ¿Cuál de los siguientes no forma parte de los elementos de la Documentación Integrada de Información Aeronáutica, tal como se compone inicialmente?",
+      "opciones": [
+        "A) Publicación de Información Aeronáutica (AIP).",
+        "B) Enmiendas al AIP (AMDT).",
+        "C) Boletines de Información Previa al Vuelo (PIB)."
+      ],
+      "respuesta": "C) Boletines de Información Previa al Vuelo (PIB).",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.1. Página 103.",
+      "explicacion": "La documentación integrada comprende: AIP, AMDT, SUP, NOTAM, Circulares de Información Aeronáutica (AIC), y Listas de Verificación y Sumarios. Aunque los PIB se obtienen de la información integrada, no son un elemento de publicación inicial."
+    },
+    {
+      "texto": "72. ¿Qué parte del AIP contiene información de carácter administrativo y explicativo, y está dividida en cinco secciones?",
+      "opciones": [
+        "A) AERÓDROMOS (AD).",
+        "B) GENERALIDADES (GEN).",
+        "C) EN RUTA (ENR)."
+      ],
+      "respuesta": "B) GENERALIDADES (GEN).",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.2. Página 106.",
+      "explicacion": "El apartado GENERALIDADES (GEN) consta de cinco secciones y contiene información de carácter administrativo y explicativo."
+    },
+    {
+      "texto": "73. ¿Qué parte del AIP contiene información relativa al espacio aéreo y su utilización, como la clasificación del espacio aéreo y los procedimientos de espera, aproximación y salida?",
+      "opciones": [
+        "A) EN RUTA (ENR).",
+        "B) GENERALIDADES (GEN).",
+        "C) AERÓDROMOS (AD)."
+      ],
+      "respuesta": "A) EN RUTA (ENR).",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.2. Página 108.",
+      "explicacion": "La parte ENR (En Ruta) contiene información relativa al espacio aéreo y su utilización, incluyendo reglas y procedimientos generales, clasificación del espacio aéreo, y procedimientos de espera, aproximación y salida."
+    },
+    {
+      "texto": "74. ¿Qué tipo de enmienda al AIP contiene información predecible de carácter permanente y de importancia para las operaciones, que entra en vigor en fecha posterior a la de su publicación y tiene portada verde?",
+      "opciones": [
+        "A) Enmienda Regular (AMDT).",
+        "B) Suplemento AIRAC (SUP).",
+        "C) Enmienda AIRAC."
+      ],
+      "respuesta": "C) Enmienda AIRAC.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.3. Página 111.",
+      "explicacion": "La Enmienda AIRAC contiene información predecible de carácter permanente y de importancia para las operaciones. Su información entra en vigor en fecha posterior a la de su publicación, y tiene portada de color verde."
+    },
+    {
+      "texto": "75. ¿De qué color se editan íntegramente los Suplementos Regulares?",
+      "opciones": [
+        "A) Rosa.",
+        "B) Verde.",
+        "C) Amarillo."
+      ],
+      "respuesta": "C) Amarillo.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.4. Página 115.",
+      "explicacion": "Los suplementos regulares se editan íntegramente en color amarillo."
+    },
+    {
+      "texto": "76. ¿Qué publicación del AIS se edita íntegramente en color rosa?",
+      "opciones": [
+        "A) Enmienda AIRAC.",
+        "B) Suplemento AIRAC.",
+        "C) Circular de Información Aeronáutica (AIC)."
+      ],
+      "respuesta": "B) Suplemento AIRAC.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.4. Página 115.",
+      "explicacion": "Los suplementos AIRAC se editan íntegramente en color rosa."
+    },
+    {
+      "texto": "77. ¿Cuál es la finalidad del Sistema AIRAC (Sistema reglamentado de publicación)?",
+      "opciones": [
+        "A) Asegurar la difusión de información urgente e impredecible.",
+        "B) Publicar cambios menores o editoriales en el AIP.",
+        "C) Permitir a los usuarios (compañías aéreas, ATC, etc.) disponer de tiempo para estudiar e incluir cambios importantes premeditados en sus documentos."
+      ],
+      "respuesta": "C) Permitir a los usuarios (compañías aéreas, ATC, etc.) disponer de tiempo para estudiar e incluir cambios importantes premeditados en sus documentos.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.2.5. Página 117.",
+      "explicacion": "El sistema AIRAC se emplea a fin de que los usuarios dispongan del tiempo necesario para estudiar e incluir dichos cambios en sus manuales de operaciones y documentos, a efectos de planificar correctamente los vuelos."
+    },
+    {
+      "texto": "78. ¿Qué tipo de información se divulga mediante una Circular de Información Aeronáutica (AIC)?",
+      "opciones": [
+        "A) Información de índole administrativa, explicativa o de asesoramiento que puede afectar a largo plazo a las operaciones.",
+        "B) Información temporal de larga duración (3 meses o más) con textos extensos.",
+        "C) Información urgente e impredecible relativa a instalaciones aeronáuticas."
+      ],
+      "respuesta": "A) Información de índole administrativa, explicativa o de asesoramiento que puede afectar a largo plazo a las operaciones.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.3.1. Página 120.",
+      "explicacion": "La AIC contiene principalmente información de índole administrativa, explicativa o de asesoramiento, que puede afectar, a largo plazo, a las operaciones."
+    },
+    {
+      "texto": "79. ¿Cuál es el principal propósito de los Boletines de Información Previa al Vuelo (PIB)?",
+      "opciones": [
+        "A) Servir como lista de verificación de los NOTAM vigentes y publicados.",
+        "B) Satisfacer las necesidades de información previa al vuelo de las tripulaciones.",
+        "C) Difundir información de carácter administrativo y explicativo para usuarios internacionales."
+      ],
+      "respuesta": "B) Satisfacer las necesidades de información previa al vuelo de las tripulaciones.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.3.2. Página 124.",
+      "explicacion": "Su principal finalidad es la de satisfacer las necesidades de información previa al vuelo de las tripulaciones."
+    },
+    {
+      "texto": "80. Respecto a la Lista de verificación NOTAM (NOTAM checklist), ¿qué afirmaciones son correctas?",
+      "opciones": [
+        "A) Ninguna es correcta.",
+        "B) Se expide semestralmente y contiene referencias a las últimas Circulares publicadas.",
+        "C) Es una lista numérica de NOTAM vigentes que se difunde únicamente por correo."
+      ],
+      "respuesta": "A) Ninguna es correcta.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.3.3. Página 125.",
+      "explicacion": "Se trata de una lista numérica de NOTAM vigentes que se caracteriza por su difusión a través del servicio fijo aeronáutico. Se expide una vez al mes y en ella se hace referencia a las últimas enmiendas al AIP, suplementos AIP y circulares publicadas."
+    },
+    {
+      "texto": "81. ¿Qué tipo de NOTAM se utiliza cuando la información contenida reemplaza o sustituye a la información de otro NOTAM previamente publicado?",
+      "opciones": [
+        "A) NOTAMN.",
+        "B) NOTAMC.",
+        "C) NOTAMR."
+      ],
+      "respuesta": "C) NOTAMR.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.1. Página 126.",
+      "explicacion": "NOTAMR es un NOTAM que contiene información que reemplaza o sustituye a la información contenida en otro NOTAM previamente publicado."
+    },
+    {
+      "texto": "82. ¿Qué ocurre cuando un NOTAM contiene errores?",
+      "opciones": [
+        "A) Se expedirá otro NOTAM con un número nuevo, que sustituya al NOTAM con errores.",
+        "B) Se corrige mediante un NOTAMC.",
+        "C) Se corrige mediante un mensaje de servicio SVC."
+      ],
+      "respuesta": "A) Se expedirá otro NOTAM con un número nuevo, que sustituya al NOTAM con errores.",
+      "referencia": "5.T1041245. Módulo 1. Unidad 1. Apartado 3.5. Página 495.",
+      "explicacion": "Cuando un NOTAM contenga errores, se expedirá otro NOTAM con un número nuevo, que sustituya al NOTAM con errores. No se emplearán correctas versiones."
+    },
+    {
+      "texto": "83. ¿Qué documento contiene la base para la asignación de los códigos NOTAM y los campos Tráfico y Objetivo de la línea de calificadores Q)?",
+      "opciones": [
+        "A) Documento 8400, Códigos y abreviaturas de OACI.",
+        "B) Criterios de Selección de NOTAM, incluidos en el DOC. 8126.",
+        "C) Anexo 15, Servicios de Información Aeronáutica."
+      ],
+      "respuesta": "B) Criterios de Selección de NOTAM, incluidos en el DOC. 8126.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 142.",
+      "explicacion": "Los Criterios de selección de NOTAM del DOC. 8126 son la base para la asignación de los códigos NOTAM y los campos Tráfico y Objetivo de la línea de calificadores."
+    },
+    {
+      "texto": "84. ¿A qué aeropuertos se refieren los NOTAM de la Serie B en España?",
+      "opciones": [
+        "A) Exclusivamente a aeropuertos con horario de operación H24.",
+        "B) Únicamente al archipiélago Canario y a Gibraltar.",
+        "C) A todos los aeropuertos listados en AIP-España, excepto los de la serie A y LXGB."
+      ],
+      "respuesta": "C) A todos los aeropuertos listados en AIP-España, excepto los de la serie A y LXGB.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 136.",
+      "explicacion": "La Serie B incluye NOTAM relativos a todos los aeropuertos listados en el AIP España, excepto los descritos en la serie A (H24) y el aeropuerto de Gibraltar (LXGB)."
+    },
+    {
+      "texto": "85. ¿Cuál es el propósito de la Línea de Calificadores Q) en el formato NOTAM?",
+      "opciones": [
+        "A) Permitir el tratamiento automático del NOTAM en bases de datos para su extracción en boletines (PIB), su inclusión en sumarios, etc.",
+        "B) Indicar el aeropuerto de origen y de destino de la incidencia notificada.",
+        "C) Describir la incidencia en lenguaje claro y en idioma inglés."
+      ],
+      "respuesta": "A) Permitir el tratamiento automático del NOTAM en bases de datos para su extracción en boletines (PIB), su inclusión en sumarios, etc.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 139.",
+      "explicacion": "La finalidad de la inserción del apartado Q) responde al tratamiento automático del NOTAM en bases de datos y facilita la búsqueda para su extracción en boletines (PIB)."
+    },
+    {
+      "texto": "86. ¿Cuáles son los criterios correctos para la composición del Código NOTAM (campo 2 de la Línea de Calificadores Q))?",
+      "opciones": [
+        "A) Todas son correctas.",
+        "B) La primera letra es siempre Q; la segunda y tercera indican el tipo de instalación/servicio/peligro.",
+        "C) La cuarta y quinta letras indican el estado de funcionamiento o las condiciones de peligro de la incidencia notificada."
+      ],
+      "respuesta": "A) Todas son correctas.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 142.",
+      "explicacion": "El código está compuesto según los siguientes criterios: la primera letra es siempre la Q; la segunda y tercera letras indican el tipo de instalación, servicio o peligro; y la cuarta y quinta letras indican el estado de funcionamiento o las condiciones de peligro."
+    },
+    {
+      "texto": "87. Si el objeto de un NOTAM no se encuentra definido en la lista de códigos NOTAM, ¿qué combinación de letras se utilizará para el código si la temática se relaciona con comunicaciones (COM)?",
+      "opciones": [
+        "A) QAGXX.",
+        "B) QCOXX.",
+        "C) QXXXX."
+      ],
+      "respuesta": "B) QCOXX.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 143.",
+      "explicacion": "Si el objeto del NOTAM no se encuentra definido, se utilizan códigos genéricos. QCOXX se utiliza para COM (Comunicaciones)."
+    },
+    {
+      "texto": "88. ¿Qué letras se utilizan en el campo 'Tráfico' (Campo 3) de la línea Q) para indicar que la información es de interés tanto para tráfico IFR como para tráfico VFR?",
+      "opciones": [
+        "A) O.",
+        "B) B.",
+        "C) IV."
+      ],
+      "respuesta": "C) IV.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 145.",
+      "explicacion": "IV se utiliza para información de interés para tráfico IFR/VFR."
+    },
+    {
+      "texto": "89. ¿Cómo se notifican preferentemente los cambios de importancia para las operaciones por actividad volcánica, erupciones o nubes de ceniza volcánica?",
+      "opciones": [
+        "A) En el formato ASHTAM, o en el código NOTAM y lenguaje claro.",
+        "B) Únicamente mediante la serie especial de NOTAM denominada ASHTAM.",
+        "C) Mediante un Suplemento AIRAC (SUP) debido a su carácter impredecible y urgente."
+      ],
+      "respuesta": "A) En el formato ASHTAM, o en el código NOTAM y lenguaje claro.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.1. Página 130.",
+      "explicacion": "La notificación de tales condiciones se efectuará preferiblemente en el formato ASHTAM, o en el código NOTAM y lenguaje claro."
+    },
+    {
+      "texto": "90. ¿Cuál de las siguientes combinaciones de la cuarta y quinta letras del código NOTAM se utiliza exclusivamente para un NOTAMC (NOTAM que cancela)?",
+      "opciones": [
+        "A) QN.",
+        "B) AC.",
+        "C) XX."
+      ],
+      "respuesta": "C) XX.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 144.",
+      "explicacion": "Las letras 4 y 5 del código NOTAM para un NOTAMC son AK, AL, AO, CC o XX."
+    },
+    {
+      "texto": "91. ¿Cuál es el formato del Apartado B) 'Comienzo de la incidencia' en el formato NOTAM?",
+      "opciones": [
+        "A) Grupo fecha hora de 8 dígitos (DDHHMMSS).",
+        "B) Grupo de 12 dígitos que incluye año, mes, día y hora UTC.",
+        "C) Grupo fecha-hora de 10 dígitos (AAMMDDHHMM)."
+      ],
+      "respuesta": "C) Grupo fecha-hora de 10 dígitos (AAMMDDHHMM).",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 150.",
+      "explicacion": "El Apartado B (Comienzo de la incidencia) consiste en un grupo fecha hora de 10 dígitos con la siguiente composición: (2) año - (2) mes - (2) día - (4) hora y minutos en UTC."
+    },
+    {
+      "texto": "92. El Apartado E) del formato NOTAM (Texto del NOTAM) debe incluir una descripción detallada de la incidencia en:",
+      "opciones": [
+        "A) Lenguaje claro y en idioma inglés.",
+        "B) Fraseología abreviada uniforme en español.",
+        "C) Códigos NOTAM cifrados."
+      ],
+      "respuesta": "A) Lenguaje claro y en idioma inglés.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 154.",
+      "explicacion": "El Apartado E) incluye una descripción detallada de la incidencia en lenguaje claro y en idioma inglés y se corresponde con el descifrado del código NOTAM."
+    },
+    {
+      "texto": "93. ¿Cuál es la finalidad del NOTAM checklist?",
+      "opciones": [
+        "A) Avisar a los usuarios sobre la reciente publicación de información AIRAC.",
+        "B) Permitir que los usuarios comprueben que los NOTAM que mantienen en vigor están en consonancia con los que mantienen las NOF.",
+        "C) Proporcionar un listado resumido de NOTAM en lenguaje claro enviado por correo."
+      ],
+      "respuesta": "B) Permitir que los usuarios comprueben que los NOTAM que mantienen en vigor están en consonancia con los que mantienen las NOF.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 156.",
+      "explicacion": "El NOTAM checklist (lista recapitulativa) tiene como fin que las AIO y demás usuarios puedan comprobar que los NOTAM en vigor están en consonancia con los que mantienen las NOF de cada país."
+    },
+    {
+      "texto": "94. ¿Qué tipo de NOTAM difunde la NOF con el fin de avisar a los usuarios sobre la reciente publicación de información de importancia operacional, generalmente publicada mediante AMDT o SUP AIRAC?",
+      "opciones": [
+        "A) NOTAMR.",
+        "B) NOTAMC.",
+        "C) Trigger NOTAM."
+      ],
+      "respuesta": "C) Trigger NOTAM.",
+      "referencia": "4.T104032. Módulo 4. Unidad 2. Apartado 2.4.2. Página 157.",
+      "explicacion": "El trigger NOTAM es un tipo especial de NOTAM que difunde la NOF con el fin de avisar a los usuarios sobre la reciente publicación de información de importancia operacional (AMDT o SUP AIRAC)."
+    },
+    {
+      "texto": "95. ¿Cuál de las siguientes no es una dependencia a través de la cual el AIS-ESPAÑA proporciona el servicio?",
+      "opciones": [
+        "A) Centro Coordinador de Salvamento (RCC).",
+        "B) Oficina NOTAM Internacional (NOF).",
+        "C) Oficinas de Información Aeronáutica (AIO) de los aeródromos."
+      ],
+      "respuesta": "A) Centro Coordinador de Salvamento (RCC).",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.1. Página 163.",
+      "explicacion": "El AIS se compone de: la División AIS (Servicios Centrales), la Oficina NOTAM internacional (NOF), las Oficinas de Información Aeronáutica (AIO) de los aeródromos, y los Centros de Control."
+    },
+    {
+      "texto": "96. ¿Qué elemento de la Documentación Integrada no es confeccionado por la División AIS (Servicios Centrales)?",
+      "opciones": [
+        "A) Enmiendas al AIP (AMDT).",
+        "B) Circulares de Información Aeronáutica (AIC).",
+        "C) NOTAM."
+      ],
+      "respuesta": "C) NOTAM.",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.2. Página 165.",
+      "explicacion": "La División AIS confecciona el AIP, AMDT, SUP, AIC y Listas de verificación. Los NOTAM, la Lista de verificación NOTAM y el Sumario literal de NOTAM son confeccionados por la NOF."
+    },
+    {
+      "texto": "97. ¿Cuál es la misión principal de la Oficina NOTAM Internacional (NOF) respecto a la Documentación Integrada?",
+      "opciones": [
+        "A) Confeccionar el AIP y sus Suplementos (SUP).",
+        "B) Confeccionar NOTAM, Lista de verificación NOTAM y Sumario literal de NOTAM.",
+        "C) Recopilar la información posterior al vuelo de las tripulaciones."
+      ],
+      "respuesta": "B) Confeccionar NOTAM, Lista de verificación NOTAM y Sumario literal de NOTAM.",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.3. Página 166.",
+      "explicacion": "En la NOF se confeccionan los siguientes elementos de la documentación integrada: NOTAM, Lista de verificación correspondiente (NOTAM checklist) y Sumario literal de NOTAM."
+    },
+    {
+      "texto": "98. ¿Qué zona geográfica debe cubrir la AIO con información aeronáutica?",
+      "opciones": [
+        "A) La FIR donde está situado el aeródromo, las FIR adyacentes y todas las rutas aéreas con origen en el aeródromo.",
+        "B) Exclusivamente la FIR donde está situado el aeródromo de despegue.",
+        "C) Solo hasta el punto del primer aterrizaje previsto."
+      ],
+      "respuesta": "A) La FIR donde está situado el aeródromo, las FIR adyacentes y todas las rutas aéreas con origen en el aeródromo.",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.4.2. Página 168.",
+      "explicacion": "Por lo general, la zona de cobertura incluye la región de información de vuelo (FIR) donde está situado el aeródromo, las regiones de información de vuelo adyacentes y todas las rutas aéreas que tengan como origen el aeródromo."
+    },
+    {
+      "texto": "99. ¿Qué información no aparece en los Boletines de Información Previa al Vuelo (PIB)?",
+      "opciones": [
+        "A) Información local de interés para el aeródromo.",
+        "B) Información publicada en las AIP ni en los Suplementos (SUP).",
+        "C) Selección de NOTAM en vigor."
+      ],
+      "respuesta": "B) Información publicada en las AIP ni en los Suplementos (SUP).",
+      "referencia": "5.T1041245. Módulo 1. Unidad 1. Apartado 3.8. Página 499.",
+      "explicacion": "Resaltar que en los boletines no aparece la información publicada en las AIP ni en los Suplementos."
+    },
+    {
+      "texto": "100. ¿En qué categorías se puede dividir la información de un Boletín de Información Previa al Vuelo (PIB) para facilitar su uso?",
+      "opciones": [
+        "A) Todas son correctas.",
+        "B) 'NAV WARNINGS' (Avisos para la Navegación).",
+        "C) 'GENERAL' (Información distinta a Avisos para la Navegación)."
+      ],
+      "respuesta": "A) Todas son correctas.",
+      "referencia": "5.T1041245. Módulo 1. Unidad 1. Apartado 3.8. Página 501.",
+      "explicacion": "Para facilitar el uso de los boletines, la información puede dividirse en dos categorías: 'NAV WARNINGS' (Avisos para la Navegación) y 'GENERAL' (Información distinta a Avisos para la Navegación)."
+    },
+    {
+      "texto": "101. ¿Qué Boletín de Información Previa al Vuelo (PIB) contiene una lista de NOTAM en vigor relativos a uno o más aeródromos (hasta un máximo de doce) dentro de un mismo FIR o FIRes diferentes?",
+      "opciones": [
+        "A) Boletín de Ruta Ajustada.",
+        "B) Boletín General.",
+        "C) Boletín de aeródromo."
+      ],
+      "respuesta": "C) Boletín de aeródromo.",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.4.3. Página 172.",
+      "explicacion": "El Boletín de aeródromo contiene una lista de NOTAM en vigor relativos a uno o más aeródromos (hasta un máximo de doce) dentro de un mismo FIR o FIRes diferentes."
+    },
+    {
+      "texto": "102. ¿Qué anchura de espacio aéreo se considera como 'Ruta Ajustada' respecto a la generación de boletines?",
+      "opciones": [
+        "A) La totalidad del FIR que sobrevuela la aeronave.",
+        "B) La franja de espacio aéreo que recorre un vuelo, tomando como anchura 10 NM (5 NM a cada lado del eje).",
+        "C) 20 NM (10 NM a cada lado del eje)."
+      ],
+      "respuesta": "B) La franja de espacio aéreo que recorre un vuelo, tomando como anchura 10 NM (5 NM a cada lado del eje).",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.4.3. Página 174.",
+      "explicacion": "Se entiende por ruta ajustada la franja de espacio aéreo que recorre un vuelo, tomando como anchura de la misma 10 NM (5 NM a cada lado del eje)."
+    },
+    {
+      "texto": "103. ¿En qué consiste la 'Información posterior al vuelo' recopilada por la AIO?",
+      "opciones": [
+        "A) Asegurar que cualquier deficiencia o incidencia sobre el estado y funcionamiento de las instalaciones de navegación aérea, observada por las tripulaciones, sea notificada a los servicios de información aeronáutica.",
+        "B) El informe final detallado del vuelo para alimentar bases de datos estadísticas.",
+        "C) El reporte de las horas reales de llegada y salida de la aeronave."
+      ],
+      "respuesta": "A) Asegurar que cualquier deficiencia o incidencia sobre el estado y funcionamiento de las instalaciones de navegación aérea, observada por las tripulaciones, sea notificada a los servicios de información aeronáutica.",
+      "referencia": "4.T104032. Módulo 4. Unidad 3. Apartado 3.4.4. Página 175.",
+      "explicacion": "El objeto de esta información es asegurar que cualquier deficiencia o incidencia, observada por las tripulaciones en el curso de sus operaciones, respecto al estado y funcionamiento de las instalaciones de navegación aérea, sea notificada a los servicios de información aeronáutica."
+    },
+    {
+      "texto": "104. En caso de una incidencia impredecible y temporal en el Servicio de Control de Torre, ¿quién debe comunicarlo a la AIO del aeropuerto?",
+      "opciones": [
+        "A) El Sector Regional de Mantenimiento, por escrito.",
+        "B) La División AIS, por escrito, fax o correo electrónico.",
+        "C) El Jefe de Torre o responsable, por escrito o teléfono protegido."
+      ],
+      "respuesta": "C) El Jefe de Torre o responsable, por escrito o teléfono protegido.",
+      "referencia": "5.T1041245. Módulo 1. Unidad 1. Apartado 4.2. Página 515.",
+      "explicacion": "El Jefe de Torre o responsable comunicará las incidencias por escrito o teléfono protegido a la AIO del aeropuerto."
+    },
+    {
+      "texto": "105. ¿Con cuánta antelación se deben presentar los planes de vuelo (FPL) para la totalidad del vuelo o la parte del mismo que se desee servicio de control o de asesoramiento de tránsito aéreo?",
+      "opciones": [
+        "A) Por lo menos 30 minutos antes de la salida.",
+        "B) Por lo menos 60 minutos antes de la salida.",
+        "C) Por lo menos 120 minutos antes de la salida."
+      ],
+      "respuesta": "B) Por lo menos 60 minutos antes de la salida.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 2.3. Página 593.",
+      "explicacion": "Para la totalidad del vuelo o la parte del mismo que se desee servicio de control o de asesoramiento de tránsito aéreo, el plan de vuelo deberá presentarse por lo menos 60 minutos antes de la salida."
+    },
+    {
+      "texto": "106. ¿Cómo se identifica la aeronave en la Casilla 7 (Identificación de la aeronave) del FPL?",
+      "opciones": [
+        "A) Máximo 7 caracteres alfanuméricos, sin incluir guiones ni símbolos.",
+        "B) La marca de matrícula precedida del designador telefónico OACI de la empresa explotadora de aeronaves, incluyendo un guion.",
+        "C) Un mínimo de 2 y un máximo de 4 caracteres alfanuméricos."
+      ],
+      "respuesta": "A) Máximo 7 caracteres alfanuméricos, sin incluir guiones ni símbolos.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 599.",
+      "explicacion": "Esta casilla contiene como máximo 7 caracteres alfanuméricos (no se insertarán guiones ni símbolos). Puede ser la marca de matrícula o el designador OACI de la empresa explotadora junto con la identificación del vuelo."
+    },
+    {
+      "texto": "107. ¿Qué indica la letra 'Y' en la primera sección de la Casilla 8 (Reglas de vuelo) del FPL?",
+      "opciones": [
+        "A) Vuelos IFR.",
+        "B) Vuelos VFR primero e IFR después.",
+        "C) Vuelos IFR primero y VFR después."
+      ],
+      "respuesta": "C) Vuelos IFR primero y VFR después.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 601.",
+      "explicacion": "La letra Y indica que son vuelos IFR primero y VFR después, debiéndose indicar el punto de cambio en la casilla 15."
+    },
+    {
+      "texto": "108. ¿Qué indica la letra 'S' en la segunda sección de la Casilla 8 (Tipo de vuelo) del FPL?",
+      "opciones": [
+        "A) Servicio aéreo regular.",
+        "B) Transporte aéreo no regular.",
+        "C) Aviación general."
+      ],
+      "respuesta": "A) Servicio aéreo regular.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 602.",
+      "explicacion": "La letra S indica que el vuelo es de servicio aéreo regular."
+    },
+    {
+      "texto": "109. Si en la Casilla 9 (Tipo de aeronave) se inserta ZZZZ, ¿dónde se especificará el tipo o tipos de aeronaves?",
+      "opciones": [
+        "A) Casilla 19, precedido de RMK/.",
+        "B) Casilla 18, precedido de TYP/.",
+        "C) Casilla 13, precedido de DEP/."
+      ],
+      "respuesta": "B) Casilla 18, precedido de TYP/.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 604.",
+      "explicacion": "En el caso de que la aeronave no tenga designador o si se trata de vuelos en formación que comprendan más de un tipo se indicará como ZZZZ, especificando en la casilla 18 el o los tipos de aeronaves precedidos de TYP/."
+    },
+    {
+      "texto": "110. ¿Qué indica la inclusión de la letra 'W' en la Casilla 10 (Equipo)?",
+      "opciones": [
+        "A) Aprobación para vuelo en espacio aéreo MNPS.",
+        "B) Aprobación para vuelo en espacio aéreo P-RNAV.",
+        "C) Aprobación para el vuelo en espacio aéreo RVSM."
+      ],
+      "respuesta": "C) Aprobación para el vuelo en espacio aéreo RVSM.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 610.",
+      "explicacion": "La inclusión de la letra W indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo RVSM (Separación Vertical Mínima Reducida)."
+    },
+    {
+      "texto": "111. Si se usa la letra 'Z' en la Casilla 10 (Equipo), ¿qué debe especificarse en la Casilla 18?",
+      "opciones": [
+        "A) Los niveles de navegación basada en la performance (PBN/).",
+        "B) Cualquier otro tipo de equipo o capacidades instalados a bordo, precedido por COM/, NAV y/o DAT/.",
+        "C) La matrícula de la aeronave, precedida de REG/."
+      ],
+      "respuesta": "B) Cualquier otro tipo de equipo o capacidades instalados a bordo, precedido por COM/, NAV y/o DAT/.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 611.",
+      "explicacion": "Si se usa la letra Z, se especifica en la casilla 18 cualquier otro tipo de equipo o capacidades instalados a bordo, precedido por COM/, NAV, y/o DAT/, según corresponda."
+    },
+    {
+      "texto": "112. Si en la Casilla 13 (Aeródromo de salida) se utiliza ZZZZ, ¿cómo se indica el nombre del aeródromo?",
+      "opciones": [
+        "A) Indicándose en la casilla 18 el nombre del aeródromo, precedido de DEP/.",
+        "B) Indicándose en la casilla 18 el indicador de lugar OACI de la dependencia ATS que pueda proporcionar datos suplementarios.",
+        "C) No es necesario indicar el nombre si se ha usado ZZZZ."
+      ],
+      "respuesta": "A) Indicándose en la casilla 18 el nombre del aeródromo, precedido de DEP/.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 613.",
+      "explicacion": "Si no se ha asignado indicador de lugar al aeródromo de salida (ZZZZ), se indicará en la casilla 18 el nombre del aeródromo, precedido de DEP/."
+    },
+    {
+      "texto": "113. ¿Cuál es el formato para indicar la altitud en decenas de metros en el FPL?",
+      "opciones": [
+        "A) A seguida de tres cifras.",
+        "B) VFR.",
+        "C) M seguida de cuatro cifras."
+      ],
+      "respuesta": "C) M seguida de cuatro cifras.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 614.",
+      "explicacion": "La altitud en decenas de metros se indica mediante la letra M seguida de cuatro cifras."
+    },
+    {
+      "texto": "114. ¿Cuántos caracteres se utilizan para expresar un punto significativo mediante grados y minutos en el FPL?",
+      "opciones": [
+        "A) Once caracteres.",
+        "B) Siete caracteres.",
+        "C) Cinco caracteres."
+      ],
+      "respuesta": "A) Once caracteres.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 615.",
+      "explicacion": "Cuando se expresa un punto significativo por grados y minutos, se utilizan once caracteres: 4 cifras (latitud N/S) y 5 cifras (longitud E/W), completando con ceros."
+    },
+    {
+      "texto": "115. ¿Cuál es el formato para indicar el ascenso en crucero en la Casilla 15 (Ruta) del FPL?",
+      "opciones": [
+        "A) La clave CLIMB/ seguida del punto de inicio y los niveles.",
+        "B) La letra C, seguida de una barra oblicua, punto de inicio, barra oblicua, velocidad y los niveles.",
+        "C) La palabra CRUISE, seguida de velocidad y niveles."
+      ],
+      "respuesta": "B) La letra C, seguida de una barra oblicua, punto de inicio, barra oblicua, velocidad y los niveles.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 618.",
+      "explicacion": "El ascenso en crucero se compone de la letra C, seguida de una barra oblicua (/); luego el punto en el que esté previsto iniciarlo, seguido de una barra oblicua; luego la velocidad y los dos niveles que determinan el bloque de niveles."
+    },
+    {
+      "texto": "116. Si el aeródromo de destino no tiene asignado un indicador de lugar, se incluye ZZZZ en la Casilla 16. ¿Qué debe hacerse a continuación?",
+      "opciones": [
+        "A) Incluir la duración total prevista del vuelo en la Casilla 19.",
+        "B) Incluir la duración total prevista inmediatamente después de ZZZZ, e indicar el nombre en la casilla 18 precedido de DEST/.",
+        "C) Indicar el nombre del aeródromo en la casilla 18, precedido de DEP/."
+      ],
+      "respuesta": "B) Incluir la duración total prevista inmediatamente después de ZZZZ, e indicar el nombre en la casilla 18 precedido de DEST/.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 628.",
+      "explicacion": "Si el aeródromo de destino no tuviera asignado indicador de lugar, se incluirá el grupo ZZZZ seguido, sin espacio, de la duración total prevista, indicándose a continuación, en la casilla 18, el nombre del aeródromo precedido de DEST/."
+    },
+    {
+      "texto": "117. ¿Qué indicador de la Casilla 18 es obligatorio en los FPL que se presenten con más de veinticuatro horas de antelación?",
+      "opciones": [
+        "A) DOF/ (Fecha de salida del vuelo).",
+        "B) REG/ (Matrícula de la aeronave).",
+        "C) EET/ (Estimación de tiempo en ruta)."
+      ],
+      "respuesta": "A) DOF/ (Fecha de salida del vuelo).",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 629.",
+      "explicacion": "Es obligatoria la inserción del indicador DOF/ (Fecha de salida del vuelo) en los FPL que se presenten con más de veinticuatro horas de antelación a la EOBT."
+    },
+    {
+      "texto": "118. ¿Cómo se indica la autonomía de combustible en la Casilla 19 (Información suplementaria) del FPL?",
+      "opciones": [
+        "A) P/ seguido del número total de personas.",
+        "B) E/ seguido de un grupo de cuatro cifras para indicar la autonomía en horas y minutos.",
+        "C) R/ seguido de los medios de comunicación por radio disponibles."
+      ],
+      "respuesta": "B) E/ seguido de un grupo de cuatro cifras para indicar la autonomía en horas y minutos.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 636.",
+      "explicacion": "La autonomía se indica mediante E/ seguido de un grupo de cuatro cifras para indicar la autonomía de combustible en horas y minutos."
+    },
+    {
+      "texto": "119. ¿Cuál es el requisito de demora de la hora prevista de fuera de calzos (EOBT) para que se transmita un mensaje DLA (Demora) en un vuelo IFR sin SLOT asignado?",
+      "opciones": [
+        "A) Más de 15 minutos.",
+        "B) Más de 30 minutos.",
+        "C) Más de 60 minutos."
+      ],
+      "respuesta": "A) Más de 15 minutos.",
+      "referencia": "4.T104032. Módulo 5. Unidad 1. Apartado 1.5. Página 236.",
+      "explicacion": "Se transmitirá un mensaje DLA cuando la salida de la aeronave para la cual se haya presentado un plan de vuelo (FPL o RPL) tenga una demora respecto a la EOBT de más de 15' para un vuelo IFR sin SLOT asignado."
+    },
+    {
+      "texto": "120. ¿Qué campos del FPL son considerados NO MODIFICABLES cuando se utiliza un Mensaje de Modificación (CHG) para su tratamiento por el IFPS?",
+      "opciones": [
+        "A) Reglas de Vuelo (Casilla 8).",
+        "B) Ruta (Casilla 15).",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "C) Ninguna es correcta.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 5.9. Página 685.",
+      "explicacion": "Los campos no modificables que respeta el IFPS son: Identificación de la aeronave, Aeródromo de despegue, Aeródromo de Destino y Estimada Fuera Calzos (EOBT). Todas las opciones (A, B, C) son, por tanto, campos modificables mediante un mensaje CHG."
+    },
+    {
+      "texto": "121. ¿Qué mensaje se utiliza cuando una dependencia ATS desea obtener datos del plan de vuelo suplementario?",
+      "opciones": [
+        "A) SPL.",
+        "B) RQP.",
+        "C) RQS."
+      ],
+      "respuesta": "C) RQS.",
+      "referencia": "4.T104032. Módulo 5. Unidad 1. Apartado 1.5. Página 242.",
+      "explicacion": "Cuando una dependencia ATS desee obtener datos del plan de vuelo suplementario, transmitirá un mensaje RQS (Solicitud de Plan de Vuelo Suplementario) a la ARO."
+    },
+    {
+      "texto": "122. ¿Cuál es la fase de emergencia en la que se abriga temor por la seguridad de una aeronave y de sus ocupantes?",
+      "opciones": [
+        "A) Fase de incertidumbre (INCERFA).",
+        "B) Fase de alerta (ALERFA).",
+        "C) Fase de peligro (DETRESFA)."
+      ],
+      "respuesta": "B) Fase de alerta (ALERFA).",
+      "referencia": "5.T1041245. Módulo 2. Unidad 1. Apartado 5.4. Página 587.",
+      "explicacion": "La Fase de alerta (ALERFA) es la situación en la cual se abriga temor por la seguridad de una aeronave y de sus ocupantes."
+    },
+    {
+      "texto": "123. ¿En qué casos se transmite un mensaje de llegada (ARR) para vuelos IFR?",
+      "opciones": [
+        "A) Cuando lo solicite el operador de compañía o una dependencia ATS, o cuando se aterrice en el aeródromo de alternativa o en otro distinto al de destino.",
+        "B) Únicamente cuando la aeronave vuele de acuerdo a las reglas de vuelo visual.",
+        "C) Inmediatamente después de la llegada, si el destino y el origen coinciden."
+      ],
+      "respuesta": "A) Cuando lo solicite el operador de compañía o una dependencia ATS, o cuando se aterrice en el aeródromo de alternativa o en otro distinto al de destino.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 4.2. Página 642.",
+      "explicacion": "Para vuelos IFR, se transmitirá un mensaje ARR cuando lo solicite el operador de compañía, una dependencia ATS, o cuando se aterrice en el aeródromo de alternativa o en otro distinto al de destino."
+    },
+    {
+      "texto": "124. ¿Cómo se denomina a la unidad de EUROCONTROL ubicada en Bruselas que presta un servicio centralizado de Control de Afluencia de Tránsito Aéreo (ATFM) en el área ECAC?",
+      "opciones": [
+        "A) FMD (División de Gestión de Afluencia).",
+        "B) FDOD (División de Operaciones de Datos de Vuelo).",
+        "C) NMOC (Network Manager Operations Centre)."
+      ],
+      "respuesta": "C) NMOC (Network Manager Operations Centre).",
+      "referencia": "4.T104032. Módulo 5. Unidad 1. Apartado 1.1. Página 177.",
+      "explicacion": "En octubre de 1988 se decidió crear en Bruselas una Unidad Central de Gestión de Afluencia (CFMU), ahora denominada NMOC, para proporcionar un servicio centralizado de Control de Afluencia del Tráfico Aéreo (ATFM)."
+    },
+    {
+      "texto": "125. ¿Cuáles son las tres fases en las que se divide la Gestión de Afluencia del Tránsito Aéreo (ATFM)?",
+      "opciones": [
+        "A) Planificación, Coordinación y Ejecución.",
+        "B) Estratégica, Pre-Táctica y Táctica.",
+        "C) Corto plazo, Medio plazo y Largo plazo."
+      ],
+      "respuesta": "B) Estratégica, Pre-Táctica y Táctica.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 3. Apartado 1.2. Página 688.",
+      "explicacion": "La Gestión ATFM consta de tres fases: Gestión Estratégica, Gestión Pre-Táctica y Gestión Táctica."
+    },
+    {
+      "texto": "126. ¿Con cuánta antelación se deben enviar los Planes de Vuelo al IFPS, siempre que sea posible, si están afectados por medidas ATFM?",
+      "opciones": [
+        "A) Al menos con tres horas de antelación a la EOBT.",
+        "B) Al menos con 60 minutos de antelación a la EOBT.",
+        "C) Con una antelación mínima de 24 horas a la EOBT."
+      ],
+      "respuesta": "A) Al menos con tres horas de antelación a la EOBT.",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1. Página 249.",
+      "explicacion": "Los planes de vuelo afectados por medidas ATFM se presentarán al IFPS, siempre que sea posible, al menos con tres horas de antelación a la hora prevista de fuera calzos (EOBT)."
+    },
+    {
+      "texto": "127. ¿Qué categorías de vuelos están excluidos de las medidas ATFM?",
+      "opciones": [
+        "A) Todas son correctas.",
+        "B) Vuelos que transporten a jefes de estado.",
+        "C) Vuelos en situación de emergencia o en misiones de búsqueda y salvamento."
+      ],
+      "respuesta": "A) Todas son correctas.",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1. Página 251.",
+      "explicacion": "Están excluidos de las medidas ATFM los vuelos en situación de emergencia, vuelos médicos/ambulancias (cuando estén en juego vidas humanas) y vuelos en misiones de búsqueda y salvamento. Aunque los vuelos que transportan jefes de estado tienen prioridad, también están sujetos a medidas ATFM."
+    },
+    {
+      "texto": "128. Si una aeronave de Estado opera en espacio aéreo RVSM como Tránsito Aéreo General (GAT), ¿qué indicador deberá insertar en la Casilla 18 si no insertó la letra W en la Casilla 10?",
+      "opciones": [
+        "A) STS/NONMNPS.",
+        "B) STS/NONRVSM.",
+        "C) REG/."
+      ],
+      "respuesta": "B) STS/NONRVSM.",
+      "referencia": "5.T1041245. Módulo 2. Unidad 2. Apartado 3. Página 610.",
+      "explicacion": "Los explotadores de vuelos en formación de aeronaves de Estado no insertarán la letra W en la casilla 10; cuando tengan la intención de efectuar operaciones dentro del espacio aéreo RVSM como GAT, insertarán el indicador STS/NONRVSM en la casilla 18."
+    },
+    {
+      "texto": "129. ¿Qué estructuras flexibles del espacio aéreo se dividen en tres categorías en función de su posible utilización en los planes de vuelo?",
+      "opciones": [
+        "A) Áreas temporalmente segregadas (TSA).",
+        "B) Puntos Significativos de Re-encaminamiento (RRP).",
+        "C) Rutas Condicionales (CDR)."
+      ],
+      "respuesta": "C) Rutas Condicionales (CDR).",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.2.2. Página 276.",
+      "explicacion": "Las Rutas Condicionales (CDR) se dividen en tres categorías, en función de su posible utilización en los planes de vuelo."
+    },
+    {
+      "texto": "130. ¿Qué categoría de Rutas Condicionales (CDR) se establece en la fase estratégica (nivel 1) y está disponible la mayor parte del tiempo, permitiendo su planificación permanente en RPL y FPL?",
+      "opciones": [
+        "A) CDR 1.",
+        "B) CDR 2.",
+        "C) CDR 3."
+      ],
+      "respuesta": "A) CDR 1.",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.2.2. Página 276.",
+      "explicacion": "Las CDR 1 se establecen en la fase estratégica (nivel 1) y están disponibles la mayor parte del tiempo, por lo que se pueden planificar permanentemente en los planes de vuelo (RPL y FPL)."
+    },
+    {
+      "texto": "131. ¿En qué fase de gestión se gestionan las Rutas Condicionales (CDR) de Categoría 2, que no se pueden planificar permanentemente?",
+      "opciones": [
+        "A) Nivel 3: Táctica.",
+        "B) Nivel 2: Pretáctica.",
+        "C) Nivel 1: Estratégica."
+      ],
+      "respuesta": "B) Nivel 2: Pretáctica.",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.2.2. Página 277.",
+      "explicacion": "Las CDR 2 se gestionan en la fase pretáctica (nivel 2) y no se pueden planificar permanentemente."
+    },
+    {
+      "texto": "132. ¿Qué mensaje utiliza el NMOC para difundir información sobre medidas ATFM o condiciones que puedan estar relacionadas con la gestión de afluencia de tránsito aéreo, aparte del RAD y el ANM?",
+      "opciones": [
+        "A) Mensaje de Reencaminamiento Provisional (RRP).",
+        "B) Mensaje de Asignación de Slot (SAM).",
+        "C) Mensaje de Información ATFM (AIM)."
+      ],
+      "respuesta": "C) Mensaje de Información ATFM (AIM).",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1.2. Página 257.",
+      "explicacion": "La FMD proporciona información a los usuarios sobre las medidas ATFM y otras condiciones mediante el mensaje de información ATFM (AIM)."
+    },
+    {
+      "texto": "133. ¿Qué mensaje, enviado por el sistema TACT/CASA, notifica el slot ATFM mediante una asignación pasiva?",
+      "opciones": [
+        "A) SAM (Slot Allocation Message).",
+        "B) SRM (Slot Revision Message).",
+        "C) SIP (Slot Improvement Proposal)."
+      ],
+      "respuesta": "A) SAM (Slot Allocation Message).",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1. Página 250.",
+      "explicacion": "El sistema TACT/CASA notifica el slot ATFM mediante un mensaje de asignación de slot llamado SAM (Slot Allocation Message). El envío es automático y se considera asignación pasiva."
+    },
+    {
+      "texto": "134. ¿Qué mensaje envía el TACT/CASA al Operador de Aeronave (AO) para proponer una mejora del CTOT asignado previamente?",
+      "opciones": [
+        "A) SRM (Slot Revision Message).",
+        "B) SIP (Slot Improvement Proposal).",
+        "C) SAM (Slot Allocation Message)."
+      ],
+      "respuesta": "B) SIP (Slot Improvement Proposal).",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1.2. Página 264.",
+      "explicacion": "SIP (Slot Improvement Proposal) es el mensaje que envía el TACT/CASA al AO para proponer una mejora del CTOT asignado previamente."
+    },
+    {
+      "texto": "135. ¿Qué mensaje origina el Operador de Aeronave (AO) para indicar que acepta la propuesta de mejora de slot recibida con el mensaje SIP?",
+      "opciones": [
+        "A) SPA (Slot Proposal Acceptance).",
+        "B) SRJ (Slot Revision Reject).",
+        "C) SMM (Slot Modification Message)."
+      ],
+      "respuesta": "A) SPA (Slot Proposal Acceptance).",
+      "referencia": "4.T104032. Módulo 5. Unidad 3. Apartado 2.1.2. Página 268.",
+      "explicacion": "SPA (Slot Proposal Acceptance) es el mensaje que origina el AO para indicar que acepta la propuesta de mejora de slot que ha recibido con el mensaje SIP."
+    },
+    {
+      "texto": "136. ¿Qué factores son cruciales a la hora de establecer los criterios de asignación de medios en un aeropuerto?",
+      "opciones": [
+        "A) El número de aeronaves militares y los acuerdos bilaterales de tráfico.",
+        "B) La complejidad del aeropuerto y el nivel de informatización de sus sistemas.",
+        "C) Las características particulares de cada aeropuerto, como tipo de tráficos, disponibilidad de medios y estacionalidad."
+      ],
+      "respuesta": "C) Las características particulares de cada aeropuerto, como tipo de tráficos, disponibilidad de medios y estacionalidad.",
+      "referencia": "4.T104032. Módulo 6. Unidad 2. Apartado 2.1. Página 300.",
+      "explicacion": "Los criterios de asignación varían de unos aeropuertos a otros dependiendo de sus características particulares (disponibilidad de medios, tipo de tráficos, estacionalidad, características físicas del aeropuerto, etc.)."
+    },
+    {
+      "texto": "137. ¿Qué principio se consigue a base de hacer públicas las decisiones y admitir la participación de todos los implicados en el proceso de definir los criterios de asignación de medios?",
+      "opciones": [
+        "A) Neutralidad.",
+        "B) Transparencia.",
+        "C) Imparcialidad."
+      ],
+      "respuesta": "B) Transparencia.",
+      "referencia": "6.T1041239. Unidad 1. Apartado 5.3. Página 721.",
+      "explicacion": "La Transparencia se consigue a base de hacer públicas las decisiones y admitir la participación de todos los implicados en el proceso de definir los criterios de asignación de medios."
+    },
+    {
+      "texto": "138. ¿Qué elementos principales debe contener la estructura de un procedimiento operacional?",
+      "opciones": [
+        "A) Actores o responsables, procesos o relación entre actividades, y un medio de registro de casos.",
+        "B) La lista de contingencias, el Plan de Mando y el organigrama funcional.",
+        "C) El manual de operaciones y el listado de medios."
+      ],
+      "respuesta": "A) Actores o responsables, procesos o relación entre actividades, y un medio de registro de casos.",
+      "referencia": "4.T104032. Módulo 6. Unidad 3. Apartado 3.2. Página 319.",
+      "explicacion": "Los elementos que debe contener un procedimiento operacional son: Actores o responsables, Procesos o relación entre actividades, y la descripción del modo de actuación, entre otros, incluyendo un medio de registro de casos."
+    },
+    {
+      "texto": "139. ¿Con qué periodicidad máxima debería someterse a pruebas generales de emergencia el Plan de Emergencia del aeropuerto, a fin de verificar todas las instalaciones y servicios?",
+      "opciones": [
+        "A) Cada año.",
+        "B) Cada tres años.",
+        "C) Cada cinco años."
+      ],
+      "respuesta": "C) Ninguna es correcta.",
+      "referencia": "4.T104032. Módulo 6. Unidad 4. Apartado 4.2. Página 323.",
+      "explicacion": "El Plan de emergencia del aeropuerto debería someterse a pruebas generales de emergencia, a fin de verificar todas las instalaciones y servicios y dependencias conexas, a intervalos que no excedan de dos años."
+    },
+    {
+      "texto": "140. ¿Qué tipo de información contiene el ACD (Airline Coding Directory)?",
+      "opciones": [
+        "A) Nuevas aerolíneas, designadores, identificadores de lugar, etc.",
+        "B) Información administrativa y explicativa sobre el Reglamento del Aire.",
+        "C) Lista numérica de NOTAM vigentes."
+      ],
+      "respuesta": "A) Nuevas aerolíneas, designadores, identificadores de lugar, etc.",
+      "referencia": "4.T104032. Módulo 1. Unidad 6. Apartado 6.2.1. Página 35.",
+      "explicacion": "El ACD se complementa con enmiendas mensuales de actualización, que contienen información como nuevas aerolíneas, designadores, identificadores de lugar, etc.."
+    },
+    {
+      "texto": "141. ¿Cómo se calcula la Tasa de Aterrizaje en los aeropuertos gestionados por Aena SME S.A.?",
+      "opciones": [
+        "A) Multiplicando el peso máximo al despegue (MTOW) por el coeficiente unitario y el tiempo de estacionamiento.",
+        "B) Sumando la Tasa de aterrizaje y la Tasa de Servicio de tránsito de aeródromo.",
+        "C) En función del tipo de aeronave y la distancia del vuelo."
+      ],
+      "respuesta": "B) Sumando la Tasa de aterrizaje y la Tasa de Servicio de tránsito de aeródromo.",
+      "referencia": "4.T104032. Módulo 7. Unidad 1. Apartado 1.1. Página 332.",
+      "explicacion": "La TASA DE ATERRIZAJE se calcula como la suma de la Tasa de aterrizaje más la Tasa de Servicio de tránsito de aeródromo."
+    },
+    {
+      "texto": "142. ¿Cuál es el porcentaje de reducción en las cuantías de pasajeros y seguridad aplicables a los pasajeros en conexión?",
+      "opciones": [
+        "A) 25%.",
+        "B) 40%.",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "B) 40%.",
+      "referencia": "4.T104032. Módulo 7. Unidad 1. Apartado 1.4. Página 336.",
+      "explicacion": "Las cuantías de pasajeros y seguridad aplicables a los pasajeros en conexión se reducirán en un 40%."
+    },
+    {
+      "texto": "143. ¿Qué modos de trabajo incluye el Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios (SADAMA)?",
+      "opciones": [
+        "A) Real, simulación, planificación e histórico.",
+        "B) Simulación, planificación, mantenimiento y control.",
+        "C) Automático, manual y de emergencia."
+      ],
+      "respuesta": "A) Real, simulación, planificación e histórico.",
+      "referencia": "4.T104032. Módulo 7. Unidad 3. Apartado 3.1.2. Página 355.",
+      "explicacion": "El SADAMA trabaja en cuatro modos básicos: Modo real, Modo simulación, Modo planificación y Modo histórico."
+    },
+    {
+      "texto": "144. ¿Qué aplicación informática es la base de datos operacionales del aeropuerto, que gestiona los datos precisos para el control operativo y la facturación, y elabora la programación diaria?",
+      "opciones": [
+        "A) SADAMA.",
+        "B) SCENA.",
+        "C) ICARO XXI."
+      ],
+      "respuesta": "B) SCENA.",
+      "referencia": "4.T104032. Módulo 7. Unidad 3. Apartado 3.1.1. Página 350.",
+      "explicacion": "SCENA (Sistemas Cooperativos para el Entorno Aeroportuario) es la aplicación que realiza fundamentalmente la elaboración de la programación diaria, el control de las operaciones (registro de datos operativos), el registro de datos administrativos, y la elaboración de estadísticas."
+    },
+    {
+      "texto": "145. En la facturación al contado en las Oficinas de Operaciones, ¿en función de qué varía la tarifa de aterrizaje general?",
+      "opciones": [
+        "A) El número de pasajeros transportados y la hora del aterrizaje.",
+        "B) El tipo de aterrizaje (general, entrenamiento, escuela o fuera de horario) y la clasificación acústica.",
+        "C) El aeropuerto, el peso máximo al despegue y la clase del vuelo."
+      ],
+      "respuesta": "C) El aeropuerto, el peso máximo al despegue y la clase del vuelo.",
+      "referencia": "7.T1041239. Unidad 4. Apartado 6.1. Página 741.",
+      "explicacion": "La tarifa de aterrizaje general se determina en función del peso máximo de despegue (MTOW) y varía en función del aeropuerto, el peso máximo al despegue y la clase del vuelo."
+    },
+    {
+      "texto": "146. ¿Cuáles son los tipos de SLOT (franja horaria) que existen en el ámbito aeroportuario?",
+      "opciones": [
+        "A) Slot de Pista y Slot de Terminal.",
+        "B) Slot de Llegada y Slot de Salida.",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "C) Ninguna es correcta.",
+      "referencia": "4.T104032. Módulo 6. Unidad 1. Página 296.",
+      "explicacion": "Existen dos tipos de SLOT: el aeronáutico (es un turno) y el aeroportuario (es una franja horaria)."
+    },
+    {
+      "texto": "147. ¿Cuál es el módulo de GESLOT en el que se definen las restricciones para no superar las capacidades disponibles del aeropuerto?",
+      "opciones": [
+        "A) Módulo de Mantenimiento.",
+        "B) Módulo de Seguimiento.",
+        "C) Módulo de Conferencia / Pretemporada."
+      ],
+      "respuesta": "A) Módulo de Mantenimiento.",
+      "referencia": "6.T1041239. Unidad 5. Apartado 2.3. Página 751.",
+      "explicacion": "El Módulo de Mantenimiento se encarga de definir las restricciones para no superar las capacidades disponibles."
+    },
+    {
+      "texto": "148. ¿Qué componente funcional de ICARO XXI permite la creación, modificación, validación, distribución y recepción de mensajes de Plan de Vuelo presentados (FPL) y mensajes asociados, así como de ATFM (SLOT)?",
+      "opciones": [
+        "A) Componente funcional AIS.",
+        "B) Componente funcional GPV (Gestión de Plan de Vuelo).",
+        "C) Componente funcional COM."
+      ],
+      "respuesta": "B) Componente funcional GPV (Gestión de Plan de Vuelo).",
+      "referencia": "6.T1041239. Unidad 5. Apartado 6.2. Página 764.",
+      "explicacion": "El GPV (Gestión de Plan de Vuelo) permite la creación, modificación, validación, distribución y recepción de mensajes de Plan de Vuelo presentados (FPL) y mensajes asociados, así como de ATFM (SLOT)."
+    },
+    {
+      "texto": "149. ¿Quién es la persona nombrada por una compañía aérea para cubrir todas sus necesidades de gestión y relación con entidades externas a la compañía, incluido el agente handling contratado?",
+      "opciones": [
+        "A) El Coordinador Aeroportuario.",
+        "B) El Jefe de escala.",
+        "C) Ninguna es correcta."
+      ],
+      "respuesta": "B) El Jefe de escala.",
+      "referencia": "4.T104032. Módulo 6. Unidad 2. Apartado 2.1. Página 344.",
+      "explicacion": "La persona nombrada por una compañía aérea con el fin de cubrir todas sus necesidades de gestión y relación con entidades externas a la compañía, incluido el agente handling contratado, se denomina 'jefe de escala'."
+    },
+    {
+      "texto": "150. ¿Cómo se clasifica el handling (actividades de asistencia en tierra) en los aeropuertos?",
+      "opciones": [
+        "A) Handling de pasajeros, de rampa, de carga y de aviación general.",
+        "B) Handling de plataforma y Handling de terminal.",
+        "C) Handling básico y Handling especializado."
+      ],
+      "respuesta": "A) Handling de pasajeros, de rampa, de carga y de aviación general.",
+      "referencia": "4.T104032. Módulo 6. Unidad 2. Página 349.",
+      "explicacion": "El handling se divide en: Handling de pasajeros, Handling de rampa o de aeronaves, Handling de carga y Handling de aviación general."
+    }
+  ]
+}
