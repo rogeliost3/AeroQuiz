@@ -18,10 +18,30 @@ body {
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: Arial, sans-serif;
-  margin: 20px;
+  padding-top: 60px;
   transition: background-color 0.3s, color 0.3s;
 }
 
+.cortinilla-content {
+  display: none;
+  margin-top: 5px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+  input[type="radio"] {
+    accent-color: #0004ff; /* Cambia a cualquier color */
+  }
+  input[type="radio"]:disabled {
+    accent-color: red; /* Color del texto desactivado */
+    border-color:red
+  }
+  label + input[type="radio"]:disabled {
+    color: #ff0000; /* Color del texto desactivado */
+  }
 /* button:hover {
       opacity: 0.9;
     } */
@@ -32,44 +52,61 @@ body {
   background: #f5f5f5;
 } */
 
-h3,
+h3 {
+  color: var(--text-color);
+  font-family: sans-serif;
+  padding: 20px 0px 0 0;
+}
+
 h2 {
   color: var(--text-color);
+  font-family: fantasy;
+  padding: 0 20px 0 0;
 }
 
 #cargarJSONBtn {
-  display: inline-block;
-  padding: 10px 15px;
-  background: linear-gradient(135deg, #27ae60, #2ecc71);
-  color: white;
-  border-radius: 8px;
-  font-weight: bold;
-  cursor: pointer;
-  margin-bottom: 15px;
+    /* display: inline-block; */
+    /* padding: 10px 15px; */
+    background: linear-gradient(135deg, #27ae60, #2ecc71);
+    /* color: white; */
+    /* border-radius: 8px; */
+    font-weight: bold;
+    /* cursor: pointer; */
+    /* margin-bottom: 15px; */
+    height: 40px;
 }
 
-#marcador {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  background: var(--card-bg);
-  padding: 10px;
-  border-radius: 8px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
+#menubar {
+position: fixed;
+    top: 0;
+    left: 0;
+    width: 98%;
+    background: var(--card-bg);
+    padding: 10px;
+    margin: 0px;
+    border-radius: 0 8px;
+    display: flex;
+    align-items: center;
+    /* gap: 10px; */
+    z-index: 1000;
+    height: auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-#marcador button {
-  font-size: 0.9em;
-  padding: 5px 8px;
-  cursor: pointer;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  background-color: var(--btn-bg);
-  color: var(--btn-text);
+#menubar button {
+    font-size: 0.9em;
+    /* padding: 5px 8px; */
+    cursor: pointer;
+    border-radius: 5px;
+    height: 40px;
+    /* border: 1px solid #ccc; */
+    /* background-color: var(--btn-bg); */
+    /* color: var(--btn-text); */
 }
-/* button {
+
+button {
       background-color: var(--btn-bg);
       color: var(--btn-text);
       border: none;
@@ -77,39 +114,50 @@ h2 {
       margin: 4px;
       border-radius: 5px;
       cursor: pointer;
-    } */
+    } 
 
 .pregunta {
   background-color: var(--card-bg);
   border-radius: 12px;
-  padding: 15px 20px;
+  padding: 10px;
   margin-bottom: 20px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+      /* .pregunta {
+        border: 1px solid #ddd; 
+        margin-bottom: 15px;
+        /* /* border-radius: 5px; 
+      } */
+
+
 .pregunta p {
   font-size: 1.25em;
-  line-height: 1.9em;
+  line-height: 1.5em;
   margin: 0 0 15px 0;
 }
 
 .opcion {
-  margin-left: 20px;
-  margin-bottom: 10px;
-  font-size: 1.2em;
-  line-height: 1.8em;
-  display: block;
+    margin-left: 20px;
+    /* margin-bottom: 10px; */
+    font-size: 1.2em;
+    /* line-height: 1.8em; */
+    display: block;
 }
 
-.pregunta button {
-  padding: 8px 15px;
-  background-color: var(--btn-bg);
-  color: var(--btn-text);
-  /* background: linear-gradient(135deg, #f39c12, #e67e22);
-  color: white; */
-  border: none;
-  border-radius: 8px;
-  font-weight: bold;
-  cursor: pointer;
-  margin-top: 10px;
+      /*.pregunta-buttons {
+        display: flex;
+        gap: 10px;
+      }*/
+.pregunta-buttons-container {
+    /* padding: 8px 15px; */
+    display: flex;
+    background-color: #0077cc57;
+    color: var(--btn-text);
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    justify-content: space-between;
 }
