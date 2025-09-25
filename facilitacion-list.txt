@@ -1,0 +1,150 @@
+1. Pregunta: Cuál es el rol principal de Aena SME S.A. en el ámbito aeroportuario global? Respuesta: Es el primer operador aeroportuario del mundo con la gestión de 46 aeropuertos y 2 helipuertos en España, además de participar en la gestión de otros 15 aeropuertos a nivel global.
+2. Pregunta: Cuál es una de las responsabilidades principales de Aena SME S.A. en relación con los aeropuertos y helipuertos bajo su control? Respuesta: La ordenación, dirección, coordinación, explotación, conservación, administración y gestión.
+3. Pregunta: Qué función desempeña la Unidad de Operaciones dentro de cada aeropuerto? Respuesta: Actuar como centro neurálgico para la coordinación de actividades aeroportuarias, operaciones y el tratamiento necesario para la preparación, información y seguimiento de las operaciones aeronáuticas.
+4. Pregunta: En qué áreas se divide la Unidad de Operaciones de un aeropuerto? Respuesta: Área de Operaciones y Área de Atención al Usuario.
+5. Pregunta: Cuál es la misión de la OACI, creada el 4 de abril de 1947? Respuesta: Elaborar los principios y la técnica de la navegación aérea internacional, además de fomentar el establecimiento y desarrollo del transporte aéreo.
+6. Pregunta: En qué documento fundamental se basa la regulación de la OACI? Respuesta: El Convenio sobre aviación civil internacional de Chicago.
+7. Pregunta: Qué contienen los Anexos de la OACI? Respuesta: Normas y métodos recomendados internacionalmente para establecer niveles mínimos de actuación y uniformidad.
+8. Pregunta: Cuál es la obligación de los Estados Contratantes de la OACI si no pueden cumplir una norma contenida en un Anexo? Respuesta: Notificar las diferencias a la OACI.
+9. Pregunta: Cuántos Anexos de la OACI cubren áreas de la aviación civil? Respuesta: 19 anexos.
+10. Pregunta: Qué Anexo de la OACI establece los requisitos relativos a la matrícula e identificación de las aeronaves? Respuesta: Anexo 7.
+11. Pregunta: Además de los Anexos, ¿qué otros tipos de documentos complementarios emite la OACI? Respuesta: Procedimientos para los servicios de navegación aérea (PANS), Procedimientos Suplementarios Regionales (SUPPS) y manuales técnicos.
+12. Pregunta: Qué organización es una asociación internacional de líneas aéreas regulares que busca soluciones comunes a problemas del sector? Respuesta: IATA.
+13. Pregunta: Cuáles son los objetivos principales de los Servicios de Tránsito Aéreo (ATS)? Respuesta: Prevenir colisiones entre aeronaves y entre aeronaves y obstáculos en el área de maniobras, y acelerar y mantener ordenadamente el movimiento del tránsito aéreo.
+14. Pregunta: Qué componente de los ATS se proporciona a vuelos IFR y VFR según la clasificación del espacio aéreo? Respuesta: Servicio de Control de Tránsito Aéreo (ATC).
+15. Pregunta: Qué servicio de los ATS aconseja y facilita información útil para la realización segura y eficaz de los vuelos? Respuesta: Servicio de Información de Vuelo (FIS).
+16. Pregunta: Cuál es el propósito del Servicio de Alerta? Respuesta: Notificar y auxiliar a los organismos adecuados en caso de que una aeronave necesite ayuda de búsqueda y salvamento.
+17. Pregunta: Qué fase del Servicio de Alerta se declara cuando existe duda sobre la seguridad de una aeronave, por ejemplo, si falta comunicación durante 30 minutos? Respuesta: Fase de incertidumbre (INCERFA).
+18. Pregunta: Cuándo se declara la Fase de Peligro (DETRESFA)? Respuesta: Cuando se cree justificado que existe un peligro grave e inminente para la aeronave, como combustible insuficiente o un aterrizaje forzoso probable.
+19. Pregunta: Hasta qué Nivel de Vuelo (FL) se extiende el Espacio Aéreo Inferior? Respuesta: FL245.
+20. Pregunta: Cuáles son las Regiones de Información de Vuelo (FIR/UIR) de España mencionadas en la guía? Respuesta: Madrid, Barcelona y Canarias.
+21. Pregunta: Qué tipo de vuelos se permiten exclusivamente en el espacio aéreo Clase A? Respuesta: Solo vuelos IFR, sujetos a Servicio de Control de Tránsito Aéreo y separados unos de otros.
+22. Pregunta: En el espacio aéreo Clase G, ¿qué servicio reciben los vuelos IFR y VFR si lo solicitan? Respuesta: Servicio de Información de Vuelo.
+23. Pregunta: Qué prefijo se utiliza en los designadores de Rutas ATS para indicar que la ruta está en el espacio superior? Respuesta: U.
+24. Pregunta: Qué incluye el Reglamento de la circulación aérea? Respuesta: Toda la normativa sobre tráfico aéreo, incluyendo el Reglamento del aire con sus Reglas Generales y Reglas de Vuelo.
+25. Pregunta: Qué aspecto regulan las Reglas Generales del Reglamento del Aire? Respuesta: Aspectos básicos como protección de personas y propiedad, alturas mínimas, niveles de vuelo y operaciones en un aeródromo.
+26. Pregunta: Qué condiciones mínimas deben cumplir los vuelos VFR (Reglas de Vuelo Visual) para poder volar? Respuesta: Condiciones mínimas de visibilidad y distancia de nubes (VMC).
+27. Pregunta: Qué tipo de vuelo utiliza señales de radio que emiten las distintas radioayudas para la navegación? Respuesta: Vuelo por Instrumentos (IFR).
+28. Pregunta: Qué es la Altitud según el reglamento del aire? Respuesta: Distancia vertical al nivel medio del mar (MSL).
+29. Pregunta: Qué presión atmosférica define el Nivel de Vuelo (FL) 0? Respuesta: 1013,2 hPa.
+30. Pregunta: Cuál es la Altitud de Transición (TA) en la mayoría de los aeropuertos españoles? Respuesta: 6.000 ft.
+31. Pregunta: Qué es la Capa de Transición? Respuesta: El espacio aéreo entre la Altitud de Transición (TA) y el Nivel de Transición (TL).
+32. Pregunta: Qué significa RVSM? Respuesta: Reducción de la Separación Vertical Mínima.
+33. Pregunta: Qué reducción de la separación vertical permite el RVSM por encima de FL290? Respuesta: De 2000 ft a 1000 ft.
+34. Pregunta: Qué tipo de espacios aéreos están identificados por códigos alfanuméricos como LE-P, LE-R, LE-D? Respuesta: Zonas Prohibidas, Peligrosas y Restringidas.
+35. Pregunta: Qué documento de la OACI contiene Abreviaturas y Códigos utilizados en servicios de información aeronáutica, telecomunicaciones, mensajes meteorológicos y planes de vuelo? Respuesta: Doc. 8400.
+36. Pregunta: En los Indicadores de Lugar OACI (Doc. 7910), ¿qué indica la primera letra de un código de cuatro letras? Respuesta: El área de encaminamiento AFS.
+37. Pregunta: Cuál es el Doc. OACI que establece los Designadores de Tipos de Aeronaves? Respuesta: Doc. 8643.
+38. Pregunta: Qué categoría de Estela Turbulenta corresponde a una aeronave con una masa máxima certificada de despegue de 136000 kg o más? Respuesta: H (Pesada).
+39. Pregunta: En los Designadores de Empresas Explotadoras de Aeronaves (Doc. 8585), ¿qué significa el designador YYY? Respuesta: Organismos civiles no asignados.
+40. Pregunta: Qué Anexo de la OACI regula las Marcas de Nacionalidad y Matrícula de las aeronaves? Respuesta: Anexo 7.
+41. Pregunta: Cuál es la publicación clave de IATA para códigos de aerolíneas, aeropuertos y tipos de avión? Respuesta: Airline Coding Directory (ACD).
+42. Pregunta: Qué tipo de designadores de IATA se utilizan para la planificación de programación y operaciones diarias de aeronaves? Respuesta: Designadores de tipos de aeronave IATA.
+43. Pregunta: En los designadores de tipos de aeronave IATA, ¿qué categoría representa una aeronave con motor de pistón o alternativo? Respuesta: P.
+44. Pregunta: Qué capítulo del Airline Coding Directory (ACD) de IATA contiene los Indicadores de Lugar de tres letras para identificar aeropuertos? Respuesta: Capítulo 11.
+45. Pregunta: Cómo se define un aeródromo? Respuesta: Área definida de tierra o de agua, incluyendo edificios, instalaciones y equipos, destinada total o parcialmente a la llegada, salida y movimiento en superficie de aeronaves.
+46. Pregunta: Qué parte del aeródromo incluye el edificio terminal y la terminal de carga? Respuesta: Lado Tierra.
+47. Pregunta: Cuál es el rol principal de las tareas en el Lado Aire de un aeródromo? Respuesta: Proporcionar y mantener infraestructuras, y coordinar con colectivos de operación.
+48. Pregunta: Qué son las Distancias Declaradas de una pista (RWY)? Respuesta: Las longitudes disponibles para despegue y aterrizaje (TORA, TODA, ASDA, LDA).
+49. Pregunta: Qué tipo de señalización incluyen las calles de rodaje? Respuesta: Señalización de eje, intersecciones y puntos de espera.
+50. Pregunta: Para qué se utiliza la Plataforma en un aeródromo? Respuesta: Para el estacionamiento, embarque/desembarque de pasajeros, abastecimiento y mantenimiento de aeronaves.
+51. Pregunta: Qué información proporciona un VOR (Very High Frequency Omnidirectional Range)? Respuesta: 360 radiales HACIA o DESDE la estación, utilizado para navegación en ruta y aproximación.
+52. Pregunta: Qué proporciona un DME (Distance Measuring Equipment)? Respuesta: Una indicación continua y precisa de la distancia oblicua entre la aeronave y el equipo de tierra.
+53. Pregunta: Qué componentes principales incluye el ILS (Instrumental Landing System)? Respuesta: Localizador (guía horizontal), Senda de Descenso (guía vertical) y Radiobalizas (distancia al umbral).
+54. Pregunta: Cuál de las siguientes es una ayuda a la navegación de uso militar? Respuesta: TACAN.
+55. Pregunta: Qué característica principal tiene un sistema de Navegación Inercial (INS)? Respuesta: Es un sistema autónomo que calcula la velocidad, posición y altitud de la aeronave basándose en acelerómetros y giroscopios, con errores acumulativos.
+56. Pregunta: Qué función tiene un Radar de Precisión para la Aproximación (PAR)? Respuesta: Guiar a las aeronaves en la aproximación final.
+57. Pregunta: Qué es el TCAS/ACAS? Respuesta: Un sistema que proporciona avisos de alerta al piloto sobre posibles conflictos entre aeronaves dotadas de transpondedores SSR.
+58. Pregunta: Qué información proporcionan las Ayudas Visuales Indicadoras de Pendiente de Aproximación como el PAPI o T-VASIS? Respuesta: Información visual sobre la pendiente de aproximación correcta mediante patrones de luces blancas y rojas.
+59. Pregunta: Cuál es el propósito del Servicio Internacional de Telecomunicaciones Aeronáuticas? Respuesta: Garantizar la seguridad, regularidad y eficiencia de la navegación aérea internacional.
+60. Pregunta: Cuál es una de las técnicas de transmisión establecidas en los Procedimientos Radiotelefónicos? Respuesta: Tono normal, claridad, velocidad constante y volumen adecuado.
+61. Pregunta: En el Alfabeto de Deletreo OACI, ¿qué palabra se utiliza para la letra 'A'? Respuesta: Alpha.
+62. Pregunta: Cuál es el rango de radiofrecuencias VHF para la aviación civil en comunicaciones T/A? Respuesta: 117,975 a 136 MHz.
+63. Pregunta: Cuál es la frecuencia de emergencia civil? Respuesta: 121,5 MHz.
+64. Pregunta: Qué es el Servicio Fijo Aeronáutico (AFS)? Respuesta: Un servicio de telecomunicaciones entre puntos fijos determinados que utiliza la Red de Telecomunicaciones Fijas Aeronáuticas (AFTN).
+65. Pregunta: Cuál es el centro de la red AFTN en España? Respuesta: El CRAMI (Centro de Retransmisión Automática de Mensajes Integrado) en Madrid/Torrejón.
+66. Pregunta: En el formato de mensaje AFTN, ¿qué contiene la parte de 'Dirección'? Respuesta: El indicador de prioridad (SS, DD, FF, GG) y el/los indicador(es) de destinatario (código OACI de 8 letras).
+67. Pregunta: Qué parte del mensaje AFTN finaliza con siete saltos de línea y 'NNNN'? Respuesta: El Fin de Mensaje.
+68. Pregunta: Cuál es la responsabilidad principal del Servicio de Información Aeronáutica (AIS)? Respuesta: Recopilar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, regularidad y eficacia de las operaciones aéreas.
+69. Pregunta: Qué es la EAD? Respuesta: Una base de datos centralizada de EUROCONTROL que proporciona una única fuente de información aeronáutica europea para datos AIP, NOTAM y boletines.
+70. Pregunta: Cuál es el manual básico de información aeronáutica con información permanente y no sujeta a cambios frecuentes? Respuesta: AIP.
+71. Pregunta: En qué tres partes principales se divide el AIP? Respuesta: GENERALIDADES (GEN), EN RUTA (ENR) y AERÓDROMOS (AD).
+72. Pregunta: Qué color de portada tienen las Enmiendas al AIP (AMDT) de tipo AIRAC? Respuesta: Verde.
+73. Pregunta: Con qué periodicidad suelen seguir las AMDT AIRAC un sistema de fechas de publicación y entrada en vigor? Respuesta: Cada 28 días.
+74. Pregunta: Qué tipo de publicación de la documentación integrada de información aeronáutica tiene portada amarilla y se usa para información temporal de larga duración o muy extensa? Respuesta: Suplemento al AIP (SUP) regular.
+75. Pregunta: Qué color de portada tienen los Suplementos al AIP (SUP) de tipo AIRAC? Respuesta: Rosa.
+76. Pregunta: Para qué se utilizan las Circulares de Información Aeronáutica (AIC)? Respuesta: Para información de carácter administrativo, explicativo o de asesoramiento que no justifica inclusión en AIP o NOTAM.
+77. Pregunta: Cuál es la misión de un NOTAM? Respuesta: Difundir con rapidez información de carácter urgente e impredecible que afecte a la seguridad de las operaciones.
+78. Pregunta: Qué significa un NOTAMN? Respuesta: Nuevo NOTAM.
+79. Pregunta: Qué apartado de un NOTAM contiene campos codificados para el tratamiento automático de la información, incluyendo FIR, código NOTAM, tráfico, objetivo, alcance, límites de vuelo y coordenadas? Respuesta: Apartado Q.
+80. Pregunta: Qué es un Trigger NOTAM? Respuesta: Un aviso sobre publicaciones importantes como AMDT o SUP AIRAC.
+81. Pregunta: Para qué se utiliza la serie especial ASHTAM? Respuesta: Para informar sobre actividad volcánica.
+82. Pregunta: Qué son los Boletines de Información Previa al Vuelo (PIB)? Respuesta: Listas de NOTAM en vigor seleccionados por aeródromo, área o ruta, confeccionados por las Oficinas de Información Aeronáutica (AIO) para satisfacer las necesidades de las tripulaciones.
+83. Pregunta: Qué Oficina AIS es responsable de verificar, tratar y difundir NOTAM? Respuesta: La Oficina NOTAM Internacional (NOF).
+84. Pregunta: Cuál es la misión principal de la Gestión del Tránsito Aéreo (ATM)? Respuesta: Optimizar la utilización del espacio aéreo.
+85. Pregunta: Quién es el responsable de la planificación y ejecución de las medidas ATFM (Flow Management)? Respuesta: El NMOC (Network Manager Operations Centre) en Bruselas.
+86. Pregunta: Qué información contiene un Plan de Vuelo Presentado (FPL)? Respuesta: Toda la información relativa a las condiciones en las que se proyecta realizar un vuelo o parte del mismo.
+87. Pregunta: Qué tipo de plan de vuelo se utiliza para vuelos regulares que se realizan frecuentemente con idénticas características básicas? Respuesta: Plan de Vuelo Repetitivo (RPL).
+88. Pregunta: Qué significa el mensaje ACK del IFPS? Respuesta: Mensaje de Aceptación.
+89. Pregunta: Qué mensaje ATS se utiliza para notificar una demora en un vuelo? Respuesta: DLA.
+90. Pregunta: Para qué se asignan los Slots ATFM (Turnos) por el NMOC? Respuesta: Para conseguir una circulación fluida, en tiempo real, a través de zonas saturadas.
+91. Pregunta: Qué organismo gestiona el Uso Flexible del Espacio Aéreo (FUA) a nivel estratégico y pretáctico? Respuesta: La Célula de Gestión de Espacio Aéreo (AMC).
+92. Pregunta: Qué significa la sigla AUP en el contexto del Uso Flexible del Espacio Aéreo? Respuesta: Airspace Use Plan (Plan de Uso del Espacio Aéreo).
+93. Pregunta: Qué sistema de rutas planificadas se utiliza para un uso más efectivo de la capacidad ATC? Respuesta: El RAD (Route Availability Document) y SRS (Standard Routeing Scheme).
+94. Pregunta: Cuál es la temperatura y presión estándar al nivel del mar según la Atmósfera Tipo (ISA)? Respuesta: 15°C y 1013,2 hPa.
+95. Pregunta: Si un altímetro se ajusta a QFE, ¿qué indica al tocar tierra en el aeródromo? Respuesta: 0.
+96. Pregunta: Qué tipo de nubes se asocian con tormentas, granizo, turbulencias y engelamiento muy fuerte? Respuesta: Cumulonimbos (CB/TCU).
+97. Pregunta: Qué es el RVR (Alcance Visual en Pista)? Respuesta: La distancia a la que se pueden ver objetos desde el eje de pista.
+98. Pregunta: Con qué frecuencia se renueva un informe METAR? Respuesta: Cada media hora.
+99. Pregunta: Qué significa el término CAVOK en un informe METAR? Respuesta: Ceiling And Visibility OK (Techo de nubes y visibilidad OK).
+100. Pregunta: Para qué se utilizan los informes SPECI? Respuesta: Para notificar cambios significativos en un METAR.
+101. Pregunta: Qué son los Derechos de Tráfico extracomunitarios? Respuesta: Derechos regulados mediante convenios bilaterales entre Estados.
+102. Pregunta: Quién controla los Derechos de Tráfico en España? Respuesta: La Dirección General de Aviación Civil y Aena SME S.A.
+103. Pregunta: Qué es un SLOT Aeroportuario (franja horaria)? Respuesta: El permiso dado por un Coordinador para utilizar toda la infraestructura aeroportuaria necesaria con fines de aterrizaje o despegue en una fecha y hora determinadas.
+104. Pregunta: Cómo se asignan los slots aeroportuarios para las temporadas de verano e invierno? Respuesta: Mediante un proceso de coordinación en fases: Preconferencia, Conferencia y Postconferencia.
+105. Pregunta: Qué conceden las 'franjas horarias históricas' a las aerolíneas? Respuesta: El derecho a solicitar el mismo slot para periodos equivalentes en temporadas futuras.
+106. Pregunta: Qué formaliza el billete de pasaje y el talón de equipaje? Respuesta: El Contrato de Transporte entre la compañía aérea y el pasajero.
+107. Pregunta: Quién puede tener competencia en las reclamaciones presentadas en un aeropuerto? Respuesta: La D.G.A.C., Aena o puede ser compartida.
+108. Pregunta: Qué busca el proceso de Asignación de Medios Aeroportuarios al establecer criterios y prioridades? Respuesta: Garantizar la neutralidad y transparencia en la asignación.
+109. Pregunta: Cómo se define la Capacidad Aeroportuaria para la terminal de pasajeros? Respuesta: El número máximo de pasajeros por hora que puede procesar.
+110. Pregunta: Qué herramienta informática simplifica la asignación de medios en aeropuertos, ofreciendo modos de simulación, planificación e histórico? Respuesta: SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios).
+111. Pregunta: Qué es un Procedimiento Operacional en el contexto aeroportuario? Respuesta: Un conjunto de reglas y procesos escritos para el manejo fluido de las actividades propias del aeropuerto.
+112. Pregunta: Con qué frecuencia se realizan los simulacros generales del Plan de Emergencia aeroportuario? Respuesta: Cada dos años.
+113. Pregunta: Qué es el Puesto de Mando Avanzado (PMA) en un Plan de Emergencia? Respuesta: Un puesto de mando establecido en el lugar del incidente.
+114. Pregunta: Cómo se divide el Área de Respuesta en un Plan de Emergencia? Respuesta: Zona A (responsabilidad aeroportuaria) y Zona B (responsabilidad de la autoridad civil fuera del aeropuerto).
+115. Pregunta: Qué herramienta informática permite gestionar datos para el control operativo y la facturación de un aeropuerto, incluyendo planificación previa y seguimiento en tiempo real? Respuesta: SCENA.
+116. Pregunta: Qué facilita la herramienta ICARO XXI para las oficinas COM/AIS/ARO? Respuesta: La recepción/transmisión automática de mensajes (COM), la creación de NOTAM/SNOWTAM y PIB (AIS), y la presentación y validación de planes de vuelo (ARO).
+117. Pregunta: Para qué se utilizan las Estadísticas Aeroportuarias? Respuesta: Para la correcta definición de las instalaciones requeridas y la toma de decisiones de inversión.
+118. Pregunta: Qué tipo de datos estadísticos se recogen del Formulario Estadístico F-1 y el manifiesto de carga? Respuesta: Datos administrativos (pasajeros, mercancía, correo).
+119. Pregunta: Cuál es el significado de la abreviatura 'ACC' según el glosario? Respuesta: Centro de Control de Área.
+120. Pregunta: Qué significa la abreviatura 'AIO'? Respuesta: Oficina de Información Aeronáutica.
+121. Pregunta: Qué significa 'AIRAC'? Respuesta: Regulación y Control de Información Aeronáutica (por fechas de entrada en vigor).
+122. Pregunta: Qué indica la abreviatura 'AMDT'? Respuesta: Enmienda (al AIP).
+123. Pregunta: Cuál es el significado de 'ATS'? Respuesta: Servicios de Tránsito Aéreo.
+124. Pregunta: Qué significa 'CWY'? Respuesta: Pista de parada.
+125. Pregunta: Qué significa la abreviatura 'DLA' en mensajes ATS? Respuesta: Demora.
+126. Pregunta: Qué indica 'EOBD'? Respuesta: Fecha de Salida Estimada.
+127. Pregunta: Qué significa 'FIZ' en el glosario? Respuesta: Zona de Información de Vuelo.
+128. Pregunta: Qué significa la abreviatura 'FLS' en el glosario? Respuesta: Vuelo suspendido.
+129. Pregunta: Qué indica 'FUA'? Respuesta: Uso Flexible del Espacio Aéreo.
+130. Pregunta: Qué significa 'GAT'? Respuesta: Tráfico Aéreo General.
+131. Pregunta: Cuál es el significado de 'GND'? Respuesta: Tierra (Ground).
+132. Pregunta: Qué significa 'HRL' en el glosario? Respuesta: Línea de Referencia de Rodaje Pesada.
+133. Pregunta: Qué significa la abreviatura 'IFPS'? Respuesta: Sistema Integrado para el Tratamiento Inicial de Planes de Vuelo.
+134. Pregunta: Qué significa 'LDA' en relación con las distancias declaradas de una pista? Respuesta: Longitud de Aterrizaje Disponible.
+135. Pregunta: Qué indica 'LLZ'? Respuesta: Radiofaro de Localizador.
+136. Pregunta: Qué significa 'MSL'? Respuesta: Nivel Medio del Mar.
+137. Pregunta: Qué indica 'NOF'? Respuesta: Oficina NOTAM Internacional.
+138. Pregunta: Qué significa 'OAT'? Respuesta: Tráfico Aéreo Operacional.
+139. Pregunta: Qué significa 'PAPI'? Respuesta: Indicador de Trayectoria de Aproximación de Precisión.
+140. Pregunta: Qué significa 'PIB'? Respuesta: Boletín de Información Previa al Vuelo.
+141. Pregunta: Qué significa 'QNH'? Respuesta: Ajuste de altímetro que indica la altitud del aeródromo sobre el nivel medio del mar.
+142. Pregunta: Qué significa 'RCA'? Respuesta: Reglamento de Circulación Aérea.
+143. Pregunta: Qué indica 'RPL'? Respuesta: Plan de Vuelo Repetitivo.
+144. Pregunta: Qué significa 'RVR'? Respuesta: Alcance Visual en Pista.
+145. Pregunta: Qué significa 'RWY'? Respuesta: Pista.
+146. Pregunta: Qué indica 'SADAMA'? Respuesta: Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios.
+147. Pregunta: Qué significa 'SCENA'? Respuesta: Sistema de Gestión de Control Operativo y Facturación de Aeropuertos.
+148. Pregunta: Qué significa 'SPECI'? Respuesta: Informe Meteorológico Especial.
+149. Pregunta: Qué indica 'SUP'? Respuesta: Suplemento (al AIP).
+150. Pregunta: Qué significa 'TAF'? Respuesta: Pronóstico de Aeródromo Terminal.

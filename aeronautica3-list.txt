@@ -1,0 +1,100 @@
+73. Pregunta: ¿Cuál es el objetivo principal del documento 'Gestión de Slots y Operaciones Aeroportuarias en España'?. Respuesta: Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos.
+74. Pregunta: ¿Cuál es la función principal del Servicio de Información Aeronáutica (AIS)?. Respuesta: Recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, eficacia y regularidad de las operaciones y la navegación aérea.
+75. Pregunta: ¿Qué Anexo de la OACI es fundamental para el marco normativo de las operaciones del AIS en España?. Respuesta: Anexo 15 de la OACI (Servicios de Información Aeronáutica).
+76. Pregunta: ¿Quién es el último responsable de la información aeronáutica publicada en un Estado, incluso si delega la prestación de servicios?. Respuesta: El Estado.
+77. Pregunta: ¿Cuál de las siguientes es una responsabilidad de la Oficina NOTAM Internacional (NOF) en España?. Respuesta: Confeccionar y distribuir NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24.
+78. Pregunta: ¿Qué tipo de información aeronáutica se publica en el AIP y se actualiza con Enmiendas AIP (AMDT)?. Respuesta: Información permanente, no sujeta a cambios frecuentes.
+79. Pregunta: Si una modificación temporal tiene una duración de 3 meses o más, o es muy extensa/gráfica, ¿qué tipo de publicación se utiliza para difundirla?. Respuesta: Un Suplemento AIP (SUP).
+80. Pregunta: ¿Qué sistema se utiliza para la difusión de información premeditada y de importancia operacional que requiere publicación con antelación, como los cambios de procedimientos de aproximación?. Respuesta: El sistema AIRAC.
+81. Pregunta: ¿Cuál es el sistema de referencia común para las coordenadas horizontales en la documentación aeronáutica, exigido por la OACI?. Respuesta: WGS-84 (World Geodetic System 1984).
+82. Pregunta: Para garantizar la calidad y trazabilidad de los datos aeronáuticos, la OACI exige a los Estados un Sistema de Gestión de la Calidad. ¿Qué norma se recomienda para este sistema?. Respuesta: ISO 9000 (Gestión de Calidad).
+83. Pregunta: ¿Cuál es el nivel de integridad requerido para los DATOS CRÍTICOS en la gestión de la información aeronáutica?. Respuesta: 1 x 10^-8.
+84. Pregunta: ¿En qué parte del AIP se encuentra la información administrativa y explicativa?. Respuesta: Generalidades (GEN).
+85. Pregunta: Las Enmiendas Regulares (AMDT) que contienen cambios menores o editoriales en la información permanente, ¿con qué color de portada se publican?. Respuesta: Azul.
+86. Pregunta: Los Suplementos AIP (SUP) de tipo AIRAC, que se publican y entran en vigor según el sistema AIRAC, tienen una edición íntegra de color:. Respuesta: Rosa.
+87. Pregunta: ¿Entre qué fechas se debe evitar el ciclo AIRAC para la publicación de información aeronáutica?. Respuesta: Entre el 21 de diciembre y el 17 de enero.
+88. Pregunta: ¿Cuál es el propósito de un 'Trigger NOTAM'?. Respuesta: Recordar a pilotos y operadores sobre cambios importantes (AIRAC) publicados en AMDT o SUP.
+89. Pregunta: ¿Cuál es la duración máxima para la difusión de información por NOTAM en situaciones urgentes e impredecibles?. Respuesta: Menos de 3 meses.
+90. Pregunta: ¿A través de qué red se transmite un NOTAM?. Respuesta: Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN).
+91. Pregunta: ¿Qué tipo de NOTAM se utiliza para reemplazar una modificación parcial de un NOTAM anterior?. Respuesta: NOTAMR (NOTAM de Reemplazo).
+92. Pregunta: ¿Cuál es la validez máxima de un ASHTAM, el aviso especial para información sobre actividad volcánica?. Respuesta: 24 horas.
+93. Pregunta: En cuanto a los ASHTAM, ¿cuál es la regla para su actualización y cancelación?. Respuesta: Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente.
+94. Pregunta: ¿Qué tipo de información NO incluye un Boletín de Información Previa al Vuelo (PIB)?. Respuesta: Información de AIP o SUP.
+95. Pregunta: ¿Qué tipo de información se recopila después del vuelo en relación con las instalaciones de navegación aérea?. Respuesta: Observaciones sobre el estado y funcionamiento de las instalaciones, realizadas por las tripulaciones.
+96. Pregunta: En el proceso de notificación al AIS, ¿quién comunica la información impredecible y temporal (NOTAM) a la AIO del aeropuerto?. Respuesta: El responsable autorizado.
+97. Pregunta: Para la información predecible de larga duración (AMDT, SUP, AIC), ¿a quién debe comunicarse por escrito el Director del aeropuerto o responsable?. Respuesta: A la División AIS (Servicios Centrales).
+98. Pregunta: ¿Cuál es la base normativa principal de las reglas de circulación aérea en España?. Respuesta: Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014.
+99. Pregunta: ¿Qué tipo de aeronaves vuelan de acuerdo con el Reglamento de la Circulación Aérea Operativa (RCAO)?. Respuesta: Circulación Aérea Operativa (CAO).
+100. Pregunta: ¿A qué aeronaves extranjeras se aplica el Reglamento de Circulación Aérea en España?. Respuesta: A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España.
+101. Pregunta: ¿Cuándo está permitido el vaciado de combustible de una aeronave?. Respuesta: Solo en caso de emergencia.
+102. Pregunta: ¿Qué se requiere para un vuelo en formación?. Respuesta: Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo.
+103. Pregunta: ¿Qué estándar de tiempo se utiliza en las operaciones aeronáuticas?. Respuesta: Tiempo Universal Coordinado (UTC).
+104. Pregunta: ¿Quién determina las clases de espacio aéreo, áreas y rutas ATS, y aeródromos con ATS en España?. Respuesta: El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea.
+105. Pregunta: En una situación de emergencia, ¿qué código de transpondedor SSR debe seleccionar el piloto?. Respuesta: 7700.
+106. Pregunta: ¿Qué documento se requiere para las operaciones especiales (militares, SAR, etc.) y detalla sus características y exenciones al RCA?. Respuesta: Una 'Carta Operacional'.
+107. Pregunta: Para un vuelo VFR, ¿cuál es la condición mínima de techo de nubes para despegue/aterrizaje en aeródromos controlados o no?. Respuesta: No inferior a 450 metros (1500 ft).
+108. Pregunta: Los vuelos VFR tienen límites de altitud. En las FIR/UIR de Madrid, Barcelona y Canarias, ¿no deben volar por encima de qué nivel de vuelo?. Respuesta: FL195.
+109. Pregunta: Para un Vuelo Visual Especial (VFR Especial), ¿cuál es la visibilidad en vuelo mínima requerida (excepto helicópteros)?. Respuesta: No inferior a 1500m.
+110. Pregunta: Para un vuelo IFR, ¿cuál es la altitud mínima de vuelo sobre el obstáculo más alto en terreno elevado/montañoso dentro de un radio de 8 km?. Respuesta: 600m (2000ft).
+111. Pregunta: ¿Cuáles son las Regiones de Información de Vuelo (FIR/UIR) de España mencionadas en los documentos?. Respuesta: Madrid, Barcelona y Canarias.
+112. Pregunta: En el espacio aéreo no controlado, ¿qué servicios se proporcionan?. Respuesta: Servicio de información de vuelo, asesoramiento y alerta.
+113. Pregunta: ¿Qué es una Zona de Control (CTR)?. Respuesta: Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR.
+114. Pregunta: Según la clasificación del espacio aéreo de la OACI (Anexo 11), ¿cuáles de las siguientes clases corresponden a espacio aéreo controlado?. Respuesta: Clases A, B, C, D, E.
+115. Pregunta: Uno de los objetivos principales de los Servicios de Tránsito Aéreo (ATS) es:. Respuesta: Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves.
+116. Pregunta: ¿Cuál es una función del Servicio de Control de Aeródromo?. Respuesta: Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías.
+117. Pregunta: El Servicio de Información de Vuelo (FIS) asesora y facilita información útil para vuelos seguros y eficaces. ¿Exime esto al piloto de sus responsabilidades?. Respuesta: No, no exime al piloto de sus responsabilidades.
+118. Pregunta: ¿Qué se establece en la Fase de Incertidumbre (INCERFA) de una emergencia?. Respuesta: Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos.
+119. Pregunta: ¿Cuándo se declara una Fase de Peligro (DETRESFA)?. Respuesta: Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable o efectuado.
+120. Pregunta: ¿Cuál es una de las funciones de las Oficinas de Notificación de los Servicios de Tránsito Aéreo (ARO)?. Respuesta: Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta.
+121. Pregunta: ¿Se requiere la presentación de un plan de vuelo para vuelos a través de fronteras internacionales?. Respuesta: Sí, salvo que los Estados dispongan lo contrario.
+122. Pregunta: ¿Cuál es el plazo mínimo de presentación de un plan de vuelo para vuelos internacionales o con servicio de control/asesoramiento?. Respuesta: Al menos 60 minutos antes de la EOBT (Hora estimada de fuera calzos).
+123. Pregunta: Si un plan de vuelo se presenta durante el vuelo (AFIL), ¿cuánto tiempo antes de la entrada en un área controlada/asesoramiento debe hacerse?. Respuesta: Al menos 10 minutos.
+124. Pregunta: ¿Qué cambio en un plan de vuelo requiere la cancelación del plan original y la presentación de uno nuevo (CNL)?. Respuesta: Un cambio en la identificación de la aeronave (casilla 7).
+125. Pregunta: Un cambio en la ruta (casilla 15) de un plan de vuelo se gestiona mediante:. Respuesta: Un mensaje de modificación (CHG).
+126. Pregunta: ¿Cuántos caracteres alfanuméricos como máximo puede tener la identificación de la aeronave en la casilla 7 del plan de vuelo?. Respuesta: 7.
+127. Pregunta: ¿Qué significa la letra 'Y' en la casilla 8 (Reglas de vuelo) del plan de vuelo?. Respuesta: Vuelo IFR a VFR (el cambio se indica en la casilla 15).
+128. Pregunta: ¿Qué categoría de estela turbulenta corresponde a una aeronave con un peso de despegue de 136000kg o más?. Respuesta: H (Pesada).
+129. Pregunta: En la casilla 10a (Equipo de radiocomunicaciones, ayudas a la navegación y aproximación), ¿qué significa la letra 'S'?. Respuesta: Equipo normalizado (VHF RTF, VOR, ILS).
+130. Pregunta: ¿Qué letra en la casilla 10a del plan de vuelo indica que la aeronave está equipada para operar en espacio aéreo RVSM?. Respuesta: W.
+131. Pregunta: Si un plan de vuelo es un plan en vuelo (AFIL), ¿qué se indica en la casilla 13 (Aeródromo de salida)?. Respuesta: AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/).
+132. Pregunta: En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar la velocidad de crucero en número Mach?. Respuesta: M.
+133. Pregunta: En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar el nivel de crucero como altitud en pies?. Respuesta: A.
+134. Pregunta: ¿Cuántos aeródromos de alternativa de destino como máximo pueden indicarse en la casilla 16 del plan de vuelo?. Respuesta: 2.
+135. Pregunta: ¿Qué indicador de la casilla 18 (Otros datos) del plan de vuelo se utiliza para la 'Fecha de salida'?. Respuesta: DOF/.
+136. Pregunta: ¿Qué indicador de la casilla 18 (Otros datos) se utiliza para especificar un tratamiento especial ATS como 'Vuelo de Estado'?. Respuesta: STS/STATE.
+137. Pregunta: En la casilla 19 (Información suplementaria) del plan de vuelo, ¿qué letra se utiliza para indicar la autonomía de combustible?. Respuesta: E/.
+138. Pregunta: Si en la casilla 19 se tacha la 'P' del equipo de supervivencia (S/P), ¿qué indica?. Respuesta: Que no se lleva equipo de supervivencia polar.
+139. Pregunta: Para vuelos IFR sin SLOT, ¿cuántos minutos de demora justifican el envío de un Mensaje de Demora (DLA)?. Respuesta: Más de 15 minutos.
+140. Pregunta: ¿Cuándo se envía un Mensaje de Llegada (ARR) para un vuelo IFR?. Respuesta: A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino.
+141. Pregunta: ¿Qué tipo de planes de vuelo gestiona Eurocontrol a través de su IFPS en la IFPS Zone (IFPZ)?. Respuesta: Planes de vuelo IFR/GAT (y vuelos Y/Z).
+142. Pregunta: ¿Con cuánta antelación mínima deben enviarse los planes de vuelo al IFPS antes de la EOBT?. Respuesta: Al menos 3 horas.
+143. Pregunta: ¿Qué significa un Mensaje Operacional de Respuesta (ORM) 'REJ' enviado por el IFPS?. Respuesta: Rechazo, el mensaje no ha sido procesado.
+144. Pregunta: ¿Qué tipo de vuelos militares procesa el IFPS?. Respuesta: Vuelos militares IFR/GAT.
+145. Pregunta: ¿Cuál es uno de los objetivos de la Gestión del Tráfico Aéreo y de la Capacidad (ATFCM)?. Respuesta: Contribuir a un flujo de tráfico aéreo más seguro, ordenado y rápido, asegurando la máxima utilización de la capacidad ATC.
+146. Pregunta: ¿Cuál es uno de los resultados de la Fase Estratégica de la gestión ATFM?. Respuesta: El plan de capacidad anual y el Route Allocation Plan.
+147. Pregunta: ¿Qué célula es responsable de la gestión diaria y la asignación temporal de espacio aéreo en la Fase Pre-Táctica de ATFM?. Respuesta: La Célula de Gestión de Espacio Aéreo (AMC).
+148. Pregunta: ¿Cuál es el objetivo principal del Uso Flexible del Espacio Aéreo (FUA)?. Respuesta: Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar.
+149. Pregunta: ¿Cuál es la diferencia principal entre un Espacio Aéreo Temporalmente Reservado (TRA) y un Espacio Aéreo Temporalmente Segregado (TSA)?. Respuesta: El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC.
+150. Pregunta: Las Rutas Condicionales (CDR) de Nivel 3 (Fase Táctica) ¿cómo se pueden usar?. Respuesta: Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo.
+151. Pregunta: ¿Qué es el Documento Disponibilidad de Rutas (RAD)?. Respuesta: Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos.
+152. Pregunta: Cuando se activa una regulación en el sistema de asignación de slots, ¿qué tiempo se calcula y se envía a los operadores de aeronave y a la Torre de Control?. Respuesta: El CTOT (Calculated Take-Off Time).
+153. Pregunta: ¿Cuál es la ventana de tolerancia que tiene el ATC para el cumplimiento de un slot de salida?. Respuesta: –5/+10 minutos.
+154. Pregunta: ¿Qué parámetro aeroportuario es crucial en la asignación de Slot y puede ser modificado por el NM a petición de la FMP?. Respuesta: Taxitime (Tiempo de Rodaje).
+155. Pregunta: ¿Cuál de los siguientes no es una causa común de recepción tardía de mensajes de slot?. Respuesta: La activación manual del sistema de asignación de slots (CASA).
+156. Pregunta: ¿Qué sucede con un vuelo bajo Flight Activation Monitoring (FAM) si no despega a la hora estimada y no se comunica el despegue tras un período definido (ej. 30 minutos)?. Respuesta: El vuelo se suspende (FLS).
+157. Pregunta: En situaciones de baja visibilidad, ¿qué tipo de medidas ATFCM se aplican para gestionar la capacidad?. Respuesta: Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas.
+158. Pregunta: Ante el cierre de un aeródromo o espacio aéreo, ¿qué puede hacer el Network Manager (NM)?. Respuesta: Aceptar planes de vuelo y regularlos, suspender vuelos o retrasar operaciones hasta la reapertura.
+159. Pregunta: Si un operador de aeronave (AO) no puede cumplir un CTOT, ¿qué debe enviar para obtener un CTOT revisado?. Respuesta: Un DLA (Mensaje de Demora) con la nueva EOBT.
+160. Pregunta: Si un AO puede cumplir el CTOT pero no la EOBT original, ¿cuál es la norma que debe respetar la nueva EOBT?. Respuesta: Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'.
+161. Pregunta: ¿Cuál es el propósito de los mensajes ADEXP (ATS Data Exchange Presentation)?. Respuesta: Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos.
+162. Pregunta: ¿Qué documento sirve de base para la información contenida en 'Operaciones Aeronáuticas y Gestión del Tráfico Aéreo'?. Respuesta: El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'.
+163. Pregunta: ¿Qué parte del AIP contiene información sobre aeropuertos y helipuertos?. Respuesta: Aeródromos (AD).
+164. Pregunta: ¿Qué tipo de publicación AIRAC se utiliza para información predecible de carácter permanente e importancia operacional, con portada verde?. Respuesta: Enmienda AIRAC (AMDT AIRAC).
+165. Pregunta: ¿Qué significa la línea de calificadores (Apartado Q) en un NOTAM?. Respuesta: Información para el tratamiento automático en bases de datos.
+166. Pregunta: ¿Cuál es el código de colores para el nivel de alerta más alto en un ASHTAM?. Respuesta: ROJO.
+167. Pregunta: Las Circulares de Información Aeronáutica (AIC) se utilizan para difundir:. Respuesta: Información explicativa o de asesoramiento sobre seguridad en vuelo o navegación aérea.
+168. Pregunta: Para un vuelo VFR Especial, ¿cuál es la velocidad máxima indicada (IAS) permitida (excepto helicópteros)?. Respuesta: 140kt o inferior.
+169. Pregunta: ¿Qué se indica en la casilla 10b (Equipo y capacidades de vigilancia) del plan de vuelo para un transpondedor Modo S con capacidad de identificación de aeronave?. Respuesta: H.
+170. Pregunta: En la casilla 18 (Otros datos), ¿qué indicador se utiliza para especificar la capacidad de aterrizaje bajo RVR, usado por ETFMS para gestionar la afluencia en baja visibilidad?. Respuesta: RVR/.
+171. Pregunta: El NMOC (Network Manager Operations Centre) de Eurocontrol, a través del IFPS, gestiona los planes de vuelo:. Respuesta: IFR/GAT y vuelos Y/Z en la IFPS Zone (IFPZ).
+172. Pregunta: ¿Qué significa la sigla 'SAL' en el contexto de la asignación de slots por CASA?. Respuesta: Slot Allocation List (Lista de asignación de slots).

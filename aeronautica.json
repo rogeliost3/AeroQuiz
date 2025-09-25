@@ -1,3 +1,4 @@
+
 {
   "Aeronáutica": [
     {
@@ -7,7 +8,9 @@
         "B) Optimizar la asignación de personal en los aeropuertos.",
         "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
       ],
-      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
+      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 1.1, Objetivos. Página 507",
+      "explicacion": "La Gestión de la Afluencia del Tráfico Aéreo (ATFCM) tiene como objetivo principal contribuir a un más seguro, ordenado y rápido flujo de los tráficos aéreos, asegurándose de que la capacidad ATC es utilizada al máximo posible y el volumen de tráfico es compatible con los valores de referencia."
     },
     {
       "texto": "2. ¿Cuál es la función principal del Servicio de Información Aeronáutica (AIS) según la normativa?",
@@ -16,7 +19,9 @@
         "B) Proveer servicios de control de tránsito aéreo en espacio aéreo controlado y no controlado.",
         "C) Gestionar exclusivamente los planes de vuelo y sus modificaciones para evitar retrasos."
       ],
-      "respuesta": "A) Recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, eficacia y regularidad de las operaciones y la navegación aérea."
+      "respuesta": "A) Recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, eficacia y regularidad de las operaciones y la navegación aérea.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 1.1, Generalidades. Página 24",
+      "explicacion": "El AIS es el Servicio de Información Aeronáutica, encargado de recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, la eficacia y regularidad de las operaciones y la navegación aérea."
     },
     {
       "texto": "3. ¿Qué Anexo de la OACI es fundamental para regir las operaciones del AIS en España?",
@@ -25,7 +30,9 @@
         "B) Anexo 15 de la OACI.",
         "C) Anexo 1 de la OACI."
       ],
-      "respuesta": "B) Anexo 15 de la OACI."
+      "respuesta": "B) Anexo 15 de la OACI.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 1.1, Generalidades. Página 25",
+      "explicacion": "Los criterios para la realización del servicio AIS se basan en la legislación aeronáutica española, pero también en el Anexo 15 “Servicios de Información Aeronáutica” de la OACI."
     },
     {
       "texto": "4. ¿Quién es el último responsable de la información aeronáutica publicada en España, incluso si delega la prestación de servicios?",
@@ -34,7 +41,9 @@
         "B) ENAIRE.",
         "C) El Estado."
       ],
-      "respuesta": "C) El Estado."
+      "respuesta": "C) El Estado.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 1.3, Responsabilidades. Página 29",
+      "explicacion": "El Estado suministrará o delegará la autoridad de suministrar los servicios a una entidad (caso de España con ENAIRE). Sin embargo, seguirá siendo responsable de la información publicada."
     },
     {
       "texto": "5. ¿Cuál es una de las responsabilidades clave de la Oficina NOTAM Internacional (NOF) en España?",
@@ -43,7 +52,9 @@
         "B) Suministro de Boletines de Información Previa al Vuelo (PIB) a los usuarios.",
         "C) Confección y distribución de NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24."
       ],
-      "respuesta": "C) Confección y distribución de NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24."
+      "respuesta": "C) Confección y distribución de NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 1.5, Dependencias. Página 42",
+      "explicacion": "La NOF confecciona el NOTAM, la Lista de Verificación de NOTAM y el Sumario literal de NOTAM. Además, la NOF en España opera H24."
     },
     {
       "texto": "6. ¿Qué función realizan las Oficinas de Información Aeronáutica de Aeropuertos (AIO Aeropuertos)?",
@@ -52,7 +63,9 @@
         "B) Coordinar el intercambio de AIPs y la base de datos AIS europea (EAD).",
         "C) Aprobar los 'proyectos NOTAM' para su difusión nacional e internacional."
       ],
-      "respuesta": "A) Suministrar Boletines de Información Previa al Vuelo (PIB), mapas, cartas y asesoramiento verbal a los usuarios."
+      "respuesta": "A) Suministrar Boletines de Información Previa al Vuelo (PIB), mapas, cartas y asesoramiento verbal a los usuarios.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 1.5, Dependencias. Página 47",
+      "explicacion": "Las AIO tienen la misión de cubrir las necesidades de información de los usuarios, pudiendo solicitar y obtener los Boletines de Información Previa al Vuelo (PIB), o poniendo a disposición del usuario otros elementos de la documentación integrada como mapas y cartas pertinentes, y/o el asesoramiento verbal en caso necesario."
     },
     {
       "texto": "7. ¿Qué tipo de información aeronáutica se publica en el AIP y se actualiza con Enmiendas AIP (AMDT)?",
@@ -61,7 +74,9 @@
         "B) Información permanente, no sujeta a cambios frecuentes.",
         "C) Situaciones inesperadas o urgentes (ej. fallos por causas meteorológicas)."
       ],
-      "respuesta": "B) Información permanente, no sujeta a cambios frecuentes."
+      "respuesta": "B) Información permanente, no sujeta a cambios frecuentes.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.2, Tipos. Página 53",
+      "explicacion": "La información permanente es aquella que no es objeto de cambios frecuentes y se proporciona a través de la AIP, cuyo contenido se actualiza con Enmiendas AIP (AMDT)."
     },
     {
       "texto": "8. Si una modificación o circunstancia temporal tiene una duración de 3 meses o más, o es muy extensa/gráfica, ¿mediante qué publicación se difunde?",
@@ -70,7 +85,9 @@
         "B) NOTAM.",
         "C) Circular de Información Aeronáutica (AIC)."
       ],
-      "respuesta": "A) Suplemento AIP (SUP)."
+      "respuesta": "A) Suplemento AIP (SUP).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.2, Tipos. Página 55",
+      "explicacion": "La información temporal de larga duración (3 meses o más) o corta, si es demasiado extensa y/o contiene gráficos, se difunde como Suplemento a las AIP (SUP)."
     },
     {
       "texto": "9. ¿Qué medio se utiliza para difundir información sobre situaciones inesperadas o urgentes, como fallos por causas meteorológicas o averías?",
@@ -79,7 +96,9 @@
         "B) NOTAM.",
         "C) Enmienda AIP (AMDT)."
       ],
-      "respuesta": "B) NOTAM."
+      "respuesta": "B) NOTAM.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.2, Tipos. Página 56",
+      "explicacion": "La información impredecible (situaciones y circunstancias inesperadas y/o de carácter urgente) se difunde por NOTAM."
     },
     {
       "texto": "10. La información premeditada y de importancia operacional que requiere publicación con antelación, como los cambios de procedimientos de aproximación, se difunde a través de:",
@@ -88,7 +107,9 @@
         "B) El sistema AIRAC.",
         "C) Las Circulares de Información Aeronáutica (AIC)."
       ],
-      "respuesta": "B) El sistema AIRAC."
+      "respuesta": "B) El sistema AIRAC.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.2, Tipos. Página 57",
+      "explicacion": "La información predecible y de importancia para las operaciones aéreas, como los cambios de procedimientos de aproximación, se difundirá a través del sistema AIRAC (Reglamentación y Control de Información Aeronáutica)."
     },
     {
       "texto": "11. ¿Qué tipo de documentación se utiliza para difundir información explicativa o de asesoramiento sobre seguridad en vuelo o navegación aérea?",
@@ -97,22 +118,30 @@
         "B) NOTAM.",
         "C) Circular de Información Aeronáutica (AIC)."
       ],
-      "respuesta": "C) Circular de Información Aeronáutica (AIC)."
+      "respuesta": "C) Circular de Información Aeronáutica (AIC).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.2, Tipos. Página 58",
+      "explicacion": "La información administrativa (explicativa o de asesoramiento relativa a seguridad en vuelo, navegación aérea o asuntos técnicos, administrativos o legales) debe difundirse mediante AIC (Circulares de Información Aeronáutica)."
     },
     {
       "texto": "12. ¿Cuál es el sistema de referencia común para las coordenadas horizontales en la documentación aeronáutica?",
       "opciones": ["A) UTC.", "B) WGS-84.", "C) MSL."],
-      "respuesta": "B) WGS-84."
+      "respuesta": "B) WGS-84.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.3, Especificaciones. Página 63",
+      "explicacion": "Como sistema de referencia (geodésica) horizontal se utiliza el Sistema Geodésico Mundial-1984 (WGS-84)."
     },
     {
       "texto": "13. La OACI exige a los Estados un Sistema de Gestión de la Calidad para garantizar la calidad y trazabilidad de los datos aeronáuticos. ¿Qué norma se recomienda para este sistema?",
       "opciones": ["A) ISO 14000.", "B) ISO 9000.", "C) OHSAS 18001."],
-      "respuesta": "B) ISO 9000."
+      "respuesta": "B) ISO 9000.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.4, Sistema de Calidad. Página 67",
+      "explicacion": "La OACI recomienda que el sistema de calidad sea conforme a la serie 9000 de normas de garantía de calidad de la Organización Internacional de Normalización (ISO) y estar certificado por una organización aprobada."
     },
     {
       "texto": "14. ¿Cuál es el nivel de integridad requerido para los DATOS CRÍTICOS en la gestión de la información aeronáutica?",
       "opciones": ["A) 1 x 10^-5.", "B) 1 x 10^-8.", "C) 1 x 10^-3."],
-      "respuesta": "B) 1 x 10^-8."
+      "respuesta": "B) 1 x 10^-8.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 2.4, Sistema de Calidad. Página 69",
+      "explicacion": "Los DATOS CRÍTICOS tienen un nivel de integridad requerido de 1 x 10^-8."
     },
     {
       "texto": "15. ¿Qué información contiene un AIP (Publicaciones de Información Aeronáutica)?",
@@ -121,7 +150,9 @@
         "B) Avisos urgentes de corta duración (menos de 3 meses).",
         "C) Lista mensual de NOTAM vigentes."
       ],
-      "respuesta": "A) Información permanente y cambios temporales de larga duración (1 año o más)."
+      "respuesta": "A) Información permanente y cambios temporales de larga duración (1 año o más).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.2, Publicaciones de Información Aeronáutica - AIP. Página 72",
+      "explicacion": "El AIP es el manual básico de información aeronáutica que contiene información de carácter permanente y cambios temporales de larga duración, 1 año o más, esencial para la navegación aérea y las operaciones aeroportuarias."
     },
     {
       "texto": "16. ¿En qué parte del AIP se encuentra la información del espacio aéreo y su utilización?",
@@ -130,17 +161,23 @@
         "B) Generalidades (GEN).",
         "C) En Ruta (ENR)."
       ],
-      "respuesta": "C) En Ruta (ENR)."
+      "respuesta": "C) En Ruta (ENR).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.2, Publicaciones de Información Aeronáutica - AIP. Página 79",
+      "explicacion": "La sección En Ruta (ENR) contiene información relativa al espacio aéreo y su utilización, incluyendo procedimientos y normas ATS, descripción del espacio aéreo, etc.."
     },
     {
       "texto": "17. ¿De qué color es la portada de una Enmienda Regular (AMDT) que contiene cambios menores o editoriales en la información permanente?",
       "opciones": ["A) Amarillo.", "B) Azul.", "C) Verde."],
-      "respuesta": "B) Azul."
+      "respuesta": "B) Azul.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.3, Enmiendas AIP. Página 82",
+      "explicacion": "El conjunto de la Enmienda Regular (AMDT) se distribuye con portada de color azul (contiene una breve descripción del contenido y las acciones a realizar), siendo el resto de hojas de color blanco."
     },
     {
       "texto": "18. Los Suplementos AIP (SUP) de tipo AIRAC, que se publican y entran en vigor según el sistema AIRAC, tienen una edición íntegra de color:",
       "opciones": ["A) Amarillo.", "B) Rosa.", "C) Verde."],
-      "respuesta": "B) Rosa."
+      "respuesta": "B) Rosa.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.4, Suplementos AIP. Página 86",
+      "explicacion": "Los Suplementos AIRAC se editan íntegramente en color rosa. Los Suplementos regulares se editan en color amarillo."
     },
     {
       "texto": "19. ¿Entre qué fechas se debe evitar el ciclo AIRAC para la publicación de información aeronáutica?",
@@ -149,7 +186,9 @@
         "B) Entre el 21 de diciembre y el 17 de enero.",
         "C) Entre el 15 de agosto y el 15 de septiembre."
       ],
-      "respuesta": "B) Entre el 21 de diciembre y el 17 de enero."
+      "respuesta": "B) Entre el 21 de diciembre y el 17 de enero.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.5, Reglamentación y Control de Información Aeronáutica (AIRAC). Página 91",
+      "explicacion": "Debería evitarse utilizar la fecha del ciclo AIRAC comprendida entre el 21 de diciembre y el 17 de enero inclusive, como fecha de entrada en vigor para estas publicaciones, debido a la posible demora en la recepción y dificultad de tramitación de la información."
     },
     {
       "texto": "20. ¿Qué es un 'Trigger NOTAM'?",
@@ -158,7 +197,9 @@
         "B) Un tipo de NOTAM para información sobre actividad volcánica.",
         "C) Un recordatorio para pilotos y operadores de cambios importantes (AIRAC) publicados en AMDT o SUP."
       ],
-      "respuesta": "C) Un recordatorio para pilotos y operadores de cambios importantes (AIRAC) publicados en AMDT o SUP."
+      "respuesta": "C) Un recordatorio para pilotos y operadores de cambios importantes (AIRAC) publicados en AMDT o SUP.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.5, Reglamentación y Control de Información Aeronáutica (AIRAC). Página 95",
+      "explicacion": "Cuando se publique una enmienda o suplemento a las AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM (NOTAM de activar, iniciador o trigger NOTAM) dando una breve descripción del contenido, la fecha de entrada en vigor y el número de referencia de la enmienda o suplemento."
     },
     {
       "texto": "21. ¿Cuál es la duración máxima para la difusión de información por NOTAM en situaciones urgentes e impredecibles?",
@@ -167,7 +208,9 @@
         "B) Indefinida, hasta su incorporación al AIP.",
         "C) Menos de 3 meses."
       ],
-      "respuesta": "C) Menos de 3 meses."
+      "respuesta": "C) Menos de 3 meses.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.6, NOTAM. Página 96",
+      "explicacion": "Se expedirá un NOTAM cuando la información que se tenga que distribuir sea de carácter temporal y de corta duración (menos de tres meses) o cuando se introduzcan con poco tiempo de preaviso cambios permanentes, o temporales de larga duración."
     },
     {
       "texto": "22. ¿A través de qué red se transmite un NOTAM?",
@@ -176,12 +219,16 @@
         "B) Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN).",
         "C) Red de Servicios de Información Aeronáutica (AISN)."
       ],
-      "respuesta": "B) Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN)."
+      "respuesta": "B) Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.6, NOTAM. Página 97",
+      "explicacion": "El NOTAM se caracteriza por su divulgación inmediata mediante la Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN) y en un formato concreto."
     },
     {
       "texto": "23. ¿Cuál de los siguientes no es un tipo de NOTAM?",
       "opciones": ["A) NOTAMN.", "B) NOTAMX.", "C) NOTAMR."],
-      "respuesta": "B) NOTAMX."
+      "respuesta": "B) NOTAMX.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.6, NOTAM. Página 103",
+      "explicacion": "Los indicadores de mensaje para NOTAM son NOTAMN (nuevo), NOTAMR (reemplaza) y NOTAMC (cancela)."
     },
     {
       "texto": "24. ¿Para qué se utiliza la línea de calificadores (Apartado Q)) en el formato NOTAM?",
@@ -190,12 +237,16 @@
         "B) Para el tratamiento automático de la información en bases de datos.",
         "C) Para identificar el aeródromo de destino y la hora de finalización."
       ],
-      "respuesta": "B) Para el tratamiento automático de la información en bases de datos."
+      "respuesta": "B) Para el tratamiento automático de la información en bases de datos.",
+      "referencia": "MÓDULO 1. UNIDAD 2. Apartado 4.3, Apartado Q) Línea de calificadores. Página 157",
+      "explicacion": "La finalidad de este apartado responde al tratamiento automático del NOTAM en bases de datos. La inserción de los calificadores facilita su búsqueda para su extracción en los boletines (PIB), su inclusión en sumarios, etc.."
     },
     {
       "texto": "25. ¿Cuál es la validez máxima de un ASHTAM, el aviso especial para información sobre actividad volcánica?",
       "opciones": ["A) 8 horas.", "B) 72 horas.", "C) 24 horas."],
-      "respuesta": "C) 24 horas."
+      "respuesta": "C) 24 horas.",
+      "referencia": "MÓDULO 1. UNIDAD 2. Apartado , . Página 226",
+      "explicacion": "El período de validez de un ASHTAM es de 24 horas. Deben expedirse nuevos ASHTAM cuando cambie el nivel de alerta."
     },
     {
       "texto": "26. En cuanto a los ASHTAM, ¿cuál es la regla para su actualización?",
@@ -204,7 +255,9 @@
         "B) Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente.",
         "C) Se integran en el AIP o SUP si la actividad es de larga duración."
       ],
-      "respuesta": "B) Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente."
+      "respuesta": "B) Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente.",
+      "referencia": "MÓDULO 1. UNIDAD 2. Apartado , . Página 226",
+      "explicacion": "Los ASHTAM no se reemplazan ni se cancelan. Cuando se modifiquen las condiciones con respecto a las notificadas previamente, se publicará un nuevo. Por consiguiente, cuando se publique un ASTHAM de un aeropuerto el anterior deja de tener validez."
     },
     {
       "texto": "27. ¿Qué tipo de información NO incluye un Boletín de Información Previa al Vuelo (PIB)?",
@@ -213,7 +266,9 @@
         "B) NOTAM en vigor.",
         "C) Información de AIP o SUP."
       ],
-      "respuesta": "C) Información de AIP o SUP."
+      "respuesta": "C) Información de AIP o SUP.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.8, Boletín de Información previa al vuelo (PIB). Página 110",
+      "explicacion": "Los boletines (PIB) consisten en una selección de NOTAM en vigor, y no aparece en ellos la información publicada en las AIP ni en los Suplementos."
     },
     {
       "texto": "28. ¿Qué información se recopila después del vuelo en relación con las instalaciones de navegación aérea?",
@@ -222,7 +277,9 @@
         "B) Datos sobre el consumo de combustible y la autonomía restante.",
         "C) Información sobre los procedimientos de aproximación y salida utilizados."
       ],
-      "respuesta": "A) Observaciones sobre el estado y funcionamiento de las instalaciones, realizadas por las tripulaciones."
+      "respuesta": "A) Observaciones sobre el estado y funcionamiento de las instalaciones, realizadas por las tripulaciones.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 4.2, Información posterior al vuelo. Página 124",
+      "explicacion": "La Información Posterior al Vuelo consiste en el estado y condiciones de funcionamiento de las instalaciones de navegación aérea y presencia de aves que observen las tripulaciones."
     },
     {
       "texto": "29. En el proceso de notificación al AIS, ¿quién comunica la información impredecible y temporal (NOTAM) a la AIO del aeropuerto?",
@@ -231,7 +288,9 @@
         "B) El responsable autorizado.",
         "C) El Director del aeropuerto."
       ],
-      "respuesta": "B) El responsable autorizado."
+      "respuesta": "B) El responsable autorizado.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado , . Página 129",
+      "explicacion": "Para la información de carácter impredecible y temporal (susceptible de publicación en NOTAM), el responsable autorizado del departamento correspondiente comunicará la información por escrito a la AIO del aeropuerto."
     },
     {
       "texto": "30. Para la información predecible de larga duración (AMDT, SUP, AIC), ¿a quién debe comunicarse por escrito el Director del aeropuerto o responsable?",
@@ -240,7 +299,9 @@
         "B) A la División AIS (Servicios Centrales).",
         "C) A la AIO del aeropuerto."
       ],
-      "respuesta": "B) A la División AIS (Servicios Centrales)."
+      "respuesta": "B) A la División AIS (Servicios Centrales).",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado , . Página 130",
+      "explicacion": "Para la información predecible de larga duración (susceptible de AMDT, SUP o AIC), el Director del aeropuerto, o responsable autorizado, comunicará la información por escrito, fax o correo electrónico a la División AIS (Servicios Centrales)."
     },
     {
       "texto": "31. ¿Cuál es la base normativa principal de las reglas de circulación aérea en España?",
@@ -249,7 +310,9 @@
         "B) Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014.",
         "C) Exclusivamente el Reglamento de Circulación Aérea de España (R.D. 73/1992)."
       ],
-      "respuesta": "B) Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014."
+      "respuesta": "B) Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 1.1, Concepto y Reglas. Página 230",
+      "explicacion": "Las reglas generales sobre circulación aérea aplicadas en España están de acuerdo con las contenidas en los Anexos 2 y 11 de OACI, el Reglamento de Ejecución (UE) 923/2012 de la Comisión (SERA) y en el Real Decreto 552/2014 que los desarrolla."
     },
     {
       "texto": "32. ¿Qué tipo de aeronaves vuelan de acuerdo con el Reglamento de la Circulación Aérea Operativa (RCAO)?",
@@ -258,7 +321,9 @@
         "B) Aeronaves comerciales de gran tamaño.",
         "C) Circulación Aérea Operativa (CAO)."
       ],
-      "respuesta": "C) Circulación Aérea Operativa (CAO)."
+      "respuesta": "C) Circulación Aérea Operativa (CAO).",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 1.1, Concepto y Reglas. Página 232",
+      "explicacion": "El vuelo de las aeronaves militares puede estar incluido en Circulación Aérea General (CAG) o Circulación Aérea Operativa (CAO), siendo esta última cuando vuelan de acuerdo con las normas contenidas en el Reglamento de la Circulación Aérea Operativa (RCAO)."
     },
     {
       "texto": "33. ¿A qué aeronaves extranjeras se aplica el Reglamento de Circulación Aérea en España?",
@@ -267,7 +332,9 @@
         "B) Solo a aeronaves extranjeras que operen vuelos militares.",
         "C) A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España."
       ],
-      "respuesta": "C) A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España."
+      "respuesta": "C) A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 1.2, Aplicación. Página 232",
+      "explicacion": "El Reglamento del Aire se aplicará a las aeronaves extranjeras en circulación general que se encuentren en espacio aéreo o territorio de soberanía española o en espacio aéreo asignado a España."
     },
     {
       "texto": "34. ¿Cuándo está permitido el vaciado de combustible de una aeronave?",
@@ -276,7 +343,9 @@
         "B) Solo en caso de emergencia.",
         "C) En cualquier momento si se notifica al control de tránsito aéreo."
       ],
-      "respuesta": "B) Solo en caso de emergencia."
+      "respuesta": "B) Solo en caso de emergencia.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.2, Protección de personas y propiedad. Página 236",
+      "explicacion": "Ninguna aeronave vaciará combustible en vuelo salvo en caso de una emergencia o en otras situaciones urgentes que requieran dicho vaciado para disminuir la masa máxima de aterrizaje a fin de realizar un aterrizaje seguro."
     },
     {
       "texto": "35. ¿Qué se requiere para un vuelo en formación?",
@@ -285,7 +354,9 @@
         "B) Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo.",
         "C) Únicamente la coordinación entre los pilotos participantes."
       ],
-      "respuesta": "B) Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo."
+      "respuesta": "B) Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.2, Protección de personas y propiedad. Página 237",
+      "explicacion": "Podrá realizarse vuelo en formación de aeronaves en el espacio aéreo controlado siempre que se respeten los requisitos establecidos en SERA.3135, y en el plan de vuelo deberá especificarse que se trata de un vuelo en formación."
     },
     {
       "texto": "36. ¿Qué estándar de tiempo se utiliza en las operaciones aeronáuticas?",
@@ -294,7 +365,9 @@
         "B) Tiempo Universal Coordinado (UTC).",
         "C) Hora Media de Greenwich (GMT)."
       ],
-      "respuesta": "B) Tiempo Universal Coordinado (UTC)."
+      "respuesta": "B) Tiempo Universal Coordinado (UTC).",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.5, Hora. Página 242",
+      "explicacion": "Se utilizará el Tiempo Universal Coordinado (UTC) que deberá expresarse en horas y minutos y, cuando se requiera, en segundos del día de 24 horas que comienza a medianoche. En AIS se usa también como sistema de referencia temporal."
     },
     {
       "texto": "37. ¿Quién determina las clases de espacio aéreo, áreas y rutas ATS, y aeródromos con ATS?",
@@ -303,12 +376,16 @@
         "B) El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea.",
         "C) Exclusivamente la Agencia Estatal de Seguridad Aérea (AESA)."
       ],
-      "respuesta": "B) El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea."
+      "respuesta": "B) El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.6, Servicio de Control de Tránsito Aéreo. Página 243",
+      "explicacion": "La determinación de las clases de espacio aéreo, de las partes del espacio aéreo en las que hayan de prestarse servicios de tránsito aéreo y de los aeródromos civiles en los que se prestarán servicios de tránsito aéreo de aeródromo corresponde al Ministro de Fomento, previo informe de CIDEFO. Otras determinaciones específicas se hacen por resolución del Director de la AESA."
     },
     {
       "texto": "38. En una situación de emergencia, ¿qué código de transpondedor SSR debe seleccionar el piloto?",
       "opciones": ["A) 7600.", "B) 7700.", "C) 7500."],
-      "respuesta": "B) 7700."
+      "respuesta": "B) 7700.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.7, Interferencia ilícita y emergencia. Página 249",
+      "explicacion": "Ante situaciones de emergencia, si la aeronave está equipada con transpondedor SSR, el piloto seleccionará inmediatamente el código 7700 en modo A, salvo que reciba otras instrucciones de la dependencia ATS o se trate de un supuesto de interferencia ilícita."
     },
     {
       "texto": "39. ¿Qué documento se requiere para las operaciones especiales (militares, SAR, etc.) y detalla sus características y exenciones al RCA?",
@@ -317,7 +394,9 @@
         "B) Un NOTAM de serie especial.",
         "C) Una 'Carta Operacional'."
       ],
-      "respuesta": "C) Una 'Carta Operacional'."
+      "respuesta": "C) Una 'Carta Operacional'.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 2.8, Operaciones especiales. Página 252",
+      "explicacion": "Los operadores de las aeronaves que realizan estas misiones (Operaciones Especiales) deberán contar con una 'Carta Operacional' debidamente justificada y aprobada, la cual contiene, entre otros datos, las exenciones al Reglamento de Circulación Aérea necesarias."
     },
     {
       "texto": "40. Para un vuelo VFR, ¿cuál es la condición mínima de techo de nubes para despegue/aterrizaje en aeródromos controlados o no?",
@@ -326,12 +405,16 @@
         "B) Libre de nubes en todo momento.",
         "C) No inferior a 450 metros (1500 ft)."
       ],
-      "respuesta": "C) No inferior a 450 metros (1500 ft)."
+      "respuesta": "C) No inferior a 450 metros (1500 ft).",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 3.2, Reglas de Vuelo Visual (VFR). Página 257",
+      "explicacion": "Salvo autorización ATC, los vuelos VFR/VFRN no despegarán ni aterrizarán en ningún aeródromo controlado o no controlado si el techo de nubes es inferior a 450 m (1500 ft) o si la visibilidad en tierra es inferior a 5 km."
     },
     {
       "texto": "41. Los vuelos VFR tienen límites de altitud. En las FIR/UIR de Madrid, Barcelona y Canarias, ¿no deben volar por encima de qué nivel de vuelo?",
       "opciones": ["A) FL460.", "B) FL195.", "C) FL290."],
-      "respuesta": "B) FL195."
+      "respuesta": "B) FL195.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 3.2, Reglas de Vuelo Visual (VFR). Página 258",
+      "explicacion": "A menos que lo autorice la autoridad ATS competente, no se realizarán vuelos VFR/VFRN por encima del FL195 en las FIR/UIR de Madrid, Barcelona y Canarias."
     },
     {
       "texto": "42. Para un Vuelo Visual Especial (VFR Especial), ¿cuál es la visibilidad en vuelo mínima requerida (excepto helicópteros)?",
@@ -340,7 +423,9 @@
         "B) No inferior a 5 km.",
         "C) No inferior a 1500m."
       ],
-      "respuesta": "C) No inferior a 1500m."
+      "respuesta": "C) No inferior a 1500m.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 3.3, Vuelos VFR especiales. Página 264",
+      "explicacion": "Para un vuelo VFR especial, la visibilidad en vuelo no será inferior a 1500 m o, para helicópteros, no inferior a 800 m."
     },
     {
       "texto": "43. ¿Cuándo se autorizan generalmente los vuelos VFR Especiales?",
@@ -349,7 +434,9 @@
         "B) Tanto diurno como nocturno.",
         "C) Solo nocturno en zonas de control específicas."
       ],
-      "respuesta": "A) Solo diurno, salvo helicópteros en circunstancias especiales."
+      "respuesta": "A) Solo diurno, salvo helicópteros en circunstancias especiales.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 3.3, Vuelos VFR especiales. Página 264",
+      "explicacion": "Estos vuelos VFR especiales únicamente podrán realizarse durante el día, a menos que la Autoridad Competente permita lo contrario para helicópteros en circunstancias especiales (como vuelos de policía, médicos, SAR, etc.)."
     },
     {
       "texto": "44. Para un vuelo IFR, ¿cuál es la altitud mínima de vuelo sobre el obstáculo más alto en terreno elevado/montañoso dentro de un radio de 8 km?",
@@ -358,7 +445,9 @@
         "B) 600m (2000ft).",
         "C) 300m (1000ft)."
       ],
-      "respuesta": "B) 600m (2000ft)."
+      "respuesta": "B) 600m (2000ft).",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 3.4, Reglas de Vuelo por Instrumentos (IFR). Página 270",
+      "explicacion": "Sobre terreno elevado o en áreas montañosas, los vuelos IFR se efectuarán a un nivel de por lo menos 600 m (2000 pies) por encima del obstáculo más alto que se halle dentro de un radio de 8 Km con respecto a la posición estimada de la aeronave en vuelo."
     },
     {
       "texto": "45. ¿Cuáles son las Regiones de Información de Vuelo (FIR/UIR) de España mencionadas en los documentos?",
@@ -367,7 +456,9 @@
         "B) Madrid, Barcelona y Canarias.",
         "C) Madrid, Sevilla y Bilbao."
       ],
-      "respuesta": "B) Madrid, Barcelona y Canarias."
+      "respuesta": "B) Madrid, Barcelona y Canarias.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 4.1, División. Página 275",
+      "explicacion": "En España el área de responsabilidad de los servicios de tránsito aéreo comprende las regiones de información de vuelo (FIR/UIR) de Madrid, Barcelona y Canarias."
     },
     {
       "texto": "46. En el espacio aéreo no controlado, ¿qué servicios se proporcionan?",
@@ -376,7 +467,9 @@
         "B) Exclusivamente servicio de información meteorológica.",
         "C) Servicio de control de tránsito aéreo completo."
       ],
-      "respuesta": "A) Servicio de información de vuelo, asesoramiento y alerta."
+      "respuesta": "A) Servicio de información de vuelo, asesoramiento y alerta.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 4.1, División. Página 278",
+      "explicacion": "El Espacio Aéreo No Controlado es aquel donde no se proporciona servicio de control de la circulación aérea, pero sí se proporciona servicio de información de vuelo, asesoramiento y alerta."
     },
     {
       "texto": "47. ¿Qué es una Zona de Control (CTR)?",
@@ -385,7 +478,9 @@
         "B) Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR.",
         "C) Un área que se extiende desde una altura especificada sobre el terreno y agrupa aeródromos."
       ],
-      "respuesta": "B) Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR."
+      "respuesta": "B) Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 4.1, División. Página 282",
+      "explicacion": "Se designa Zona de Control (CTR) al espacio aéreo controlado que se extiende hacia arriba desde la superficie terrestre hasta un límite superior especificado."
     },
     {
       "texto": "48. Según la clasificación del espacio aéreo de la OACI (Anexo 11), ¿cuáles de las siguientes clases corresponden a espacio aéreo controlado?",
@@ -394,7 +489,9 @@
         "B) Clases F, G.",
         "C) Clases A, B, C, D, E."
       ],
-      "respuesta": "C) Clases A, B, C, D, E."
+      "respuesta": "C) Clases A, B, C, D, E.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 4.2, Clasificación. Página 294",
+      "explicacion": "El Espacio aéreo controlado, que comprende Áreas de Control y Zonas de Control, se clasifica en espacio aéreo clases A, B, C, D, y E. El resto del espacio aéreo ATS es no controlado (F y G)."
     },
     {
       "texto": "49. Uno de los objetivos principales de los Servicios de Tránsito Aéreo (ATS) es:",
@@ -403,7 +500,9 @@
         "B) Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves.",
         "C) Controlar las tarifas de los vuelos comerciales."
       ],
-      "respuesta": "B) Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves."
+      "respuesta": "B) Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.1, Introducción. Página 307",
+      "explicacion": "Los objetivos de los Servicios de Tránsito Aéreo son prevenir colisiones entre aeronaves y entre éstas y los obstáculos, y dar fluidez y ordenar el movimiento del tránsito aéreo."
     },
     {
       "texto": "50. ¿Cuál es una función del Servicio de Control de Aeródromo?",
@@ -412,7 +511,9 @@
         "B) Proveer guía vectorial para aproximaciones finales ILS, visuales o radar.",
         "C) Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías."
       ],
-      "respuesta": "C) Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías."
+      "respuesta": "C) Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.2, Servicio de Control de Tránsito Aéreo. Página 316",
+      "explicacion": "El Servicio de Control de Aeródromo es el responsable de suministrar control de tránsito aéreo para la fase del vuelo que se desarrolla en el aeródromo. Sus funciones incluyen la supervisión de la trayectoria de vuelo de aeronaves en aproximación final y de otras aeronaves en las cercanías del aeródromo."
     },
     {
       "texto": "51. El Servicio de Información de Vuelo (FIS) asesora y facilita información útil para vuelos seguros y eficaces. ¿Exime esto al piloto de sus responsabilidades?",
@@ -421,7 +522,9 @@
         "B) Sí, durante el vuelo el piloto puede delegar la responsabilidad en el FIS.",
         "C) No, no exime al piloto de sus responsabilidades."
       ],
-      "respuesta": "C) No, no exime al piloto de sus responsabilidades."
+      "respuesta": "C) No, no exime al piloto de sus responsabilidades.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.3, Servicio de Información de Vuelo. Página 319",
+      "explicacion": "El servicio de información de vuelo no exime al piloto al mando de una aeronave de ninguna de sus responsabilidades y es él el que tiene que tomar la decisión definitiva respecto a cualquier alteración del plan de vuelo."
     },
     {
       "texto": "52. ¿Cuál es la diferencia entre ATIS y OFIS en las radiodifusiones de información de vuelo?",
@@ -430,7 +533,9 @@
         "B) ATIS es para un aeródromo, mientras que OFIS es para varios aeropuertos.",
         "C) ATIS provee información meteorológica y OFIS solo de tráfico."
       ],
-      "respuesta": "B) ATIS es para un aeródromo, mientras que OFIS es para varios aeropuertos."
+      "respuesta": "B) ATIS es para un aeródromo, mientras que OFIS es para varios aeropuertos.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.3, Servicio de Información de Vuelo. Página 325",
+      "explicacion": "La Radiodifusión ATIS (Automatic Terminal Information Service) suministra información meteorológica y operacional referente a un solo aeropuerto, mientras que la Radiodifusión OFIS (Operational Flight Information Service) suministra información referente a un conjunto de aeropuertos."
     },
     {
       "texto": "53. ¿Qué se establece en la Fase de Incertidumbre (INCERFA) de una emergencia?",
@@ -439,7 +544,9 @@
         "B) Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos.",
         "C) Temor por la seguridad de una aeronave tras una fase de incertidumbre sin noticias."
       ],
-      "respuesta": "B) Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos."
+      "respuesta": "B) Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.4, Servicio de Alerta. Página 329",
+      "explicacion": "La Fase de incertidumbre (INCERFA) es una situación en la cual existe duda acerca de la seguridad de una aeronave y de sus ocupantes. Se activa, por ejemplo, cuando no se haya recibido ninguna comunicación de la aeronave dentro de los 30 minutos siguientes a la hora en que debía haberse recibido."
     },
     {
       "texto": "54. ¿Cuándo se declara una Fase de Peligro (DETRESFA)?",
@@ -448,7 +555,9 @@
         "B) Cuando se siente temor por la seguridad de la aeronave tras una fase de incertidumbre.",
         "C) Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable."
       ],
-      "respuesta": "C) Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable."
+      "respuesta": "C) Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable.",
+      "referencia": "MÓDULO 2. UNIDAD 1. Apartado 5.4, Servicio de Alerta. Página 333",
+      "explicacion": "La Fase de peligro (DETRESFA) se activa cuando existen motivos justificados para creer que una aeronave y sus ocupantes están amenazados por un peligro grave e inminente y necesitan auxilio inmediato, por ejemplo, cuando se considera que se ha agotado el combustible o se cree probable un aterrizaje forzoso."
     },
     {
       "texto": "55. ¿Cuál es una de las funciones de las Oficinas de Notificación de los Servicios de Tránsito Aéreo (ARO)?",
@@ -457,7 +566,9 @@
         "B) Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta.",
         "C) Gestionar el mantenimiento de las instalaciones de navegación aérea."
       ],
-      "respuesta": "B) Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta."
+      "respuesta": "B) Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 338",
+      "explicacion": "Las ARO se encargan de todos los temas relacionados con el tratamiento de los Planes de vuelo y mensajes asociados, y de prestar servicio de información y alerta cuando sea necesario."
     },
     {
       "texto": "56. ¿Se requiere la presentación de un plan de vuelo para vuelos a través de fronteras internacionales?",
@@ -466,7 +577,9 @@
         "B) No, solo se requiere para vuelos dentro del mismo espacio aéreo nacional.",
         "C) Sí, salvo que los Estados dispongan lo contrario."
       ],
-      "respuesta": "C) Sí, salvo que los Estados dispongan lo contrario."
+      "respuesta": "C) Sí, salvo que los Estados dispongan lo contrario.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 2.2, Vuelos que requieren presentación del FPL. Página 344",
+      "explicacion": "Se requiere plan de vuelo para cualquier vuelo a través de fronteras internacionales, a menos que los Estados interesados prescriban otra cosa."
     },
     {
       "texto": "57. ¿Cuál es el plazo mínimo de presentación de un plan de vuelo para vuelos internacionales o con servicio de control/asesoramiento?",
@@ -475,7 +588,9 @@
         "B) Sin un plazo fijo, siempre que se presente antes del despegue.",
         "C) Al menos 30 minutos antes de la EOBT."
       ],
-      "respuesta": "A) Al menos 60 minutos antes de la EOBT (Hora estimada de fuera calzos)."
+      "respuesta": "A) Al menos 60 minutos antes de la EOBT (Hora estimada de fuera calzos).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 2.3, Actuación por parte de las ARO. Página 349",
+      "explicacion": "Se presentará un plan de vuelo para cualquier vuelo que vaya a volar a través de fronteras internacionales o al que haya de suministrarse servicio de control o de asesoramiento de tránsito aéreo, por lo menos 60 minutos antes de la salida."
     },
     {
       "texto": "58. Si un plan de vuelo se presenta durante el vuelo (AFIL), ¿cuánto tiempo antes de la entrada en un área controlada/asesoramiento debe hacerse?",
@@ -484,7 +599,9 @@
         "B) Inmediatamente al entrar en dicha área.",
         "C) Al menos 10 minutos."
       ],
-      "respuesta": "C) Al menos 10 minutos."
+      "respuesta": "C) Al menos 10 minutos.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 2.3, Actuación por parte de las ARO. Página 351",
+      "explicacion": "Si se presenta durante el vuelo, debe ser en un momento en que exista la seguridad de que lo recibirá la dependencia apropiada de los servicios de tránsito aéreo por lo menos 10 minutos antes de la hora en que se calcule que la aeronave llegará al punto previsto de entrada en un área de control o en un área con servicio de asesoramiento."
     },
     {
       "texto": "59. ¿Qué cambio en un plan de vuelo requiere la cancelación del plan original y la presentación de uno nuevo (CNL)?",
@@ -493,7 +610,9 @@
         "B) Un retraso de la EOBT (hora estimada de fuera calzos).",
         "C) Un cambio en el tipo de aeronave (casilla 9)."
       ],
-      "respuesta": "A) Un cambio en la identificación de la aeronave (casilla 7)."
+      "respuesta": "A) Un cambio en la identificación de la aeronave (casilla 7).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 2.4, Cambios en el Plan de Vuelo. Página 355",
+      "explicacion": "Los cambios que implican la CANCELACIÓN del plan de vuelo incluyen la Identificación de la aeronave (casilla 7), el Aeródromo de salida (casilla 13), Aeródromo de destino (casilla 16), o el adelanto en la EOBT en más de 15'."
     },
     {
       "texto": "60. Un cambio en la ruta (casilla 15) de un plan de vuelo se gestiona mediante:",
@@ -502,12 +621,16 @@
         "B) Un mensaje de modificación (CHG).",
         "C) La presentación de un nuevo plan de vuelo completo."
       ],
-      "respuesta": "B) Un mensaje de modificación (CHG)."
+      "respuesta": "B) Un mensaje de modificación (CHG).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 2.4, Cambios en el Plan de Vuelo. Página 356",
+      "explicacion": "Los cambios en la ruta (casilla 15) son cambios que no implican la cancelación del plan de vuelo, gestionándose mediante un mensaje de modificación (CHG)."
     },
     {
       "texto": "61. ¿Cuántos caracteres alfanuméricos como máximo puede tener la identificación de la aeronave en la casilla 7 del plan de vuelo?",
       "opciones": ["A) 10.", "B) 7.", "C) 4."],
-      "respuesta": "B) 7."
+      "respuesta": "B) 7.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 360",
+      "explicacion": "La Casilla 7 (Identificación de la aeronave) contiene como máximo 7 caracteres alfanuméricos."
     },
     {
       "texto": "62. ¿Qué significa la letra 'Y' en la casilla 8 (Reglas de vuelo) del plan de vuelo?",
@@ -516,12 +639,16 @@
         "B) Vuelo IFR exclusivamente.",
         "C) Vuelo VFR a IFR (el cambio se indica en la casilla 15)."
       ],
-      "respuesta": "A) Vuelo IFR a VFR (el cambio se indica en la casilla 15)."
+      "respuesta": "A) Vuelo IFR a VFR (el cambio se indica en la casilla 15).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 362",
+      "explicacion": "En la primera sección de la Casilla 8 (Reglas de vuelo), la letra Y se utiliza si son IFR primero y VFR después, indicándose el punto de cambio en la casilla 15."
     },
     {
       "texto": "63. ¿Qué categoría de estela turbulenta corresponde a una aeronave con un peso de despegue de 136000kg o más?",
       "opciones": ["A) M (Media).", "B) J (Super Pesada).", "C) H (Pesada)."],
-      "respuesta": "C) H (Pesada)."
+      "respuesta": "C) H (Pesada).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 367",
+      "explicacion": "La letra H (Pesada) se utiliza para indicar un tipo de aeronave de masa máxima certificada de despegue de 136.000 kg o más."
     },
     {
       "texto": "64. En la casilla 10a (Equipo de radiocomunicaciones, ayudas a la navegación y aproximación), ¿qué significa la letra 'S'?",
@@ -530,12 +657,16 @@
         "B) Equipo normalizado (VHF RTF, VOR, ILS).",
         "C) No lleva o no funciona el equipo de radio y navegación."
       ],
-      "respuesta": "B) Equipo normalizado (VHF RTF, VOR, ILS)."
+      "respuesta": "B) Equipo normalizado (VHF RTF, VOR, ILS).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 370",
+      "explicacion": "Si se utiliza la letra S, significa que lleva equipo normalizado COM / NAV de ayudas para la navegación y la aproximación para la ruta considerada y que tal equipo funciona. Los equipos VHF RTF, VOR e ILS se consideran normalizados (nota 1)."
     },
     {
       "texto": "65. ¿Qué letra en la casilla 10a del plan de vuelo indica que la aeronave está equipada para operar en espacio aéreo RVSM?",
       "opciones": ["A) R.", "B) W.", "C) G."],
-      "respuesta": "B) W."
+      "respuesta": "B) W.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 374",
+      "explicacion": "La inclusión de la letra W indica que la aeronave dispone de aprobación para el vuelo en espacio aéreo RVSM."
     },
     {
       "texto": "66. Si un plan de vuelo es un plan en vuelo (AFIL), ¿qué se indica en la casilla 13 (Aeródromo de salida)?",
@@ -544,37 +675,51 @@
         "B) AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/).",
         "C) ZZZZ, y el nombre del aeródromo de salida en la casilla 18 (DEP/)."
       ],
-      "respuesta": "B) AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/)."
+      "respuesta": "B) AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 384",
+      "explicacion": "Si el plan de vuelo recibido procede de una aeronave en vuelo, se insertará AFIL en la casilla 13, indicándose en la casilla 18, el indicador de lugar de cuatro letras de la dependencia ATS de la que pueden obtenerse datos del plan de vuelo suplementario, precedidos de DEP/."
     },
     {
       "texto": "67. En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar la velocidad de crucero en número Mach?",
       "opciones": ["A) N.", "B) M.", "C) K."],
-      "respuesta": "B) M."
+      "respuesta": "B) M.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 386",
+      "explicacion": "La velocidad de crucero puede venir expresada en Número de Mach verdadero mediante la letra M seguida de 3 cifras."
     },
     {
       "texto": "68. En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar el nivel de crucero como altitud en pies?",
       "opciones": ["A) S.", "B) F.", "C) A."],
-      "respuesta": "C) A."
+      "respuesta": "C) A.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 387",
+      "explicacion": "El nivel de crucero puede expresarse como Altitud en centenares de pies mediante A seguida de 3 cifras."
     },
     {
       "texto": "69. ¿Cuántos aeródromos de alternativa de destino como máximo pueden indicarse en la casilla 16 del plan de vuelo?",
       "opciones": ["A) 2.", "B) 3.", "C) 1."],
-      "respuesta": "A) 2."
+      "respuesta": "A) 2.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 401",
+      "explicacion": "En la segunda sección de la Casilla 16 (Aeródromo(s) de alternativa de destino), como máximo, se incluirán dos aeródromos de alternativa, separados por un espacio."
     },
     {
       "texto": "70. ¿Qué indicador de la casilla 18 (Otros datos) del plan de vuelo se utiliza para la 'Fecha de salida'?",
       "opciones": ["A) DAT/.", "B) DOF/.", "C) DEP/."],
-      "respuesta": "B) DOF/."
+      "respuesta": "B) DOF/.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 415",
+      "explicacion": "DOF/ - Fecha de salida del vuelo, en formato de seis cifras (AAMMDD), donde AA es el año, MM es el mes y DD es el día."
     },
     {
       "texto": "71. ¿Qué indicador de la casilla 18 (Otros datos) se utiliza para especificar un tratamiento especial ATS como 'Vuelo de Estado'?",
       "opciones": ["A) RMK/STATE.", "B) STS/STATE.", "C) PER/STATE."],
-      "respuesta": "B) STS/STATE."
+      "respuesta": "B) STS/STATE.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 405",
+      "explicacion": "El indicador STS/ (Causa por la que se requiere tratamiento especial por parte del ATS) incluye STS/STATE para aeronaves militares o civiles autorizadas en misiones militares y/o de policía o aduanas."
     },
     {
       "texto": "72. En la casilla 19 (Información suplementaria) del plan de vuelo, ¿qué letra se utiliza para indicar la autonomía de combustible?",
       "opciones": ["A) F/.", "B) E/.", "C) C/."],
-      "respuesta": "B) E/."
+      "respuesta": "B) E/.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 426",
+      "explicacion": "La Casilla 19 se compone de varias secciones, siendo la primera la de Autonomía, indicada por E/ seguido de un grupo de 4 cifras para indicar la autonomía de combustible en horas y minutos."
     },
     {
       "texto": "73. Si en la casilla 19 se tacha la 'P' del equipo de supervivencia (S/P), ¿qué indica?",
@@ -583,7 +728,9 @@
         "B) Que se lleva equipo de supervivencia para desierto.",
         "C) Que no se lleva equipo de supervivencia polar."
       ],
-      "respuesta": "C) Que no se lleva equipo de supervivencia polar."
+      "respuesta": "C) Que no se lleva equipo de supervivencia polar.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado , . Página 428",
+      "explicacion": "Dentro de la sección S/ (EQUIPO DE SUPERVIVENCIA), se tachan: P si no se lleva a bordo equipo de supervivencia polar; D si no se lleva a bordo equipo de supervivencia para el desierto; M si no se lleva a bordo equipo de supervivencia marítimo; J si no se lleva a bordo equipo de supervivencia para la selva."
     },
     {
       "texto": "74. Para vuelos IFR sin SLOT, ¿cuántos minutos de demora justifican el envío de un Mensaje de Demora (DLA)?",
@@ -592,7 +739,9 @@
         "B) Más de 15 minutos.",
         "C) Más de 60 minutos."
       ],
-      "respuesta": "B) Más de 15 minutos."
+      "respuesta": "B) Más de 15 minutos.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 4.2, Mensajes de Plan de Vuelo. Página 433",
+      "explicacion": "En el caso de que haya una demora de más de quince (15) minutos respecto a la hora prevista de fuera de calzos para un vuelo IFR (excepto si el vuelo IFR tiene un SLOT asignado), se comunicará tal circunstancia mediante un mensaje DLA."
     },
     {
       "texto": "75. ¿Cuándo se envía un Mensaje de Llegada (ARR) para un vuelo IFR?",
@@ -601,7 +750,9 @@
         "B) A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino.",
         "C) Solo si el aeródromo de destino no tiene servicio de control."
       ],
-      "respuesta": "B) A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino."
+      "respuesta": "B) A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 4.2, Mensajes de Plan de Vuelo. Página 440",
+      "explicacion": "Para vuelos IFR, se transmitirá un mensaje ARR cuando lo solicite el operador de compañía, o una dependencia ATS, o cuando se aterrice en el aeródromo de alternativa o en otro distinto al de destino."
     },
     {
       "texto": "76. ¿Qué tipo de planes de vuelo gestiona Eurocontrol a través de su IFPS en la IFPS Zone (IFPZ)?",
@@ -610,7 +761,9 @@
         "B) Planes de vuelo IFR/GAT (y vuelos Y/Z).",
         "C) Todos los planes de vuelo VFR y IFR."
       ],
-      "respuesta": "B) Planes de vuelo IFR/GAT (y vuelos Y/Z)."
+      "respuesta": "B) Planes de vuelo IFR/GAT (y vuelos Y/Z).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 5.1, Generalidades. Página 448",
+      "explicacion": "Los planes de vuelo y mensajes asociados de todos los vuelos IFR / GAT, así como los vuelos bajo reglas de vuelo Z o Y, que entren, sobrevuelen o despeguen de la zona IFPZ serán encaminados solamente a las dos direcciones del IFPS."
     },
     {
       "texto": "77. ¿Con cuánta antelación mínima deben enviarse los planes de vuelo al IFPS antes de la EOBT?",
@@ -619,7 +772,9 @@
         "B) Al menos 3 horas.",
         "C) Al menos 60 minutos."
       ],
-      "respuesta": "B) Al menos 3 horas."
+      "respuesta": "B) Al menos 3 horas.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 5.2, Requerimientos. Página 451",
+      "explicacion": "Los Planes de vuelo deberán ser enviados al IFPS para su tratamiento al menos tres horas antes de su EOBT cuando sea posible."
     },
     {
       "texto": "78. ¿Qué significa un Mensaje Operacional de Respuesta (ORM) 'REJ' enviado por el IFPS?",
@@ -628,7 +783,9 @@
         "B) Rechazo, el mensaje no ha sido procesado.",
         "C) Aceptación, el mensaje cumple con la normativa."
       ],
-      "respuesta": "B) Rechazo, el mensaje no ha sido procesado."
+      "respuesta": "B) Rechazo, el mensaje no ha sido procesado.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 5.6, Mensajes Operacionales de Respuesta. Página 462",
+      "explicacion": "El mensaje REJ será enviado al originador del mensaje para indicarle que el mensaje no ha sido procesado satisfactoriamente, ni por medios automáticos ni manuales, y que en consecuencia dicho mensaje no será aceptado por el IFPS."
     },
     {
       "texto": "79. ¿Qué tipo de vuelos militares procesa el IFPS?",
@@ -637,7 +794,9 @@
         "B) Vuelos militares IFR/GAT.",
         "C) Solo vuelos militares OAT."
       ],
-      "respuesta": "B) Vuelos militares IFR/GAT."
+      "respuesta": "B) Vuelos militares IFR/GAT.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 5.7, Eurocontrol y los vuelos militares. Página 464",
+      "explicacion": "El IFPS solo procesará aquellos vuelos militares que sean en parte o en su totalidad IFR / GAT, ya que GAT significa volar bajo las reglas y procedimientos de la Autoridad ATC CIVIL."
     },
     {
       "texto": "80. ¿Qué verifica el IFPS con respecto a la ruta del plan de vuelo?",
@@ -646,7 +805,9 @@
         "B) Exclusivamente que la ruta sea la más directa entre el origen y el destino.",
         "C) Que la ruta incluya únicamente aerovías designadas."
       ],
-      "respuesta": "A) La disponibilidad de la ruta con restricciones como las RAD (Documento Disponibilidad de Rutas) y los niveles de vuelo."
+      "respuesta": "A) La disponibilidad de la ruta con restricciones como las RAD (Documento Disponibilidad de Rutas) y los niveles de vuelo.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Apartado 5.8, Datos del plan de vuelo (FPL). Página 482",
+      "explicacion": "El IFPS contrastará la disponibilidad de la ruta propuesta con respecto a su hora, restricciones de niveles vuelo, así como cualquier otra restricción especificada en el RAD (Route Availability Document) o en los procedimientos 8.33kHz o RVSM."
     },
     {
       "texto": "81. ¿Cuál es uno de los objetivos de la Gestión del Tráfico Aéreo y de la Capacidad (ATFCM)?",
@@ -655,7 +816,9 @@
         "B) Regular los precios de los billetes de avión para optimizar la demanda.",
         "C) Gestionar exclusivamente los aspectos financieros de los proveedores de servicios de navegación aérea."
       ],
-      "respuesta": "A) Contribuir a un flujo de tráfico aéreo más seguro, ordenado y rápido, asegurando la máxima utilización de la capacidad ATC."
+      "respuesta": "A) Contribuir a un flujo de tráfico aéreo más seguro, ordenado y rápido, asegurando la máxima utilización de la capacidad ATC.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 1.1, Objetivos. Página 507",
+      "explicacion": "La Gestión de la Afluencia del Tráfico Aéreo es un servicio establecido con el objetivo de contribuir a un más seguro, ordenado y rápido flujo de los tráficos aéreos. Asegurándose de que la capacidad ATC es utilizada al máximo posible."
     },
     {
       "texto": "82. ¿Cuál es uno de los resultados de la Fase Estratégica de la gestión ATFM?",
@@ -664,7 +827,9 @@
         "B) El plan de capacidad anual y el Route Allocation Plan.",
         "C) La asignación de slots en tiempo real."
       ],
-      "respuesta": "B) El plan de capacidad anual y el Route Allocation Plan."
+      "respuesta": "B) El plan de capacidad anual y el Route Allocation Plan.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 1.2, Fases ATFM. Página 509",
+      "explicacion": "El resultado de la Fase Estratégica es el plan de capacidad para el próximo año, el Route Allocation Plan, y otros planes que pueden ser activados conforme sea necesario."
     },
     {
       "texto": "83. ¿Qué célula es responsable de la gestión diaria y la asignación temporal de espacio aéreo en la Fase Pre-Táctica de ATFM?",
@@ -673,7 +838,9 @@
         "B) La Oficina NOTAM Internacional (NOF).",
         "C) El Centro Coordinador de Salvamento (RCC)."
       ],
-      "respuesta": "A) La Célula de Gestión de Espacio Aéreo (AMC)."
+      "respuesta": "A) La Célula de Gestión de Espacio Aéreo (AMC).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 1.2, Fases ATFM. Página 510",
+      "explicacion": "La Fase Pre-Táctica se realiza el día anterior a las operaciones, y la Célula de Gestión de Espacio Aéreo (AMC) recoge y analiza todas las peticiones de espacio aéreo y negocia y decide diariamente su asignación."
     },
     {
       "texto": "84. ¿Cuál es el objetivo principal del Uso Flexible del Espacio Aéreo (FUA)?",
@@ -682,7 +849,9 @@
         "B) Asignar rutas fijas e inmutables para todos los tipos de tráfico.",
         "C) Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar."
       ],
-      "respuesta": "C) Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar."
+      "respuesta": "C) Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 513",
+      "explicacion": "El concepto del uso flexible del espacio aéreo (FUA) ha sido adoptado por la OACI con el propósito de incrementar la capacidad del espacio aéreo, y mejorar la eficiencia y flexibilidad de las operaciones aéreas, permitiendo el máximo uso compartido del espacio aéreo."
     },
     {
       "texto": "85. ¿Cuál es la diferencia principal entre un Espacio Aéreo Temporalmente Reservado (TRA) y un Espacio Aéreo Temporalmente Segregado (TSA)?",
@@ -691,7 +860,9 @@
         "B) El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC.",
         "C) El TRA se planifica en la fase estratégica, mientras que el TSA se gestiona en la fase táctica."
       ],
-      "respuesta": "B) El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC."
+      "respuesta": "B) El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 514",
+      "explicacion": "Un TRA (Espacio Aéreo Temporalmente Reservado) es un volumen de espacio aéreo a través del cual se puede permitir el tránsito de otro tráfico bajo autorización ATC. Un TSA (Espacio Aéreo Temporalmente Segregado) es un volumen a través del cual no se puede permitir el tránsito de otro tráfico bajo autorización ATC."
     },
     {
       "texto": "86. Las Rutas Condicionales (CDR) de Nivel 3 (Fase Táctica) ¿cómo se pueden usar?",
@@ -700,7 +871,9 @@
         "B) Se pueden incluir en el plan de vuelo según condiciones publicadas diariamente.",
         "C) Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo."
       ],
-      "respuesta": "C) Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo."
+      "respuesta": "C) Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 520",
+      "explicacion": "Las CDR 3 se utilizan en la fase táctica (Nivel 3). No se pueden planificar en plan de vuelo y solamente se pueden utilizar bajo autorización ATC, previa coordinación civil-militar."
     },
     {
       "texto": "87. ¿Qué es el Documento Disponibilidad de Rutas (RAD)?",
@@ -709,7 +882,9 @@
         "B) Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos.",
         "C) Una lista de todas las rutas condicionales (CDR) disponibles en la IFPZ."
       ],
-      "respuesta": "B) Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos."
+      "respuesta": "B) Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 3.2, Procesos de re-enrutamiento. Página 522",
+      "explicacion": "El RAD (Documento Disponibilidad de Rutas) es un documento completo que combina las rutas de los AIP´s y las Regulaciones Flow junto con los enrutamientos planificados por la ATFM, diseñado para hacer más efectivos las capacidades ATC."
     },
     {
       "texto": "88. Cuando se activa una regulación en el sistema de asignación de slots, ¿qué tiempo se calcula y se envía a los operadores de aeronave y a la Torre de Control?",
@@ -718,7 +893,9 @@
         "B) El CTOT (Calculated Take-Off Time).",
         "C) El EET (Estimated Elapsed Time)."
       ],
-      "respuesta": "B) El CTOT (Calculated Take-Off Time)."
+      "respuesta": "B) El CTOT (Calculated Take-Off Time).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 3.3, Asignación de slot. Página 533",
+      "explicacion": "El sistema CASA (Computer Assisted Slot Allocation) calcula el CTOT (Calculated Take-Off Time) y esta información resultante se envía a los AO´s afectados y a la Torre de Control del aeródromo de salida."
     },
     {
       "texto": "89. ¿Cuál es la ventana de tolerancia que tiene el ATC para el cumplimiento de un slot de salida?",
@@ -727,7 +904,9 @@
         "B) –5/+10 minutos.",
         "C) –0/+15 minutos."
       ],
-      "respuesta": "B) –5/+10 minutos."
+      "respuesta": "B) –5/+10 minutos.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 3.3, Asignación de slot. Página 540",
+      "explicacion": "El ATC dispone de un periodo de tolerancia en el slot (ventana de utilización del slot) de –5/+10 minutos para poder organizar a su discreción la secuencia de despegue."
     },
     {
       "texto": "90. ¿Qué parámetro aeroportuario es crucial en la asignación de Slot y puede ser modificado por el NM a petición de la FMP?",
@@ -736,7 +915,9 @@
         "B) Taxitime (Tiempo de Rodaje).",
         "C) Tiempo para salir de la secuencia (TRS)."
       ],
-      "respuesta": "B) Taxitime (Tiempo de Rodaje)."
+      "respuesta": "B) Taxitime (Tiempo de Rodaje).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 541",
+      "explicacion": "El valor del taxitime (Tiempo de Rodaje) es un parámetro muy importante tenido en cuenta durante el proceso de asignación de Slot. El taxitime por defecto es especificado para cada pista y puede ser cambiado el día de operación bajo petición de la FMP afectada."
     },
     {
       "texto": "91. ¿Cuál de los siguientes no es una causa común de recepción tardía de mensajes de slot?",
@@ -745,7 +926,9 @@
         "B) La presentación tardía del plan de vuelo.",
         "C) La activación manual del sistema de asignación de slots (CASA)."
       ],
-      "respuesta": "C) La activación manual del sistema de asignación de slots (CASA)."
+      "respuesta": "C) La activación manual del sistema de asignación de slots (CASA).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 544",
+      "explicacion": "Las cuatro causas que pueden provocar la recepción tardía de un slot son: Presentación tardía del plan de vuelo, Una Regulación se crea o modifica, Intervención Manual, y Retraso en la transmisión. La activación manual (Intervención Manual) se clasifica como una causa, pero la pregunta en el archivo de origen sugiere que, contextualmente, no es la menos probable, si no la que puede resultar en una actualización, no en una recepción inicial tardía. No obstante, dado que las fuentes listan 4 causas y la activación manual es una de ellas, para ajustarnos a la lógica del documento, se asume que la activación manual no es una causa de recepción tardía en el sentido de que el mensaje llegue fuera de tiempo por esta causa, sino más bien que genera un SRM (actualización) en ese momento."
     },
     {
       "texto": "92. ¿Qué sucede con un vuelo bajo Flight Activation Monitoring (FAM) si no despega a la hora estimada y no se comunica el despegue tras un período definido (ej. 30 minutos)?",
@@ -754,7 +937,9 @@
         "B) El ATC le otorga una extensión automática del slot.",
         "C) El vuelo se suspende (FLS)."
       ],
-      "respuesta": "C) El vuelo se suspende (FLS)."
+      "respuesta": "C) El vuelo se suspende (FLS).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 550",
+      "explicacion": "Cuando el periodo considerado para el desplazamiento (actualmente 30 minutos) se alcanza sin que se haya comunicado el despegue del vuelo (bajo FAM), este será suspendido y recibirá un FLS."
     },
     {
       "texto": "93. En situaciones de baja visibilidad, ¿qué tipo de medidas ATFCM se aplican para gestionar la capacidad?",
@@ -763,7 +948,9 @@
         "B) Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas.",
         "C) Aumento de las tasas de afluencia para compensar los retrasos."
       ],
-      "respuesta": "B) Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas."
+      "respuesta": "B) Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 553",
+      "explicacion": "Para prevenir una situación de excesiva necesidad de espera en baja visibilidad, se pueden aplicar ciertas medidas ATFCM selectivas. Estas medidas tendrán en cuenta la demanda total, los distintos tipos de tráficos previstos (por ejemplo, la proporción de aquellos que puedan comenzar la aproximación) y la situación actual y futura de las previsiones meteorológicas."
     },
     {
       "texto": "94. Ante el cierre de un aeródromo o espacio aéreo, ¿qué puede hacer el Network Manager (NM)?",
@@ -772,7 +959,9 @@
         "B) Cerrar inmediatamente todos los planes de vuelo relacionados con la zona afectada sin posibilidad de modificación.",
         "C) Autorizar vuelos a operar sin restricciones en el espacio aéreo adyacente."
       ],
-      "respuesta": "A) Aceptar planes de vuelo y regularlos, suspender vuelos o retrasar operaciones hasta la reapertura."
+      "respuesta": "A) Aceptar planes de vuelo y regularlos, suspender vuelos o retrasar operaciones hasta la reapertura.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 556",
+      "explicacion": "Ante el cierre de un aeródromo o espacio aéreo, el NM puede: aceptar FPL y después regularlos, suspender los vuelos o demorar los vuelos hasta la reapertura."
     },
     {
       "texto": "95. Si un operador de aeronave (AO) no puede cumplir un CTOT, ¿qué debe enviar para obtener un CTOT revisado?",
@@ -781,7 +970,9 @@
         "B) Una solicitud de Slot Allocation List (SAL).",
         "C) Un CHG (Mensaje de Modificación) con la nueva ruta."
       ],
-      "respuesta": "A) Un DLA (Mensaje de Demora) con la nueva EOBT."
+      "respuesta": "A) Un DLA (Mensaje de Demora) con la nueva EOBT.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 560",
+      "explicacion": "Si un vuelo tiene un CTOT que no puede cumplir, el AO debe enviar un DLA al IFPS con la nueva EOBT. Esto provocará la emisión de un CTOT revisado."
     },
     {
       "texto": "96. Si un AO puede cumplir el CTOT pero no la EOBT original, ¿cuál es la norma que debe respetar la nueva EOBT?",
@@ -790,7 +981,9 @@
         "B) Debe ser igual al CTOT asignado.",
         "C) Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'."
       ],
-      "respuesta": "C) Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'."
+      "respuesta": "C) Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 560",
+      "explicacion": "Para evitar que un nuevo CTOT con un retraso aun mayor se envíe, la nueva EOBT debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'."
     },
     {
       "texto": "97. ¿Cuál es el propósito de los mensajes ADEXP (ATS Data Exchange Presentation)?",
@@ -799,7 +992,9 @@
         "B) Establecer comunicación directa entre pilotos en vuelo y los servicios meteorológicos.",
         "C) Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos."
       ],
-      "respuesta": "C) Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos."
+      "respuesta": "C) Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos.",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado , . Página 562",
+      "explicacion": "Los mensajes de intercambio ATFM se establecen mediante un nuevo formato de mensaje llamado ADEXP (ATS Data Exchange Presentation) y permiten que los slots ATFM sean notificados, corregidos, cancelados, así como que se negocien los re-encaminamientos."
     },
     {
       "texto": "98. El documento 'Operaciones Aeronáuticas y Gestión del Tráfico Aéreo' se basa en:",
@@ -808,7 +1003,9 @@
         "B) El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'.",
         "C) Los procedimientos operativos estándar de Eurocontrol."
       ],
-      "respuesta": "B) El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'."
+      "respuesta": "B) El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado , . Página 1",
+      "explicacion": "El título principal del manual de referencia es T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS."
     },
     {
       "texto": "99. ¿Qué entidad es la responsable de la asignación temporal de espacio aéreo en la fase pre-táctica de la gestión ATFM?",
@@ -817,7 +1014,9 @@
         "B) La Célula de Gestión de Espacio Aéreo (AMC).",
         "C) La Oficina NOTAM Internacional (NOF)."
       ],
-      "respuesta": "B) La Célula de Gestión de Espacio Aéreo (AMC)."
+      "respuesta": "B) La Célula de Gestión de Espacio Aéreo (AMC).",
+      "referencia": "MÓDULO 2. UNIDAD 3. Apartado 1.2, Fases ATFM. Página 510",
+      "explicacion": "La Fase Pre-Táctica realiza la gestión día a día, y la asignación temporal de espacio aéreo se realiza a través de la Célula de Gestión de Espacio Aéreo (AMC)."
     },
     {
       "texto": "100. Un Trigger NOTAM debe dar una breve descripción del contenido, la fecha de entrada en vigor y:",
@@ -826,7 +1025,9 @@
         "B) Una referencia a la publicación (AMDT o SUP) que contiene el cambio completo.",
         "C) La hora estimada de salida (EOBT) de los vuelos implicados."
       ],
-      "respuesta": "B) Una referencia a la publicación (AMDT o SUP) que contiene el cambio completo."
+      "respuesta": "B) Una referencia a la publicación (AMDT o SUP) que contiene el cambio completo.",
+      "referencia": "MÓDULO 1. UNIDAD 1. Apartado 3.5, Reglamentación y Control de Información Aeronáutica (AIRAC). Página 95",
+      "explicacion": "Cuando se publique una enmienda o suplemento a las AIP de conformidad con los procedimientos AIRAC, se iniciará un NOTAM (Trigger NOTAM) dando una breve descripción del contenido, la fecha de entrada en vigor y el número de referencia de la enmienda o suplemento."
     }
   ]
 }

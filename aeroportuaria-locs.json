@@ -1,0 +1,508 @@
+{
+  "Aeroportuaria": [
+    {
+      "texto": "1. ¿Cuál es el objetivo principal del documento 'Gestión de Slots y Operaciones Aeroportuarias en España'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO N: T1041239 CURSO BÁSICO DE OPERACIONES AEROPORTUARIAS. UNIDAD N: T1041239 CURSO BÁSICO DE OPERACIONES AEROPORTUARIAS. Apt: . OBJETIVOS. Página 7",
+      "explicacion": "El objetivo final del curso es conseguir que los asistentes adquieran los conocimientos necesarios para la gestión eficiente de estas actividades."
+    },
+    {
+      "texto": "2. ¿En qué año se estableció la OACI (Organización de Aviación Civil Internacional)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 11",
+      "explicacion": "OACI fue establecida en 1947 en Montreal como consecuencia de lo estipulado en el Convenio de Aviación Civil Internacional, el cual fue firmado en Chicago en 1944."
+    },
+    {
+      "texto": "3. ¿Cuál de los siguientes organismos tiene su sede en Bruselas y busca el desarrollo de un 'cielo único europeo'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 13",
+      "explicacion": "EUROCONTROL tiene como objetivo el desarrollo de un sistema seguro, eficaz y coordinado del tráfico aéreo europeo: «Un cielo único europeo»."
+    },
+    {
+      "texto": "4. ¿Qué porcentaje del capital de AENA S.M.E., S.A. posee ENAIRE?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.2 Organismos Nacionales. Página 17",
+      "explicacion": "ENAIRE cuenta con el 51% del capital de AENA S.M.E., S.A., gestor de una red de 46 aeropuertos y 2 helipuertos en España."
+    },
+    {
+      "texto": "5. Según las fuentes, ¿cuál es la posición de AENA S.M.E., S.A. a nivel mundial en cuanto a número de pasajeros?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.3 AENA S.M.E., S.A.. Página 18",
+      "explicacion": "Aena es el primer operador aeroportuario del mundo por número de pasajeros."
+    },
+    {
+      "texto": "6. Según la OACI, ¿qué se define como 'áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.4 Aeropuerto. Página 21",
+      "explicacion": "Según OACI, los aeropuertos son áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie."
+    },
+    {
+      "texto": "7. ¿Qué característica define a un 'Aeropuerto coordinado' según el Reglamento (CEE) nº 95/93?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.8 Aeropuertos según capacidad. Página 25",
+      "explicacion": "Aeropuerto coordinado es aquel donde, para aterrizar o despegar, las compañías aéreas deberán disponer de una franja horaria, slot aeroportuario, asignada por un coordinador nombrado a tal efecto."
+    },
+    {
+      "texto": "8. ¿Cuál es la principal diferencia entre Tráfico Regular y Tráfico No Regular (Chárter)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 2.4 Características de ambos. Página 27",
+      "explicacion": "El tráfico regular opera todos los días establecidos en el programa aunque no haya pasaje. El tráfico no regular (chárter) opera únicamente los días del flete de los operadores."
+    },
+    {
+      "texto": "9. ¿Cuál de las siguientes zonas aeroportuarias está orientada a aeronaves y se encarga de asignar puestos de estacionamiento?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 3.1 Zonas de actividad de un aeropuerto. Página 30",
+      "explicacion": "El lado aire tiene como cliente a las aeronaves, y una de sus tareas principales es asignar los puestos de estacionamiento y vigilar el cumplimiento de las normativas de seguridad."
+    },
+    {
+      "texto": "10. ¿Qué entidad es descrita como el 'centro neurálgico del aeropuerto', encargada de la coordinación de actividades aeroportuarias y la gestión de slots?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 3.2 Oficina de Operaciones. Página 30",
+      "explicacion": "El centro neurálgico del aeropuerto es la Oficina de Operaciones. Esta oficina es la encargada de la coordinación de actividades aeroportuarias, de las operaciones y de todo el tratamiento necesario para la preparación, información y seguimiento de todas las operaciones aeronáuticas."
+    },
+    {
+      "texto": "11. ¿Cuál de los siguientes no es un criterio para la asignación de medios aeroportuarios según las fuentes?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 5.3 Asignación de medios. Página 38",
+      "explicacion": "Los aspectos de carácter general para la asignación de medios son: Compañía que realiza el vuelo, Tipo de tráfico, Motivo del vuelo y Tipo de aeronave."
+    },
+    {
+      "texto": "12. ¿Qué Reglamento (CEE) define el slot aeroportuario como un permiso para usar la infraestructura aeroportuaria?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.1 Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "Un slot aeroportuario es el permiso dado por un Coordinador de conformidad con el Reglamento (CEE) nº 95/93 modificado para utilizar toda la infraestructura aeroportuaria necesaria con fines de aterrizaje o despegue."
+    },
+    {
+      "texto": "13. ¿Cuál de estos aeropuertos españoles se clasifica como 'Coordinado' según las fuentes?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.3 Clasificación de los aeropuertos españoles. Página 47",
+      "explicacion": "El listado de Aeropuertos Coordinados incluye: 'Adolfo Suárez Madrid-Barajas'."
+    },
+    {
+      "texto": "14. ¿Qué categoría de vuelo está exenta del procedimiento de solicitud de slot?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 3. EXENCIONES. Página 52",
+      "explicacion": "Los vuelos que se desvíen a un aeródromo alternativo por razones técnicas o meteorológicas están exentos del procedimiento de solicitud de slot de operación."
+    },
+    {
+      "texto": "15. ¿Cuántas veces al año se declara la capacidad operativa de los aeropuertos?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 2. CAPACIDAD OPERATIVA DE LOS AEROPUERTOS. Página 59",
+      "explicacion": "La variación de la capacidad operativa solo es posible hacerla por Temporadas, por lo que se declara dos veces al año: TEMPORADA DE VERANO y TEMPORADA DE INVIERNO."
+    },
+    {
+      "texto": "16. ¿Qué código de acción en los mensajes de solicitud de slot significa 'autorizado'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 6. SECUENCIA DE LOS MENSAJES. Página 80",
+      "explicacion": "El código de acción 'K' es utilizado por los Coordinadores y significa 'autorizado' o 'confirmación'."
+    },
+    {
+      "texto": "17. ¿Qué sistema es la 'base de datos operacionales del aeropuerto' y permite el control en tiempo real, la facturación y la elaboración de estadísticas?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 5.1 Introducción. Página 114",
+      "explicacion": "SCENA es la base de datos operacionales del aeropuerto, que realiza funciones de control de las operaciones, registro de datos operativos, emisión de facturas y elaboración de estadísticas."
+    },
+    {
+      "texto": "18. ¿Cuál es el propósito principal de SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 4.1 Introducción. Página 110",
+      "explicacion": "SADAMA es un sistema informático que permite la planificación y asignación de los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas en un aeropuerto."
+    },
+    {
+      "texto": "19. ¿Qué herramienta permite gestionar 'cambios o vuelos nuevos de última hora sobre la programación diaria' en aeropuertos coordinados?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 3. GESLOT TR. Página 110",
+      "explicacion": "GESLOT TR es una herramienta utilizada para facilitar la asignación de Slot en los Centros de Operaciones, permitiendo tratar cambios de última hora o la entrada de nuevos vuelos sobre la programación diaria."
+    },
+    {
+      "texto": "20. ¿Qué se entiende por 'vuelo asociado'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 3. VUELO ASOCIADO. Página 85",
+      "explicacion": "Vuelo asociado se conoce como la relación que existe entre un vuelo de llegada y un vuelo de salida de un aeropuerto cuyo nexo común es la misma aeronave."
+    },
+    {
+      "texto": "21. ¿Cuál de los siguientes es un tipo de 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 5.2 Tipos de ingresos. Página 88",
+      "explicacion": "Las Prestaciones Patrimoniales incluyen Aterrizaje y Servicios de Tránsito de Aeródromo, Pasajeros, PMR’s y Seguridad, Estacionamiento de aeronaves, y Utilización de Pasarelas Telescópicas."
+    },
+    {
+      "texto": "22. ¿Qué sistema es utilizado para la gestión de los Slots aeroportuarios y la planificación de vuelos para SCENA?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 2.2 Funciones. Página 106",
+      "explicacion": "GESLOT es la base de datos para la gestión de slots aeroportuarios, que facilita la planificación de vuelos para el sistema Scena."
+    },
+    {
+      "texto": "23. ¿Qué sistema proporciona a SCENA datos de planes de vuelo y horas estimadas?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "SACTA (Sistema Automatizado de Control de Tránsito Aéreo) dispone de datos de planes de vuelo (FPL) y aeronaves en vuelo, y Scena recibe de SACTA los datos de las horas estimadas de cada vuelo."
+    },
+    {
+      "texto": "24. ¿Cuál es la función principal de EASA (Agencia Europea de Seguridad Aérea)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 16",
+      "explicacion": "La función de EASA es unificar los estándares comunes de aeronavegabilidad en la UE y velar por la protección medioambiental en la aviación civil."
+    },
+    {
+      "texto": "25. ¿Cuál de las siguientes es una función de AESA (Agencia Estatal de Seguridad Aérea)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.2 Organismos Nacionales. Página 15",
+      "explicacion": "AESA se encarga de dar las licencias de vuelo, operaciones, comerciales, centros de mantenimiento, etc. y de realizar inspecciones periódicas para asegurar el cumplimiento."
+    },
+    {
+      "texto": "26. ¿Qué herramienta permite la adjudicación centralizada de mostradores y puertas de embarque?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "UCA (Uso Compartido de AENA S.M.E., S.A.) es la Aplicación Centralizada para la adjudicación de mostradores y puertas de embarque."
+    },
+    {
+      "texto": "27. ¿Cuál de los siguientes ejemplos es un 'Precio Privado' facturado por AENA S.M.E., S.A.?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 5.2 Tipos de ingresos. Página 88",
+      "explicacion": "Los Precios Privados incluyen el Sistema de energía a 400 Hz y la Presencia del Servicio contra incendios."
+    },
+    {
+      "texto": "28. ¿Qué sistema se describe como una herramienta para enviar y recibir mensajes télex?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas) es la herramienta que se utiliza para enviar y recibir mensajes tipo télex."
+    },
+    {
+      "texto": "29. ¿Qué concepto implica acuerdos entre aerolíneas para explotar conjuntamente una ruta, vendiendo asientos en el mismo vuelo bajo diferentes identificativos?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 4. VUELOS DE CÓDIGO COMPARTIDO O VUELOS FUNDIDOS. Página 86",
+      "explicacion": "Un acuerdo de código compartido (codeshare) es un acuerdo suscrito por varias aerolíneas para explotar conjuntamente una determinada ruta, vendiendo asientos en un mismo vuelo con sus identificativos correspondientes."
+    },
+    {
+      "texto": "30. ¿Qué ley española, junto con la reglamentación comunitaria, prevé sanciones por el incumplimiento de la normativa de slots?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 4. SANCIONES ADMINISTRATIVAS. Página 53",
+      "explicacion": "Las sanciones por incumplimiento de las normas de slots están previstas en la Ley española de Seguridad Aérea 21/2003 (Artículo 49) y la reglamentación comunitaria (Reglamento CEE nº 95/93)."
+    },
+    {
+      "texto": "31. ¿Cuál es la sede principal de la OACI (Organización de Aviación Civil Internacional)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 11",
+      "explicacion": "La sede de la OACI está en Montreal."
+    },
+    {
+      "texto": "32. ¿En qué año fue fundada EUROCONTROL, la Organización Europea para la Seguridad de la Navegación Aérea?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 13",
+      "explicacion": "EUROCONTROL se fundó en Bruselas en diciembre de 1960."
+    },
+    {
+      "texto": "33. ¿Cuántos centros de control de tránsito aéreo y torres gestiona ENAIRE en España, según las fuentes?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.2 Organismos Nacionales. Página 16",
+      "explicacion": "ENAIRE gestiona 5 centros de control y 22 torres de control."
+    },
+    {
+      "texto": "34. ¿Qué organismo nacional español se encarga de analizar incidentes de Tránsito Aéreo manteniendo el anonimato de los implicados?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.2 Organismos Nacionales. Página 17",
+      "explicacion": "CEANITA es la encargada de analizar y estudiar los incidentes de Tránsito Aéreo y mantiene el anonimato del notificante y de todos los implicados."
+    },
+    {
+      "texto": "35. ¿Además de España, en cuántos aeropuertos en Europa y América participa AENA S.M.E., S.A. en su gestión?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.3 AENA S.M.E., S.A.. Página 19",
+      "explicacion": "AENA S.M.E., S.A. participa directa e indirectamente en la gestión de otros 16 aeropuertos en Europa y América."
+    },
+    {
+      "texto": "36. ¿Cuál de los siguientes no es un modelo de propiedad y gestión de aeropuertos mencionado en el documento?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.6 Propiedad y Gestión de los Aeropuertos. Página 22",
+      "explicacion": "Los modelos de propiedad y gestión son: Propiedad del Gobierno con Control Directo (Pública y Gestión Pública, o Pública y Gestión Privada), Propiedad Mixta y Propiedad Privada Pura."
+    },
+    {
+      "texto": "37. ¿Cuál es el propósito del Network Manager Operations Center (NMOC), anteriormente CFMU, dentro de EUROCONTROL?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 14",
+      "explicacion": "El NMOC (anteriormente CFMU) ofrece servicios operativos básicos, incluyendo la Gestión de flujo y capacidad, con el objetivo de mejorar el rendimiento de la Red ATM europea y evitar la congestión."
+    },
+    {
+      "texto": "38. Según las fuentes, ¿cuál de los siguientes no es un medio aeroportuario suministrado por el gestor del aeropuerto?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 5.1 Conocimiento de los medios. Página 35",
+      "explicacion": "Los medios aeroportuarios suministrados incluyen Stands, Mostradores de facturación, Hipódromos, Puertas de embarque, Muelles/Cintas/Salas de recogida de equipajes y Controles oficiales."
+    },
+    {
+      "texto": "39. ¿Qué implica que un slot aeroportuario 'no confiere derechos de propiedad'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.1 Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "La asignación de un slot aeroportuario no representa ningún derecho de propiedad sobre el slot para la compañía a la que le ha sido concedida la autorización."
+    },
+    {
+      "texto": "40. ¿Cuál es una de las restricciones que la Oficina de Coordinación de Slots de AENA considera al conceder o denegar slots?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.2 Oficina de Coordinación de SLOTS aeroportuarios de AENA S.M.E., S.A.. Página 46",
+      "explicacion": "Para la concesión de Slots se tienen en cuenta restricciones del aeropuerto, tales como: Capacidad de pistas, Capacidad de plataformas y Capacidad de terminales."
+    },
+    {
+      "texto": "41. ¿Cuál de los siguientes aeropuertos españoles se clasifica como 'con horarios facilitados'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.3 Clasificación de los aeropuertos españoles. Página 48",
+      "explicacion": "El listado de Aeropuertos con Horarios Facilitados incluye: 'A Coruña, Almería (Temporada de invierno), Asturias, Badajoz, Córdoba...'."
+    },
+    {
+      "texto": "42. ¿Qué manual debe seguirse para la solicitud de slots a la Oficina de Coordinación?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.4 Procedimiento para la solicitud de SLOT. Página 50",
+      "explicacion": "Las solicitudes de slots u horarios de operación deben formularse obligatoriamente siguiendo las instrucciones especificadas en el Standard Schedules Information Manual (SSIM) de IATA."
+    },
+    {
+      "texto": "43. ¿Según las fuentes, qué métrica se utiliza para medir la Capacidad de Pistas?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 2. CAPACIDAD OPERATIVA DE LOS AEROPUERTOS. Página 60",
+      "explicacion": "La Capacidad de Pistas se mide por el Número de Movimientos en RWY por hora y por slot."
+    },
+    {
+      "texto": "44. ¿Qué código de acción en los mensajes de solicitud de slot significa 'anular'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 3.4 Formato SCR (Standar Clearance Request). Página 70",
+      "explicacion": "El código de acción 'D' en el formato SCR significa 'Anulación de horario'."
+    },
+    {
+      "texto": "45. ¿Qué sistema informático es la 'base de datos operacionales del aeropuerto' y permite la elaboración de la programación diaria y el control de operaciones en tiempo real?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 5.1 Introducción. Página 114",
+      "explicacion": "SCENA (Sistemas Cooperativos para el Entorno Aeroportuario) realiza la elaboración de la programación diaria y el control de las operaciones (registro de datos operativos) en tiempo real."
+    },
+    {
+      "texto": "46. ¿Cuál es la función principal del sistema e-SIA (Sistema de Información Aeroportuaria)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "e-SIA minimiza la comunicación telefónica con el Centro de Operaciones y facilita el acceso a la información entre los distintos operadores aeroportuarios para la toma de decisiones en tiempo real."
+    },
+    {
+      "texto": "47. ¿Con qué sistema intercambia información SATE (Sistema Automatizado de Tratamiento de Equipaje) para la asignación de muelles y el manejo de equipaje?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "SATE intercambia información con la base de datos operacional del aeropuerto (Scena), de donde recibe la programación de vuelos para realizar la asignación de muelles."
+    },
+    {
+      "texto": "48. ¿Qué sistema proporciona a SCENA información sobre aeronaves en fase de aproximación?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "SINA (Sistema de Información de Navegación Aérea) proporciona información de las aeronaves que se encuentran en la fase de aproximación a un aeropuerto."
+    },
+    {
+      "texto": "49. ¿Cuál es el propósito del componente GPV dentro de ICARO XXI?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 6.2 Componente funcional GPV. Página 116",
+      "explicacion": "El componente funcional GPV (Gestión de Plan de Vuelo) permite la creación, modificación, validación, distribución y recepción de mensajes de Plan de Vuelo presentados (FPL) y mensajes asociados, así como de ATFM (SLOT)."
+    },
+    {
+      "texto": "50. ¿Cuál es el objetivo principal de los Aeropuertos HUB?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.7 Aeropuertos HUB. Página 23",
+      "explicacion": "Los aeropuertos hub permiten maximizar las posibilidades de viaje al mismo tiempo que se minimizan los recursos, absorbiendo el tráfico de otros aeropuertos para servir como centro de conexiones."
+    },
+    {
+      "texto": "51. ¿Cuál de las siguientes es una 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 6.2 Pasajeros, PMR´s y Seguridad. Página 91",
+      "explicacion": "La prestación patrimonial de PMR se aplica por los servicios que permiten la movilidad general de los pasajeros y la asistencia necesaria a las personas con movilidad reducida (PMRs)."
+    },
+    {
+      "texto": "52. ¿Qué organismo, aunque gestiona la Tasa de Seguridad Aérea, es AENA S.M.E., S.A. quien la cobra?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 8.1 Tasa de Seguridad Aérea. Página 95",
+      "explicacion": "La Tasa de Seguridad Aérea no forma parte de las prestaciones patrimoniales de AENA S.M.E., S.A., sino que la realiza la Agencia Estatal de Seguridad Aérea (AESA), aunque AENA S.M.E., S.A. colabora en su gestión y cobro."
+    },
+    {
+      "texto": "53. ¿Qué tipo de facturación gestiona AENA S.M.E., S.A. para el uso de instalaciones y servicios aeroportuarios?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 1. INTRODUCCION. Página 83",
+      "explicacion": "Existen dos tipos de facturación: Facturación con Crédito y Facturación sin Crédito."
+    },
+    {
+      "texto": "54. ¿Cuál de las siguientes responsabilidades pertenece a la Oficina de Operaciones en el aeropuerto?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 3.2 Oficina de Operaciones. Página 31",
+      "explicacion": "Entre las Operaciones de coordinación aeroportuaria, la Oficina de Operaciones se encarga de la canalización de incidencias, el tratamiento de contingencias y el tratamiento de emergencias."
+    },
+    {
+      "texto": "55. ¿Qué organismo de la UE se encarga de unificar los estándares comunes de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 16",
+      "explicacion": "EASA (Agencia Europea de Seguridad Aérea) tiene la función de unificar los estándares comunes de aeronavegabilidad en la Unión Europea y velar por la protección medioambiental en la aviación civil."
+    },
+    {
+      "texto": "56. ¿Cómo se conoce a la relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 3. VUELO ASOCIADO. Página 85",
+      "explicacion": "Vuelo asociado es la relación que existe entre un vuelo de llegada y un vuelo de salida de un aeropuerto cuando su nexo común es la misma aeronave."
+    },
+    {
+      "texto": "57. ¿De qué ministerio español depende la Dirección General de Aviación Civil (DGAC)?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.2 Organismos Nacionales. Página 15",
+      "explicacion": "La Dirección General de Aviación Civil (DGAC) es el ente público dependiente español del Ministerio de Fomento."
+    },
+    {
+      "texto": "58. ¿Cuáles son algunas de las fuentes de ingresos de AENA S.M.E., S.A. mencionadas en el documento?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.3 AENA S.M.E., S.A.. Página 20",
+      "explicacion": "Sus ingresos provienen de: tarifas, cánones, ingresos derivados de participación en otras sociedades mercantiles, producto de endeudamiento y transferencias públicas."
+    },
+    {
+      "texto": "59. ¿Para qué se utiliza la 'hora de salida del stand' en la operación de salida de un vuelo?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 2.6 Operación de salida. Página 28",
+      "explicacion": "La hora de salida del Stand será utilizada a efectos estadísticos y de cobro de tasas."
+    },
+    {
+      "texto": "60. ¿Qué tipo de aeropuertos requieren una 'coordinación de vuelos de llegada y salida' para permitir conexiones rápidas?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.7 Aeropuertos HUB. Página 23",
+      "explicacion": "En los aeropuertos HUB, los vuelos de llegada deben estar coordinados con los de salida para posibilitar la conexión en un tiempo mínimo."
+    },
+    {
+      "texto": "61. ¿A qué se refiere la frase 'no confiere derechos de propiedad' al hablar de un slot aeroportuario?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.1 Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "La asignación de un slot aeroportuario no representa ningún derecho de propiedad sobre el slot para la compañía a la que le ha sido concedida la autorización."
+    },
+    {
+      "texto": "62. ¿Qué método se prefiere para el envío de solicitudes y respuestas de slots a la Oficina de Coordinación?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 2: SLOTS AEROPORTUARIOS - NORMATIVA. UNIDAD 2: SLOTS AEROPORTUARIOS - NORMATIVA. Apt: 2.4 Procedimiento para la solicitud de SLOT. Página 50",
+      "explicacion": "Las solicitudes dirigidas a la Oficina de Coordinación de Slots Aeroportuarios de AENA S.M.E., S.A. se realizarán preferentemente por la red SITA o correo electrónico."
+    },
+    {
+      "texto": "63. ¿Qué código de acción en los mensajes de solicitud de slot significa 'oferta'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 3.4 Formato SCR (Standar Clearance Request). Página 70",
+      "explicacion": "En el formato SCR, el código de acción 'O' significa 'Oferta de horario'."
+    },
+    {
+      "texto": "64. ¿Con qué código finaliza la secuencia de mensajes de solicitud de slot para indicar su 'rechazo' por parte del Coordinador?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 3: GESTIÓN DE SLOTS AEROPORTUARIOS. UNIDAD 3: GESTIÓN DE SLOTS AEROPORTUARIOS. Apt: 6.1 Consideraciones. Página 72",
+      "explicacion": "La secuencia de los mensajes finaliza cuando el Coordinador rechaza la petición con el código 'U' (Imposible)."
+    },
+    {
+      "texto": "65. ¿En qué se enfoca principalmente el personal de Operaciones según el documento?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 4: TIEMPO REAL. UNIDAD 4: TIEMPO REAL. Apt: 1. INTRODUCCION. Página 83",
+      "explicacion": "Los objetivos del personal de Operaciones se centran en la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas."
+    },
+    {
+      "texto": "66. ¿Qué significa el término 'tráfico aéreo' en el contexto del documento?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 2.1 Tráfico Aéreo. Página 26",
+      "explicacion": "A efectos de las operaciones de aeronaves en los aeropuertos, se entiende por tráfico aéreo: la llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga."
+    },
+    {
+      "texto": "67. ¿Qué tipo de vuelos realiza el 'Tráfico No Regular (Chárter)'?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 2.3 Tráfico No Regular. Página 27",
+      "explicacion": "El tráfico No Regular surge de forma estacional para cubrir necesidades vacacionales, de acontecimientos especiales, etc.."
+    },
+    {
+      "texto": "68. ¿Cuál es la función del Network Manager Operations Center (NMOC), anteriormente CFMU, de EUROCONTROL?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.1 Organismos Internacionales. Página 14",
+      "explicacion": "El NMOC (anteriormente CFMU) ofrece servicios operativos básicos, incluyendo la Gestión de flujo y capacidad del tráfico aéreo."
+    },
+    {
+      "texto": "69. ¿Cuáles son las dos Temporadas en las que GESLOT divide el año para la planificación de vuelos?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 2.1 Introducción. Página 106",
+      "explicacion": "Para el tratamiento de los slots aeroportuarios, el año se divide en dos temporadas: temporada de verano y temporada de invierno."
+    },
+    {
+      "texto": "70. ¿Cuál es una de las funciones de AENA S.M.E., S.A. que abarca desde la ordenación hasta el diseño de infraestructuras?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 1: GESTIÓN AEROPORTUARIA. UNIDAD 1: GESTIÓN AEROPORTUARIA. Apt: 1.3 AENA S.M.E., S.A.. Página 19",
+      "explicacion": "AENA S.M.E., S.A. tiene encomendadas funciones como la ordenación, dirección, explotación, el diseño y elaboración de proyectos de infraestructuras, el desarrollo de servicios de orden y seguridad y la formación."
+    },
+    {
+      "texto": "71. ¿Cuál de las siguientes es una función principal del sistema SCENA?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 5.1 Introducción. Página 114",
+      "explicacion": "SCENA realiza la elaboración de la programación diaria, el control de las operaciones (registro de datos operativos) y el registro de datos administrativos (pasajeros, correo y carga)."
+    },
+    {
+      "texto": "72. ¿Qué sistema mejora la gestión del tráfico aéreo mediante el intercambio de información entre todos los actores aeroportuarios?",
+      "opciones": [],
+      "respuesta": "",
+      "referencia": "MÓDULO 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. UNIDAD 5: HERRAMIENTAS DE GESTIÓN AEROPORTUARIA. Apt: 1.1 Definiciones. Página 105",
+      "explicacion": "CDM (Colaboración de toma de decisiones en aeropuertos) es un sistema destinado a mejorar la gestión del tráfico aéreo a través del intercambio de información suministrado por todos los actores que intervienen en la realización de un vuelo."
+    }
+  ]
+}

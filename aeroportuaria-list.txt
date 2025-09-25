@@ -1,0 +1,72 @@
+1. Pregunta: ¿Cuál es el objetivo principal del documento 'Gestión de Slots y Operaciones Aeroportuarias en España'?. Respuesta: Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos.
+2. Pregunta: ¿En qué año se estableció la OACI (Organización de Aviación Civil Internacional)?. Respuesta: 1947
+3. Pregunta: ¿Cuál de los siguientes organismos tiene su sede en Bruselas y busca el desarrollo de un 'cielo único europeo'?. Respuesta: EUROCONTROL
+4. Pregunta: ¿Qué porcentaje del capital de AENA S.M.E., S.A. posee ENAIRE?. Respuesta: 51%
+5. Pregunta: Según las fuentes, ¿cuál es la posición de AENA S.M.E., S.A. a nivel mundial en cuanto a número de pasajeros?. Respuesta: El primer operador aeroportuario del mundo.
+6. Pregunta: Según la OACI, ¿qué se define como 'áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie'?. Respuesta: Un aeropuerto.
+7. Pregunta: ¿Qué característica define a un 'Aeropuerto coordinado' según el Reglamento (CEE) nº 95/93?. Respuesta: Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar.
+8. Pregunta: ¿Cuál es la principal diferencia entre Tráfico Regular y Tráfico No Regular (Chárter)?. Respuesta: El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas.
+9. Pregunta: ¿Cuál de las siguientes zonas aeroportuarias está orientada a aeronaves y se encarga de asignar puestos de estacionamiento?. Respuesta: Lado Aire.
+10. Pregunta: ¿Qué entidad es descrita como el 'centro neurálgico del aeropuerto', encargada de la coordinación de actividades aeroportuarias y la gestión de slots?. Respuesta: La Oficina de Operaciones.
+11. Pregunta: ¿Cuál de los siguientes no es un criterio para la asignación de medios aeroportuarios según las fuentes?. Respuesta: La antigüedad de la aerolínea.
+12. Pregunta: ¿Qué Reglamento (CEE) define el slot aeroportuario como un permiso para usar la infraestructura aeroportuaria?. Respuesta: Reglamento (CEE) nº 95/93.
+13. Pregunta: ¿Cuál de estos aeropuertos españoles se clasifica como 'Coordinado' según las fuentes?. Respuesta: Madrid-Barajas.
+14. Pregunta: ¿Qué categoría de vuelo está exenta del procedimiento de solicitud de slot?. Respuesta: Vuelos desviados por razones técnicas o meteorológicas.
+15. Pregunta: ¿Cuántas veces al año se declara la capacidad operativa de los aeropuertos?. Respuesta: Dos veces (Temporada de Verano y Temporada de Invierno).
+16. Pregunta: ¿Qué código de acción en los mensajes de solicitud de slot significa 'autorizado'?. Respuesta: K.
+17. Pregunta: ¿Qué sistema es la 'base de datos operacionales del aeropuerto' y permite el control en tiempo real, la facturación y la elaboración de estadísticas?. Respuesta: SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).
+18. Pregunta: ¿Cuál es el propósito principal de SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)?. Respuesta: Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas.
+19. Pregunta: ¿Qué herramienta permite gestionar 'cambios o vuelos nuevos de última hora sobre la programación diaria' en aeropuertos coordinados?. Respuesta: GESLOT TR.
+20. Pregunta: ¿Qué se entiende por 'vuelo asociado'?. Respuesta: La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave.
+21. Pregunta: ¿Cuál de los siguientes es un tipo de 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?. Respuesta: Las tasas por pasajeros.
+22. Pregunta: ¿Qué sistema es utilizado para la gestión de los Slots aeroportuarios y la planificación de vuelos para SCENA?. Respuesta: GESLOT.
+23. Pregunta: ¿Qué sistema proporciona a SCENA datos de planes de vuelo y horas estimadas?. Respuesta: SACTA.
+24. Pregunta: ¿Cuál es la función principal de EASA (Agencia Europea de Seguridad Aérea)?. Respuesta: Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea.
+25. Pregunta: ¿Cuál de las siguientes es una función de AESA (Agencia Estatal de Seguridad Aérea)?. Respuesta: Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas.
+26. Pregunta: ¿Qué herramienta permite la adjudicación centralizada de mostradores y puertas de embarque?. Respuesta: UCA (Uso Compartido de AENA S.M.E., S.A.).
+27. Pregunta: ¿Cuál de los siguientes ejemplos es un 'Precio Privado' facturado por AENA S.M.E., S.A.?. Respuesta: El sistema de energía a 400 Hz.
+28. Pregunta: ¿Qué sistema se describe como una herramienta para enviar y recibir mensajes télex?. Respuesta: SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas).
+29. Pregunta: ¿Qué concepto implica acuerdos entre aerolíneas para explotar conjuntamente una ruta, vendiendo asientos en el mismo vuelo bajo diferentes identificativos?. Respuesta: Vuelo de código compartido (Codeshare).
+30. Pregunta: ¿Qué ley española, junto con la reglamentación comunitaria, prevé sanciones por el incumplimiento de la normativa de slots?. Respuesta: Ley española de Seguridad Aérea 21/2003 (Artículo 49).
+31. Pregunta: ¿Cuál es la sede principal de la OACI (Organización de Aviación Civil Internacional)?. Respuesta: Montreal
+32. Pregunta: ¿En qué año fue fundada EUROCONTROL, la Organización Europea para la Seguridad de la Navegación Aérea?. Respuesta: 1960
+33. Pregunta: ¿Cuántos centros de control de tránsito aéreo y torres gestiona ENAIRE en España, según las fuentes?. Respuesta: 5 centros de control y 22 torres.
+34. Pregunta: ¿Qué organismo nacional español se encarga de analizar incidentes de Tránsito Aéreo manteniendo el anonimato de los implicados?. Respuesta: CEANITA
+35. Pregunta: ¿Además de España, en cuántos aeropuertos en Europa y América participa AENA S.M.E., S.A. en su gestión?. Respuesta: 16 aeropuertos.
+36. Pregunta: ¿Cuál de los siguientes no es un modelo de propiedad y gestión de aeropuertos mencionado en el documento?. Respuesta: Propiedad Cooperativa.
+37. Pregunta: ¿Cuál es el propósito del Network Manager Operations Center (NMOC), anteriormente CFMU, dentro de EUROCONTROL?. Respuesta: Gestionar el flujo y la capacidad del tráfico aéreo europeo.
+38. Pregunta: Según las fuentes, ¿cuál de los siguientes no es un medio aeroportuario suministrado por el gestor del aeropuerto?. Respuesta: Equipos de navegación aérea de la aeronave.
+39. Pregunta: ¿Qué implica que un slot aeroportuario 'no confiere derechos de propiedad'?. Respuesta: El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.
+40. Pregunta: ¿Cuál es una de las restricciones que la Oficina de Coordinación de Slots de AENA considera al conceder o denegar slots?. Respuesta: La capacidad de plataformas.
+41. Pregunta: ¿Cuál de los siguientes aeropuertos españoles se clasifica como 'con horarios facilitados'?. Respuesta: Asturias.
+42. Pregunta: ¿Qué manual debe seguirse para la solicitud de slots a la Oficina de Coordinación?. Respuesta: El Standard Schedules Information Manual (SSIM) de IATA.
+43. Pregunta: ¿Según las fuentes, qué métrica se utiliza para medir la Capacidad de Pistas?. Respuesta: Número de Movimientos en RWY por hora y por slot.
+44. Pregunta: ¿Qué código de acción en los mensajes de solicitud de slot significa 'anular'?. Respuesta: D.
+45. Pregunta: ¿Qué sistema informático es la 'base de datos operacionales del aeropuerto' y permite la elaboración de la programación diaria y el control de operaciones en tiempo real?. Respuesta: SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).
+46. Pregunta: ¿Cuál es la función principal del sistema e-SIA (Sistema de Información Aeroportuaria)?. Respuesta: Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real.
+47. Pregunta: ¿Con qué sistema intercambia información SATE (Sistema Automatizado de Tratamiento de Equipaje) para la asignación de muelles y el manejo de equipaje?. Respuesta: SCENA.
+48. Pregunta: ¿Qué sistema proporciona a SCENA información sobre aeronaves en fase de aproximación?. Respuesta: SINA (Sistema de Información de Navegación Aérea).
+49. Pregunta: ¿Cuál es el propósito del componente GPV dentro de ICARO XXI?. Respuesta: Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT).
+50. Pregunta: ¿Cuál es el objetivo principal de los Aeropuertos HUB?. Respuesta: Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida.
+51. Pregunta: ¿Cuál de las siguientes es una 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?. Respuesta: La tasa por PMR (Personas con Movilidad Reducida).
+52. Pregunta: ¿Qué organismo, aunque gestiona la Tasa de Seguridad Aérea, es AENA S.M.E., S.A. quien la cobra?. Respuesta: AESA.
+53. Pregunta: ¿Qué tipo de facturación gestiona AENA S.M.E., S.A. para el uso de instalaciones y servicios aeroportuarios?. Respuesta: Facturación con crédito y sin crédito.
+54. Pregunta: ¿Cuál de las siguientes responsabilidades pertenece a la Oficina de Operaciones en el aeropuerto?. Respuesta: La canalización de incidencias, contingencias y emergencias.
+55. Pregunta: ¿Qué organismo de la UE se encarga de unificar los estándares comunes de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea?. Respuesta: EASA.
+56. Pregunta: ¿Cómo se conoce a la relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave?. Respuesta: Vuelo asociado.
+57. Pregunta: ¿De qué ministerio español depende la Dirección General de Aviación Civil (DGAC)?. Respuesta: Ministerio de Fomento.
+58. Pregunta: ¿Cuáles son algunas de las fuentes de ingresos de AENA S.M.E., S.A. mencionadas en el documento?. Respuesta: Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas.
+59. Pregunta: ¿Para qué se utiliza la 'hora de salida del stand' en la operación de salida de un vuelo?. Respuesta: Para fines estadísticos y de cobro de tasas.
+60. Pregunta: ¿Qué tipo de aeropuertos requieren una 'coordinación de vuelos de llegada y salida' para permitir conexiones rápidas?. Respuesta: Aeropuertos HUB.
+61. Pregunta: ¿A qué se refiere la frase 'no confiere derechos de propiedad' al hablar de un slot aeroportuario?. Respuesta: El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.
+62. Pregunta: ¿Qué método se prefiere para el envío de solicitudes y respuestas de slots a la Oficina de Coordinación?. Respuesta: Preferentemente por SITA o correo electrónico.
+63. Pregunta: ¿Qué código de acción en los mensajes de solicitud de slot significa 'oferta'?. Respuesta: O.
+64. Pregunta: ¿Con qué código finaliza la secuencia de mensajes de solicitud de slot para indicar su 'rechazo' por parte del Coordinador?. Respuesta: U.
+65. Pregunta: ¿En qué se enfoca principalmente el personal de Operaciones según el documento?. Respuesta: En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas.
+66. Pregunta: ¿Qué significa el término 'tráfico aéreo' en el contexto del documento?. Respuesta: La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga.
+67. Pregunta: ¿Qué tipo de vuelos realiza el 'Tráfico No Regular (Chárter)'?. Respuesta: Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos).
+68. Pregunta: ¿Cuál es la función del Network Manager Operations Center (NMOC), anteriormente CFMU, de EUROCONTROL?. Respuesta: Gestionar el flujo y la capacidad del tráfico aéreo europeo.
+69. Pregunta: ¿Cuáles son las dos Temporadas en las que GESLOT divide el año para la planificación de vuelos?. Respuesta: Temporada de Verano y Temporada de Invierno.
+70. Pregunta: ¿Cuál es una de las funciones de AENA S.M.E., S.A. que abarca desde la ordenación hasta el diseño de infraestructuras?. Respuesta: La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros.
+71. Pregunta: ¿Cuál de las siguientes es una función principal del sistema SCENA?. Respuesta: La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos.
+72. Pregunta: ¿Qué sistema mejora la gestión del tráfico aéreo mediante el intercambio de información entre todos los actores aeroportuarios?. Respuesta: CDM (Colaboración de Toma de Decisiones en Aeropuertos).

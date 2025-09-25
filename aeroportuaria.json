@@ -7,22 +7,42 @@
         "B) Optimizar la asignación de personal en los aeropuertos.",
         "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
       ],
-      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
+      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos.",
+      "referencia": "Página 7",
+      "explicacion": "El objetivo final del curso es conseguir que los asistentes adquieran los conocimientos necesarios para la gestión eficiente de estas actividades."
     },
     {
       "texto": "2. ¿En qué año se estableció la OACI (Organización de Aviación Civil Internacional)?",
-      "opciones": ["A) 1945", "B) 1947", "C) 1960"],
-      "respuesta": "B) 1947"
+      "opciones": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1960"
+      ],
+      "respuesta": "B) 1947",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 11",
+      "explicacion": "OACI fue establecida en 1947 en Montreal como consecuencia de lo estipulado en el Convenio de Aviación Civil Internacional, el cual fue firmado en Chicago en 1944."
     },
     {
       "texto": "3. ¿Cuál de los siguientes organismos tiene su sede en Bruselas y busca el desarrollo de un 'cielo único europeo'?",
-      "opciones": ["A) IATA", "B) EUROCONTROL", "C) OACI"],
-      "respuesta": "B) EUROCONTROL"
+      "opciones": [
+        "A) IATA",
+        "B) EUROCONTROL",
+        "C) OACI"
+      ],
+      "respuesta": "B) EUROCONTROL",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 13",
+      "explicacion": "EUROCONTROL tiene como objetivo el desarrollo de un sistema seguro, eficaz y coordinado del tráfico aéreo europeo: «Un cielo único europeo»."
     },
     {
       "texto": "4. ¿Qué porcentaje del capital de AENA S.M.E., S.A. posee ENAIRE?",
-      "opciones": ["A) 51%", "B) 49%", "C) 100%"],
-      "respuesta": "A) 51%"
+      "opciones": [
+        "A) 51%",
+        "B) 49%",
+        "C) 100%"
+      ],
+      "respuesta": "A) 51%",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.2, Organismos Nacionales. Página 17",
+      "explicacion": "ENAIRE cuenta con el 51% del capital de AENA S.M.E., S.A., gestor de una red de 46 aeropuertos y 2 helipuertos en España."
     },
     {
       "texto": "5. Según las fuentes, ¿cuál es la posición de AENA S.M.E., S.A. a nivel mundial en cuanto a número de pasajeros?",
@@ -31,7 +51,9 @@
         "B) El primer operador aeroportuario de Europa.",
         "C) El primer operador aeroportuario del mundo."
       ],
-      "respuesta": "C) El primer operador aeroportuario del mundo."
+      "respuesta": "C) El primer operador aeroportuario del mundo.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.3, AENA S. Página 18",
+      "explicacion": "Aena es el primer operador aeroportuario del mundo por número de pasajeros."
     },
     {
       "texto": "6. Según la OACI, ¿qué se define como 'áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie'?",
@@ -40,7 +62,9 @@
         "B) Un aeródromo.",
         "C) Un aeropuerto."
       ],
-      "respuesta": "C) Un aeropuerto."
+      "respuesta": "C) Un aeropuerto.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.4, Aeropuerto. Página 21",
+      "explicacion": "Según OACI, los aeropuertos son áreas definidas de tierra o agua donde se realiza la llegada, salida y movimiento de aeronaves en superficie."
     },
     {
       "texto": "7. ¿Qué característica define a un 'Aeropuerto coordinado' según el Reglamento (CEE) nº 95/93?",
@@ -49,7 +73,9 @@
         "B) Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar.",
         "C) Se nombra un facilitador para mejorar las actividades de las compañías."
       ],
-      "respuesta": "B) Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar."
+      "respuesta": "B) Las compañías aéreas deben disponer de una franja horaria (slot) asignada por un coordinador para operar.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.8, Aeropuertos según capacidad. Página 25",
+      "explicacion": "Aeropuerto coordinado es aquel donde, para aterrizar o despegar, las compañías aéreas deberán disponer de una franja horaria, slot aeroportuario, asignada por un coordinador nombrado a tal efecto."
     },
     {
       "texto": "8. ¿Cuál es la principal diferencia entre Tráfico Regular y Tráfico No Regular (Chárter)?",
@@ -58,7 +84,9 @@
         "B) El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas.",
         "C) El Tráfico Regular es gestionado por AENA y el Chárter por compañías privadas."
       ],
-      "respuesta": "B) El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas."
+      "respuesta": "B) El Tráfico Regular es programado y frecuente, operando incluso sin pasaje, mientras que el Chárter surge estacionalmente para necesidades específicas.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 2.4, Características de ambos. Página 27",
+      "explicacion": "El tráfico regular opera todos los días establecidos en el programa aunque no haya pasaje. El tráfico no regular (chárter) opera únicamente los días del flete de los operadores."
     },
     {
       "texto": "9. ¿Cuál de las siguientes zonas aeroportuarias está orientada a aeronaves y se encarga de asignar puestos de estacionamiento?",
@@ -67,7 +95,9 @@
         "B) Terminal de pasajeros.",
         "C) Lado Aire."
       ],
-      "respuesta": "C) Lado Aire."
+      "respuesta": "C) Lado Aire.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 3.1, Zonas de actividad de un aeropuerto. Página 30",
+      "explicacion": "El lado aire tiene como cliente a las aeronaves, y una de sus tareas principales es asignar los puestos de estacionamiento y vigilar el cumplimiento de las normativas de seguridad."
     },
     {
       "texto": "10. ¿Qué entidad es descrita como el 'centro neurálgico del aeropuerto', encargada de la coordinación de actividades aeroportuarias y la gestión de slots?",
@@ -76,7 +106,9 @@
         "B) La Oficina de Operaciones.",
         "C) El Centro de Procesamiento de Carga."
       ],
-      "respuesta": "B) La Oficina de Operaciones."
+      "respuesta": "B) La Oficina de Operaciones.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 3.2, Oficina de Operaciones. Página 30",
+      "explicacion": "El centro neurálgico del aeropuerto es la Oficina de Operaciones. Esta oficina es la encargada de la coordinación de actividades aeroportuarias, de las operaciones y de todo el tratamiento necesario para la preparación, información y seguimiento de todas las operaciones aeronáuticas."
     },
     {
       "texto": "11. ¿Cuál de los siguientes no es un criterio para la asignación de medios aeroportuarios según las fuentes?",
@@ -85,7 +117,9 @@
         "B) El tipo de tráfico del vuelo (nacional, internacional).",
         "C) El tipo de aeronave (tamaño, número de pasajeros)."
       ],
-      "respuesta": "A) La antigüedad de la aerolínea."
+      "respuesta": "A) La antigüedad de la aerolínea.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 5.3, Asignación de medios. Página 38",
+      "explicacion": "Los aspectos de carácter general para la asignación de medios son: Compañía que realiza el vuelo, Tipo de tráfico, Motivo del vuelo y Tipo de aeronave."
     },
     {
       "texto": "12. ¿Qué Reglamento (CEE) define el slot aeroportuario como un permiso para usar la infraestructura aeroportuaria?",
@@ -94,12 +128,20 @@
         "B) Reglamento (CEE) nº 95/93.",
         "C) Reglamento (CEE) nº 1960/1960."
       ],
-      "respuesta": "B) Reglamento (CEE) nº 95/93."
+      "respuesta": "B) Reglamento (CEE) nº 95/93.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.1, Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "Un slot aeroportuario es el permiso dado por un Coordinador de conformidad con el Reglamento (CEE) nº 95/93 modificado para utilizar toda la infraestructura aeroportuaria necesaria con fines de aterrizaje o despegue."
     },
     {
       "texto": "13. ¿Cuál de estos aeropuertos españoles se clasifica como 'Coordinado' según las fuentes?",
-      "opciones": ["A) A Coruña.", "B) Madrid-Barajas.", "C) Sevilla."],
-      "respuesta": "B) Madrid-Barajas."
+      "opciones": [
+        "A) A Coruña.",
+        "B) Madrid-Barajas.",
+        "C) Sevilla."
+      ],
+      "respuesta": "B) Madrid-Barajas.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.3, Clasificación de los aeropuertos españoles. Página 47",
+      "explicacion": "El listado de Aeropuertos Coordinados incluye: 'Adolfo Suárez Madrid-Barajas'."
     },
     {
       "texto": "14. ¿Qué categoría de vuelo está exenta del procedimiento de solicitud de slot?",
@@ -108,7 +150,9 @@
         "B) Vuelos chárter con alta demanda.",
         "C) Vuelos desviados por razones técnicas o meteorológicas."
       ],
-      "respuesta": "C) Vuelos desviados por razones técnicas o meteorológicas."
+      "respuesta": "C) Vuelos desviados por razones técnicas o meteorológicas.",
+      "referencia": "MÓDULO 2. UNIDAD 2. Página 52",
+      "explicacion": "Los vuelos que se desvíen a un aeródromo alternativo por razones técnicas o meteorológicas están exentos del procedimiento de solicitud de slot de operación."
     },
     {
       "texto": "15. ¿Cuántas veces al año se declara la capacidad operativa de los aeropuertos?",
@@ -117,12 +161,20 @@
         "B) Dos veces (Temporada de Verano y Temporada de Invierno).",
         "C) Cuatro veces (una por cada estación)."
       ],
-      "respuesta": "B) Dos veces (Temporada de Verano y Temporada de Invierno)."
+      "respuesta": "B) Dos veces (Temporada de Verano y Temporada de Invierno).",
+      "referencia": "MÓDULO 3. UNIDAD 3. Página 59",
+      "explicacion": "La variación de la capacidad operativa solo es posible hacerla por Temporadas, por lo que se declara dos veces al año: TEMPORADA DE VERANO y TEMPORADA DE INVIERNO."
     },
     {
       "texto": "16. ¿Qué código de acción en los mensajes de solicitud de slot significa 'autorizado'?",
-      "opciones": ["A) N.", "B) C.", "C) K."],
-      "respuesta": "C) K."
+      "opciones": [
+        "A) N.",
+        "B) C.",
+        "C) K."
+      ],
+      "respuesta": "C) K.",
+      "referencia": "MÓDULO 3. UNIDAD 3. Página 80",
+      "explicacion": "El código de acción 'K' es utilizado por los Coordinadores y significa 'autorizado' o 'confirmación'."
     },
     {
       "texto": "17. ¿Qué sistema es la 'base de datos operacionales del aeropuerto' y permite el control en tiempo real, la facturación y la elaboración de estadísticas?",
@@ -131,7 +183,9 @@
         "B) GESLOT TR.",
         "C) SIPA (Sistema de Información al Público)."
       ],
-      "respuesta": "A) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario)."
+      "respuesta": "A) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 5.1, Introducción. Página 114",
+      "explicacion": "SCENA es la base de datos operacionales del aeropuerto, que realiza funciones de control de las operaciones, registro de datos operativos, emisión de facturas y elaboración de estadísticas."
     },
     {
       "texto": "18. ¿Cuál es el propósito principal de SADAMA (Sistema de Ayuda a la Decisión para la Asignación de Medios Aeroportuarios)?",
@@ -140,12 +194,20 @@
         "B) Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas.",
         "C) Difundir información de vuelos a los pasajeros."
       ],
-      "respuesta": "B) Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas."
+      "respuesta": "B) Planificar y asignar los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 4.1, Introducción. Página 110",
+      "explicacion": "SADAMA es un sistema informático que permite la planificación y asignación de los recursos aeroportuarios, optimizando la gestión y la toma de decisiones operativas en un aeropuerto."
     },
     {
       "texto": "19. ¿Qué herramienta permite gestionar 'cambios o vuelos nuevos de última hora sobre la programación diaria' en aeropuertos coordinados?",
-      "opciones": ["A) GESLOT TR.", "B) e-SIA.", "C) UCA."],
-      "respuesta": "A) GESLOT TR."
+      "opciones": [
+        "A) GESLOT TR.",
+        "B) e-SIA.",
+        "C) UCA."
+      ],
+      "respuesta": "A) GESLOT TR.",
+      "referencia": "MÓDULO 5. UNIDAD 5. Página 110",
+      "explicacion": "GESLOT TR es una herramienta utilizada para facilitar la asignación de Slot en los Centros de Operaciones, permitiendo tratar cambios de última hora o la entrada de nuevos vuelos sobre la programación diaria."
     },
     {
       "texto": "20. ¿Qué se entiende por 'vuelo asociado'?",
@@ -154,7 +216,9 @@
         "B) Un vuelo humanitario exento de slot.",
         "C) La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave."
       ],
-      "respuesta": "C) La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave."
+      "respuesta": "C) La relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave.",
+      "referencia": "MÓDULO 4. UNIDAD 4. Página 85",
+      "explicacion": "Vuelo asociado se conoce como la relación que existe entre un vuelo de llegada y un vuelo de salida de un aeropuerto cuyo nexo común es la misma aeronave."
     },
     {
       "texto": "21. ¿Cuál de los siguientes es un tipo de 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
@@ -163,17 +227,31 @@
         "B) La energía a 400 Hz.",
         "C) Las tasas por pasajeros."
       ],
-      "respuesta": "C) Las tasas por pasajeros."
+      "respuesta": "C) Las tasas por pasajeros.",
+      "referencia": "MÓDULO 4. UNIDAD 4. 5.2, Tipos de ingresos. Página 88",
+      "explicacion": "Las Prestaciones Patrimoniales incluyen Aterrizaje y Servicios de Tránsito de Aeródromo, Pasajeros, PMR’s y Seguridad, Estacionamiento de aeronaves, y Utilización de Pasarelas Telescópicas."
     },
     {
       "texto": "22. ¿Qué sistema es utilizado para la gestión de los Slots aeroportuarios y la planificación de vuelos para SCENA?",
-      "opciones": ["A) ICARO XXI.", "B) GESLOT.", "C) SITA."],
-      "respuesta": "B) GESLOT."
+      "opciones": [
+        "A) ICARO XXI.",
+        "B) GESLOT.",
+        "C) SITA."
+      ],
+      "respuesta": "B) GESLOT.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 2.2, Funciones. Página 106",
+      "explicacion": "GESLOT es la base de datos para la gestión de slots aeroportuarios, que facilita la planificación de vuelos para el sistema Scena."
     },
     {
       "texto": "23. ¿Qué sistema proporciona a SCENA datos de planes de vuelo y horas estimadas?",
-      "opciones": ["A) SINA.", "B) SATE.", "C) SACTA."],
-      "respuesta": "C) SACTA."
+      "opciones": [
+        "A) SINA.",
+        "B) SATE.",
+        "C) SACTA."
+      ],
+      "respuesta": "C) SACTA.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "SACTA (Sistema Automatizado de Control de Tránsito Aéreo) dispone de datos de planes de vuelo (FPL) y aeronaves en vuelo, y Scena recibe de SACTA los datos de las horas estimadas de cada vuelo."
     },
     {
       "texto": "24. ¿Cuál es la función principal de EASA (Agencia Europea de Seguridad Aérea)?",
@@ -182,7 +260,9 @@
         "B) Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea.",
         "C) Analizar incidentes de Tránsito Aéreo."
       ],
-      "respuesta": "B) Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea."
+      "respuesta": "B) Unificar estándares de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 16",
+      "explicacion": "La función de EASA es unificar los estándares comunes de aeronavegabilidad en la UE y velar por la protección medioambiental en la aviación civil."
     },
     {
       "texto": "25. ¿Cuál de las siguientes es una función de AESA (Agencia Estatal de Seguridad Aérea)?",
@@ -191,7 +271,9 @@
         "B) Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas.",
         "C) Fomentar el desarrollo económico del transporte aéreo internacional."
       ],
-      "respuesta": "B) Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas."
+      "respuesta": "B) Dar las licencias de vuelo, operaciones, etc. y realizar inspecciones periódicas.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.2, Organismos Nacionales. Página 15",
+      "explicacion": "AESA se encarga de dar las licencias de vuelo, operaciones, comerciales, centros de mantenimiento, etc. y de realizar inspecciones periódicas para asegurar el cumplimiento."
     },
     {
       "texto": "26. ¿Qué herramienta permite la adjudicación centralizada de mostradores y puertas de embarque?",
@@ -200,7 +282,9 @@
         "B) UCA (Uso Compartido de AENA S.M.E., S.A.).",
         "C) SIPA."
       ],
-      "respuesta": "B) UCA (Uso Compartido de AENA S.M.E., S.A.)."
+      "respuesta": "B) UCA (Uso Compartido de AENA S.M.E., S.A.).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "UCA (Uso Compartido de AENA S.M.E., S.A.) es la Aplicación Centralizada para la adjudicación de mostradores y puertas de embarque."
     },
     {
       "texto": "27. ¿Cuál de los siguientes ejemplos es un 'Precio Privado' facturado por AENA S.M.E., S.A.?",
@@ -209,7 +293,9 @@
         "B) Tarifa de aterrizaje.",
         "C) El sistema de energía a 400 Hz."
       ],
-      "respuesta": "C) El sistema de energía a 400 Hz."
+      "respuesta": "C) El sistema de energía a 400 Hz.",
+      "referencia": "MÓDULO 4. UNIDAD 4. 5.2, Tipos de ingresos. Página 88",
+      "explicacion": "Los Precios Privados incluyen el Sistema de energía a 400 Hz y la Presencia del Servicio contra incendios."
     },
     {
       "texto": "28. ¿Qué sistema se describe como una herramienta para enviar y recibir mensajes télex?",
@@ -218,7 +304,9 @@
         "B) SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas).",
         "C) SATE."
       ],
-      "respuesta": "B) SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas)."
+      "respuesta": "B) SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "SITA (Sociedad Internacional de Telecomunicaciones Aeronáuticas) es la herramienta que se utiliza para enviar y recibir mensajes tipo télex."
     },
     {
       "texto": "29. ¿Qué concepto implica acuerdos entre aerolíneas para explotar conjuntamente una ruta, vendiendo asientos en el mismo vuelo bajo diferentes identificativos?",
@@ -227,7 +315,9 @@
         "B) Vuelo de código compartido (Codeshare).",
         "C) Vuelo de tráfico regular."
       ],
-      "respuesta": "B) Vuelo de código compartido (Codeshare)."
+      "respuesta": "B) Vuelo de código compartido (Codeshare).",
+      "referencia": "MÓDULO 4. UNIDAD 4. Página 86",
+      "explicacion": "Un acuerdo de código compartido (codeshare) es un acuerdo suscrito por varias aerolíneas para explotar conjuntamente una determinada ruta, vendiendo asientos en un mismo vuelo con sus identificativos correspondientes."
     },
     {
       "texto": "30. ¿Qué ley española, junto con la reglamentación comunitaria, prevé sanciones por el incumplimiento de la normativa de slots?",
@@ -236,17 +326,31 @@
         "B) Ley española de Seguridad Aérea 21/2003 (Artículo 49).",
         "C) Ley de Aviación Civil 1/1990."
       ],
-      "respuesta": "B) Ley española de Seguridad Aérea 21/2003 (Artículo 49)."
+      "respuesta": "B) Ley española de Seguridad Aérea 21/2003 (Artículo 49).",
+      "referencia": "MÓDULO 2. UNIDAD 2. Página 53",
+      "explicacion": "Las sanciones por incumplimiento de las normas de slots están previstas en la Ley española de Seguridad Aérea 21/2003 (Artículo 49) y la reglamentación comunitaria (Reglamento CEE nº 95/93)."
     },
     {
       "texto": "31. ¿Cuál es la sede principal de la OACI (Organización de Aviación Civil Internacional)?",
-      "opciones": ["A) Ginebra", "B) Bruselas", "C) Montreal"],
-      "respuesta": "C) Montreal"
+      "opciones": [
+        "A) Ginebra",
+        "B) Bruselas",
+        "C) Montreal"
+      ],
+      "respuesta": "C) Montreal",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 11",
+      "explicacion": "La sede de la OACI está en Montreal."
     },
     {
       "texto": "32. ¿En qué año fue fundada EUROCONTROL, la Organización Europea para la Seguridad de la Navegación Aérea?",
-      "opciones": ["A) 1947", "B) 1960", "C) 1945"],
-      "respuesta": "B) 1960"
+      "opciones": [
+        "A) 1947",
+        "B) 1960",
+        "C) 1945"
+      ],
+      "respuesta": "B) 1960",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 13",
+      "explicacion": "EUROCONTROL se fundó en Bruselas en diciembre de 1960."
     },
     {
       "texto": "33. ¿Cuántos centros de control de tránsito aéreo y torres gestiona ENAIRE en España, según las fuentes?",
@@ -255,12 +359,20 @@
         "B) 5 centros de control y 22 torres.",
         "C) 6 centros de control y 25 torres."
       ],
-      "respuesta": "B) 5 centros de control y 22 torres."
+      "respuesta": "B) 5 centros de control y 22 torres.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.2, Organismos Nacionales. Página 16",
+      "explicacion": "ENAIRE gestiona 5 centros de control y 22 torres de control."
     },
     {
       "texto": "34. ¿Qué organismo nacional español se encarga de analizar incidentes de Tránsito Aéreo manteniendo el anonimato de los implicados?",
-      "opciones": ["A) AESA", "B) CEANITA", "C) DGAC"],
-      "respuesta": "B) CEANITA"
+      "opciones": [
+        "A) AESA",
+        "B) CEANITA",
+        "C) DGAC"
+      ],
+      "respuesta": "B) CEANITA",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.2, Organismos Nacionales. Página 17",
+      "explicacion": "CEANITA es la encargada de analizar y estudiar los incidentes de Tránsito Aéreo y mantiene el anonimato del notificante y de todos los implicados."
     },
     {
       "texto": "35. ¿Además de España, en cuántos aeropuertos en Europa y América participa AENA S.M.E., S.A. en su gestión?",
@@ -269,7 +381,9 @@
         "B) 16 aeropuertos.",
         "C) 20 aeropuertos."
       ],
-      "respuesta": "B) 16 aeropuertos."
+      "respuesta": "B) 16 aeropuertos.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.3, AENA S. Página 19",
+      "explicacion": "AENA S.M.E., S.A. participa directa e indirectamente en la gestión de otros 16 aeropuertos en Europa y América."
     },
     {
       "texto": "36. ¿Cuál de los siguientes no es un modelo de propiedad y gestión de aeropuertos mencionado en el documento?",
@@ -278,7 +392,9 @@
         "B) Propiedad Mixta.",
         "C) Propiedad del Gobierno con control directo."
       ],
-      "respuesta": "A) Propiedad Cooperativa."
+      "respuesta": "A) Propiedad Cooperativa.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.6, Propiedad y Gestión de los Aeropuertos. Página 22",
+      "explicacion": "Los modelos de propiedad y gestión son: Propiedad del Gobierno con Control Directo (Pública y Gestión Pública, o Pública y Gestión Privada), Propiedad Mixta y Propiedad Privada Pura."
     },
     {
       "texto": "37. ¿Cuál es el propósito del Network Manager Operations Center (NMOC), anteriormente CFMU, dentro de EUROCONTROL?",
@@ -287,7 +403,9 @@
         "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
         "C) Otorgar licencias de vuelo."
       ],
-      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo."
+      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 14",
+      "explicacion": "El NMOC (anteriormente CFMU) ofrece servicios operativos básicos, incluyendo la Gestión de flujo y capacidad, con el objetivo de mejorar el rendimiento de la Red ATM europea y evitar la congestión."
     },
     {
       "texto": "38. Según las fuentes, ¿cuál de los siguientes no es un medio aeroportuario suministrado por el gestor del aeropuerto?",
@@ -296,7 +414,9 @@
         "B) Mostradores de facturación.",
         "C) Puertas de embarque."
       ],
-      "respuesta": "A) Equipos de navegación aérea de la aeronave."
+      "respuesta": "A) Equipos de navegación aérea de la aeronave.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 5.1, Conocimiento de los medios. Página 35",
+      "explicacion": "Los medios aeroportuarios suministrados incluyen Stands, Mostradores de facturación, Hipódromos, Puertas de embarque, Muelles/Cintas/Salas de recogida de equipajes y Controles oficiales."
     },
     {
       "texto": "39. ¿Qué implica que un slot aeroportuario 'no confiere derechos de propiedad'?",
@@ -305,7 +425,9 @@
         "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
         "C) El slot garantiza un estacionamiento exclusivo para la aeronave."
       ],
-      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella."
+      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.1, Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "La asignación de un slot aeroportuario no representa ningún derecho de propiedad sobre el slot para la compañía a la que le ha sido concedida la autorización."
     },
     {
       "texto": "40. ¿Cuál es una de las restricciones que la Oficina de Coordinación de Slots de AENA considera al conceder o denegar slots?",
@@ -314,7 +436,9 @@
         "B) La capacidad de plataformas.",
         "C) El número de tripulantes de vuelo."
       ],
-      "respuesta": "B) La capacidad de plataformas."
+      "respuesta": "B) La capacidad de plataformas.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.2, Oficina de Coordinación de SLOTS aeroportuarios de AENA S. Página 46",
+      "explicacion": "Para la concesión de Slots se tienen en cuenta restricciones del aeropuerto, tales como: Capacidad de pistas, Capacidad de plataformas y Capacidad de terminales."
     },
     {
       "texto": "41. ¿Cuál de los siguientes aeropuertos españoles se clasifica como 'con horarios facilitados'?",
@@ -323,7 +447,9 @@
         "B) Barcelona/El Prat.",
         "C) Asturias."
       ],
-      "respuesta": "C) Asturias."
+      "respuesta": "C) Asturias.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.3, Clasificación de los aeropuertos españoles. Página 48",
+      "explicacion": "El listado de Aeropuertos con Horarios Facilitados incluye: 'A Coruña, Almería (Temporada de invierno), Asturias, Badajoz, Córdoba...'."
     },
     {
       "texto": "42. ¿Qué manual debe seguirse para la solicitud de slots a la Oficina de Coordinación?",
@@ -332,7 +458,9 @@
         "B) El Standard Schedules Information Manual (SSIM) de IATA.",
         "C) La Guía de Procedimientos de Tránsito Aéreo (GPTA)."
       ],
-      "respuesta": "B) El Standard Schedules Information Manual (SSIM) de IATA."
+      "respuesta": "B) El Standard Schedules Information Manual (SSIM) de IATA.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.4, Procedimiento para la solicitud de SLOT. Página 50",
+      "explicacion": "Las solicitudes de slots u horarios de operación deben formularse obligatoriamente siguiendo las instrucciones especificadas en el Standard Schedules Information Manual (SSIM) de IATA."
     },
     {
       "texto": "43. ¿Según las fuentes, qué métrica se utiliza para medir la Capacidad de Pistas?",
@@ -341,12 +469,20 @@
         "B) Estacionamientos disponibles.",
         "C) Número de Movimientos en RWY por hora y por slot."
       ],
-      "respuesta": "C) Número de Movimientos en RWY por hora y por slot."
+      "respuesta": "C) Número de Movimientos en RWY por hora y por slot.",
+      "referencia": "MÓDULO 3. UNIDAD 3. Página 60",
+      "explicacion": "La Capacidad de Pistas se mide por el Número de Movimientos en RWY por hora y por slot."
     },
     {
       "texto": "44. ¿Qué código de acción en los mensajes de solicitud de slot significa 'anular'?",
-      "opciones": ["A) C.", "B) D.", "C) N."],
-      "respuesta": "B) D."
+      "opciones": [
+        "A) C.",
+        "B) D.",
+        "C) N."
+      ],
+      "respuesta": "B) D.",
+      "referencia": "MÓDULO 3. UNIDAD 3. 3.4, Formato SCR (Standar Clearance Request). Página 70",
+      "explicacion": "El código de acción 'D' en el formato SCR significa 'Anulación de horario'."
     },
     {
       "texto": "45. ¿Qué sistema informático es la 'base de datos operacionales del aeropuerto' y permite la elaboración de la programación diaria y el control de operaciones en tiempo real?",
@@ -355,7 +491,9 @@
         "B) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).",
         "C) SADAMA."
       ],
-      "respuesta": "B) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario)."
+      "respuesta": "B) SCENA (Sistemas Cooperativos para el Entorno Aeroportuario).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 5.1, Introducción. Página 114",
+      "explicacion": "SCENA (Sistemas Cooperativos para el Entorno Aeroportuario) realiza la elaboración de la programación diaria y el control de las operaciones (registro de datos operativos) en tiempo real."
     },
     {
       "texto": "46. ¿Cuál es la función principal del sistema e-SIA (Sistema de Información Aeroportuaria)?",
@@ -364,12 +502,20 @@
         "B) Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real.",
         "C) Proporcionar datos de planes de vuelo y horas estimadas a SCENA."
       ],
-      "respuesta": "B) Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real."
+      "respuesta": "B) Minimizar la comunicación telefónica con el Centro de Operaciones y facilitar la toma de decisiones en tiempo real.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "e-SIA minimiza la comunicación telefónica con el Centro de Operaciones y facilita el acceso a la información entre los distintos operadores aeroportuarios para la toma de decisiones en tiempo real."
     },
     {
       "texto": "47. ¿Con qué sistema intercambia información SATE (Sistema Automatizado de Tratamiento de Equipaje) para la asignación de muelles y el manejo de equipaje?",
-      "opciones": ["A) SACTA.", "B) SIPA.", "C) SCENA."],
-      "respuesta": "C) SCENA."
+      "opciones": [
+        "A) SACTA.",
+        "B) SIPA.",
+        "C) SCENA."
+      ],
+      "respuesta": "C) SCENA.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "SATE intercambia información con la base de datos operacional del aeropuerto (Scena), de donde recibe la programación de vuelos para realizar la asignación de muelles."
     },
     {
       "texto": "48. ¿Qué sistema proporciona a SCENA información sobre aeronaves en fase de aproximación?",
@@ -378,7 +524,9 @@
         "B) SITA.",
         "C) ICARO XXI."
       ],
-      "respuesta": "A) SINA (Sistema de Información de Navegación Aérea)."
+      "respuesta": "A) SINA (Sistema de Información de Navegación Aérea).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "SINA (Sistema de Información de Navegación Aérea) proporciona información de las aeronaves que se encuentran en la fase de aproximación a un aeropuerto."
     },
     {
       "texto": "49. ¿Cuál es el propósito del componente GPV dentro de ICARO XXI?",
@@ -387,7 +535,9 @@
         "B) Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT).",
         "C) Proporcionar datos de planes de vuelo en tiempo real."
       ],
-      "respuesta": "B) Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT)."
+      "respuesta": "B) Crear, modificar y distribuir Planes de Vuelo (FPL) y ATFM (SLOT).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 6.2, Componente funcional GPV. Página 116",
+      "explicacion": "El componente funcional GPV (Gestión de Plan de Vuelo) permite la creación, modificación, validación, distribución y recepción de mensajes de Plan de Vuelo presentados (FPL) y mensajes asociados, así como de ATFM (SLOT)."
     },
     {
       "texto": "50. ¿Cuál es el objetivo principal de los Aeropuertos HUB?",
@@ -396,7 +546,9 @@
         "B) Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida.",
         "C) Reducir el tiempo de permanencia de las aeronaves en plataforma."
       ],
-      "respuesta": "B) Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida."
+      "respuesta": "B) Maximizar las posibilidades de viaje y minimizar los recursos mediante la coordinación de vuelos de llegada y salida.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.7, Aeropuertos HUB. Página 23",
+      "explicacion": "Los aeropuertos hub permiten maximizar las posibilidades de viaje al mismo tiempo que se minimizan los recursos, absorbiendo el tráfico de otros aeropuertos para servir como centro de conexiones."
     },
     {
       "texto": "51. ¿Cuál de las siguientes es una 'Prestación Patrimonial' facturada por AENA S.M.E., S.A.?",
@@ -405,12 +557,20 @@
         "B) La tasa por PMR (Personas con Movilidad Reducida).",
         "C) El sistema de energía a 400 Hz."
       ],
-      "respuesta": "B) La tasa por PMR (Personas con Movilidad Reducida)."
+      "respuesta": "B) La tasa por PMR (Personas con Movilidad Reducida).",
+      "referencia": "MÓDULO 4. UNIDAD 4. 6.2, Pasajeros, PMR´s y Seguridad. Página 91",
+      "explicacion": "La prestación patrimonial de PMR se aplica por los servicios que permiten la movilidad general de los pasajeros y la asistencia necesaria a las personas con movilidad reducida (PMRs)."
     },
     {
       "texto": "52. ¿Qué organismo, aunque gestiona la Tasa de Seguridad Aérea, es AENA S.M.E., S.A. quien la cobra?",
-      "opciones": ["A) ENAIRE.", "B) AESA.", "C) EUROCONTROL."],
-      "respuesta": "B) AESA."
+      "opciones": [
+        "A) ENAIRE.",
+        "B) AESA.",
+        "C) EUROCONTROL."
+      ],
+      "respuesta": "B) AESA.",
+      "referencia": "MÓDULO 4. UNIDAD 4. 8.1, Tasa de Seguridad Aérea. Página 95",
+      "explicacion": "La Tasa de Seguridad Aérea no forma parte de las prestaciones patrimoniales de AENA S.M.E., S.A., sino que la realiza la Agencia Estatal de Seguridad Aérea (AESA), aunque AENA S.M.E., S.A. colabora en su gestión y cobro."
     },
     {
       "texto": "53. ¿Qué tipo de facturación gestiona AENA S.M.E., S.A. para el uso de instalaciones y servicios aeroportuarios?",
@@ -419,7 +579,9 @@
         "B) Facturación con crédito y sin crédito.",
         "C) Facturación por peso y por volumen."
       ],
-      "respuesta": "B) Facturación con crédito y sin crédito."
+      "respuesta": "B) Facturación con crédito y sin crédito.",
+      "referencia": "MÓDULO 4. UNIDAD 4. Página 83",
+      "explicacion": "Existen dos tipos de facturación: Facturación con Crédito y Facturación sin Crédito."
     },
     {
       "texto": "54. ¿Cuál de las siguientes responsabilidades pertenece a la Oficina de Operaciones en el aeropuerto?",
@@ -428,12 +590,20 @@
         "B) Venta de billetes de avión a los pasajeros.",
         "C) La canalización de incidencias, contingencias y emergencias."
       ],
-      "respuesta": "C) La canalización de incidencias, contingencias y emergencias."
+      "respuesta": "C) La canalización de incidencias, contingencias y emergencias.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 3.2, Oficina de Operaciones. Página 31",
+      "explicacion": "Entre las Operaciones de coordinación aeroportuaria, la Oficina de Operaciones se encarga de la canalización de incidencias, el tratamiento de contingencias y el tratamiento de emergencias."
     },
     {
       "texto": "55. ¿Qué organismo de la UE se encarga de unificar los estándares comunes de aeronavegabilidad y velar por la protección medioambiental en la aviación civil europea?",
-      "opciones": ["A) IATA.", "B) EASA.", "C) OACI."],
-      "respuesta": "B) EASA."
+      "opciones": [
+        "A) IATA.",
+        "B) EASA.",
+        "C) OACI."
+      ],
+      "respuesta": "B) EASA.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 16",
+      "explicacion": "EASA (Agencia Europea de Seguridad Aérea) tiene la función de unificar los estándares comunes de aeronavegabilidad en la Unión Europea y velar por la protección medioambiental en la aviación civil."
     },
     {
       "texto": "56. ¿Cómo se conoce a la relación entre un vuelo de llegada y uno de salida que utilizan la misma aeronave?",
@@ -442,7 +612,9 @@
         "B) Vuelo de código compartido.",
         "C) Vuelo asociado."
       ],
-      "respuesta": "C) Vuelo asociado."
+      "respuesta": "C) Vuelo asociado.",
+      "referencia": "MÓDULO 4. UNIDAD 4. Página 85",
+      "explicacion": "Vuelo asociado es la relación que existe entre un vuelo de llegada y un vuelo de salida de un aeropuerto cuando su nexo común es la misma aeronave."
     },
     {
       "texto": "57. ¿De qué ministerio español depende la Dirección General de Aviación Civil (DGAC)?",
@@ -451,7 +623,9 @@
         "B) Ministerio de Interior.",
         "C) Ministerio de Fomento."
       ],
-      "respuesta": "C) Ministerio de Fomento."
+      "respuesta": "C) Ministerio de Fomento.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.2, Organismos Nacionales. Página 15",
+      "explicacion": "La Dirección General de Aviación Civil (DGAC) es el ente público dependiente español del Ministerio de Fomento."
     },
     {
       "texto": "58. ¿Cuáles son algunas de las fuentes de ingresos de AENA S.M.E., S.A. mencionadas en el documento?",
@@ -460,7 +634,9 @@
         "B) Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas.",
         "C) Solo beneficios de vuelos comerciales."
       ],
-      "respuesta": "B) Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas."
+      "respuesta": "B) Tarifas, cánones, participación en sociedades, endeudamiento y transferencias públicas.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.3, AENA S. Página 20",
+      "explicacion": "Sus ingresos provienen de: tarifas, cánones, ingresos derivados de participación en otras sociedades mercantiles, producto de endeudamiento y transferencias públicas."
     },
     {
       "texto": "59. ¿Para qué se utiliza la 'hora de salida del stand' en la operación de salida de un vuelo?",
@@ -469,7 +645,9 @@
         "B) Para fines estadísticos y de cobro de tasas.",
         "C) Para asignar la tripulación al siguiente vuelo."
       ],
-      "respuesta": "B) Para fines estadísticos y de cobro de tasas."
+      "respuesta": "B) Para fines estadísticos y de cobro de tasas.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 2.6, Operación de salida. Página 28",
+      "explicacion": "La hora de salida del Stand será utilizada a efectos estadísticos y de cobro de tasas."
     },
     {
       "texto": "60. ¿Qué tipo de aeropuertos requieren una 'coordinación de vuelos de llegada y salida' para permitir conexiones rápidas?",
@@ -478,7 +656,9 @@
         "B) Aeropuertos coordinados.",
         "C) Aeropuertos HUB."
       ],
-      "respuesta": "C) Aeropuertos HUB."
+      "respuesta": "C) Aeropuertos HUB.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.7, Aeropuertos HUB. Página 23",
+      "explicacion": "En los aeropuertos HUB, los vuelos de llegada deben estar coordinados con los de salida para posibilitar la conexión en un tiempo mínimo."
     },
     {
       "texto": "61. ¿A qué se refiere la frase 'no confiere derechos de propiedad' al hablar de un slot aeroportuario?",
@@ -487,7 +667,9 @@
         "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
         "C) La aerolínea no tiene derecho a reclamar compensación por un slot cancelado."
       ],
-      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella."
+      "respuesta": "B) El permiso de uso de la infraestructura no establece un derecho de posesión permanente o transferible sobre ella.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.1, Definición de SLOT Aeroportuario. Página 45",
+      "explicacion": "La asignación de un slot aeroportuario no representa ningún derecho de propiedad sobre el slot para la compañía a la que le ha sido concedida la autorización."
     },
     {
       "texto": "62. ¿Qué método se prefiere para el envío de solicitudes y respuestas de slots a la Oficina de Coordinación?",
@@ -496,17 +678,31 @@
         "B) Mensajería postal certificada.",
         "C) Preferentemente por SITA o correo electrónico."
       ],
-      "respuesta": "C) Preferentemente por SITA o correo electrónico."
+      "respuesta": "C) Preferentemente por SITA o correo electrónico.",
+      "referencia": "MÓDULO 2. UNIDAD 2. 2.4, Procedimiento para la solicitud de SLOT. Página 50",
+      "explicacion": "Las solicitudes dirigidas a la Oficina de Coordinación de Slots Aeroportuarios de AENA S.M.E., S.A. se realizarán preferentemente por la red SITA o correo electrónico."
     },
     {
       "texto": "63. ¿Qué código de acción en los mensajes de solicitud de slot significa 'oferta'?",
-      "opciones": ["A) N.", "B) O.", "C) C."],
-      "respuesta": "B) O."
+      "opciones": [
+        "A) N.",
+        "B) O.",
+        "C) C."
+      ],
+      "respuesta": "B) O.",
+      "referencia": "MÓDULO 3. UNIDAD 3. 3.4, Formato SCR (Standar Clearance Request). Página 70",
+      "explicacion": "En el formato SCR, el código de acción 'O' significa 'Oferta de horario'."
     },
     {
       "texto": "64. ¿Con qué código finaliza la secuencia de mensajes de solicitud de slot para indicar su 'rechazo' por parte del Coordinador?",
-      "opciones": ["A) R.", "B) U.", "C) X."],
-      "respuesta": "B) U."
+      "opciones": [
+        "A) R.",
+        "B) U.",
+        "C) X."
+      ],
+      "respuesta": "B) U.",
+      "referencia": "MÓDULO 3. UNIDAD 3. 6.1, Consideraciones. Página 72",
+      "explicacion": "La secuencia de los mensajes finaliza cuando el Coordinador rechaza la petición con el código 'U' (Imposible)."
     },
     {
       "texto": "65. ¿En qué se enfoca principalmente el personal de Operaciones según el documento?",
@@ -515,7 +711,9 @@
         "B) En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas.",
         "C) En el mantenimiento de las aeronaves."
       ],
-      "respuesta": "B) En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas."
+      "respuesta": "B) En la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas.",
+      "referencia": "MÓDULO 4. UNIDAD 4. Página 83",
+      "explicacion": "Los objetivos del personal de Operaciones se centran en la gestión, control de calidad y optimización de las Operaciones Aeroportuarias y Aeronáuticas."
     },
     {
       "texto": "66. ¿Qué significa el término 'tráfico aéreo' en el contexto del documento?",
@@ -524,7 +722,9 @@
         "B) La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga.",
         "C) El número total de vuelos diarios de una compañía aérea."
       ],
-      "respuesta": "B) La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga."
+      "respuesta": "B) La llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 2.1, Tráfico Aéreo. Página 26",
+      "explicacion": "A efectos de las operaciones de aeronaves en los aeropuertos, se entiende por tráfico aéreo: la llegada, aparcamiento y atraque y salida de un vuelo que transporta pasajeros, correo y carga."
     },
     {
       "texto": "67. ¿Qué tipo de vuelos realiza el 'Tráfico No Regular (Chárter)'?",
@@ -533,7 +733,9 @@
         "B) Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos).",
         "C) Vuelos de carga exclusivos que operan solo de noche."
       ],
-      "respuesta": "B) Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos)."
+      "respuesta": "B) Vuelos que surgen estacionalmente para cubrir necesidades específicas (vacacionales, eventos).",
+      "referencia": "MÓDULO 1. UNIDAD 1. 2.3, Tráfico No Regular. Página 27",
+      "explicacion": "El tráfico No Regular surge de forma estacional para cubrir necesidades vacacionales, de acontecimientos especiales, etc.."
     },
     {
       "texto": "68. ¿Cuál es la función del Network Manager Operations Center (NMOC), anteriormente CFMU, de EUROCONTROL?",
@@ -542,7 +744,9 @@
         "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
         "C) Realizar inspecciones de seguridad en aeropuertos."
       ],
-      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo."
+      "respuesta": "B) Gestionar el flujo y la capacidad del tráfico aéreo europeo.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.1, Organismos Internacionales. Página 14",
+      "explicacion": "El NMOC (anteriormente CFMU) ofrece servicios operativos básicos, incluyendo la Gestión de flujo y capacidad del tráfico aéreo."
     },
     {
       "texto": "69. ¿Cuáles son las dos Temporadas en las que GESLOT divide el año para la planificación de vuelos?",
@@ -551,7 +755,9 @@
         "B) Temporada de Verano y Temporada de Invierno.",
         "C) Temporada Nacional y Temporada Internacional."
       ],
-      "respuesta": "B) Temporada de Verano y Temporada de Invierno."
+      "respuesta": "B) Temporada de Verano y Temporada de Invierno.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 2.1, Introducción. Página 106",
+      "explicacion": "Para el tratamiento de los slots aeroportuarios, el año se divide en dos temporadas: temporada de verano y temporada de invierno."
     },
     {
       "texto": "70. ¿Cuál es una de las funciones de AENA S.M.E., S.A. que abarca desde la ordenación hasta el diseño de infraestructuras?",
@@ -560,7 +766,9 @@
         "B) La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros.",
         "C) Únicamente la gestión de aeropuertos españoles."
       ],
-      "respuesta": "B) La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros."
+      "respuesta": "B) La ordenación, explotación, diseño de infraestructuras, seguridad, formación y participación en aeropuertos extranjeros.",
+      "referencia": "MÓDULO 1. UNIDAD 1. 1.3, AENA S. Página 19",
+      "explicacion": "AENA S.M.E., S.A. tiene encomendadas funciones como la ordenación, dirección, explotación, el diseño y elaboración de proyectos de infraestructuras, el desarrollo de servicios de orden y seguridad y la formación."
     },
     {
       "texto": "71. ¿Cuál de las siguientes es una función principal del sistema SCENA?",
@@ -569,7 +777,9 @@
         "B) La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos.",
         "C) La gestión de cambios de última hora en los slots."
       ],
-      "respuesta": "B) La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos."
+      "respuesta": "B) La elaboración de la programación diaria, el control de operaciones en tiempo real y el registro de datos administrativos.",
+      "referencia": "MÓDULO 5. UNIDAD 5. 5.1, Introducción. Página 114",
+      "explicacion": "SCENA realiza la elaboración de la programación diaria, el control de las operaciones (registro de datos operativos) y el registro de datos administrativos (pasajeros, correo y carga)."
     },
     {
       "texto": "72. ¿Qué sistema mejora la gestión del tráfico aéreo mediante el intercambio de información entre todos los actores aeroportuarios?",
@@ -578,836 +788,9 @@
         "B) CDM (Colaboración de Toma de Decisiones en Aeropuertos).",
         "C) SATE."
       ],
-      "respuesta": "B) CDM (Colaboración de Toma de Decisiones en Aeropuertos)."
-    },
-
-    {
-      "texto": "73. ¿Cuál es el objetivo principal del documento 'Gestión de Slots y Operaciones Aeroportuarias en España'?",
-      "opciones": [
-        "A) Evaluar el rendimiento financiero de AENA S.M.E., S.A.",
-        "B) Optimizar la asignación de personal en los aeropuertos.",
-        "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
-      ],
-      "respuesta": "C) Garantizar un sistema de transporte aéreo eficaz, seguro y económico, minimizando la congestión y los retrasos."
-    },
-    {
-      "texto": "74. ¿Cuál es la función principal del Servicio de Información Aeronáutica (AIS)?",
-      "opciones": [
-        "A) Proporcionar exclusivamente servicios de control de tránsito aéreo.",
-        "B) Recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, eficacia y regularidad de las operaciones y la navegación aérea.",
-        "C) Administrar las licencias del personal aeronáutico."
-      ],
-      "respuesta": "B) Recopilar, seleccionar, verificar, tratar, publicar y distribuir toda la información aeronáutica necesaria para garantizar la seguridad, eficacia y regularidad de las operaciones y la navegación aérea."
-    },
-    {
-      "texto": "75. ¿Qué Anexo de la OACI es fundamental para el marco normativo de las operaciones del AIS en España?",
-      "opciones": [
-        "A) Anexo 1 de la OACI (Licencias al Personal).",
-        "B) Anexo 15 de la OACI (Servicios de Información Aeronáutica).",
-        "C) Anexo 10 de la OACI (Telecomunicaciones Aeronáuticas)."
-      ],
-      "respuesta": "B) Anexo 15 de la OACI (Servicios de Información Aeronáutica)."
-    },
-    {
-      "texto": "76. ¿Quién es el último responsable de la información aeronáutica publicada en un Estado, incluso si delega la prestación de servicios?",
-      "opciones": [
-        "A) El proveedor de servicios de navegación aérea (ej. ENAIRE).",
-        "B) El Estado.",
-        "C) La Oficina NOTAM Internacional (NOF)."
-      ],
-      "respuesta": "B) El Estado."
-    },
-    {
-      "texto": "77. ¿Cuál de las siguientes es una responsabilidad de la Oficina NOTAM Internacional (NOF) en España?",
-      "opciones": [
-        "A) Suministrar Boletines de Información Previa al Vuelo (PIB) a los usuarios directamente.",
-        "B) Recopilar información originada en los aeropuertos para su publicación por la División AIS.",
-        "C) Confeccionar y distribuir NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24."
-      ],
-      "respuesta": "C) Confeccionar y distribuir NOTAM, Listas de Verificación de NOTAM y Sumarios, operando H24."
-    },
-    {
-      "texto": "78. ¿Qué tipo de información aeronáutica se publica en el AIP y se actualiza con Enmiendas AIP (AMDT)?",
-      "opciones": [
-        "A) Información temporal de corta duración (hasta 3 meses).",
-        "B) Información permanente, no sujeta a cambios frecuentes.",
-        "C) Situaciones inesperadas o urgentes (ej. fallos por causas meteorológicas)."
-      ],
-      "respuesta": "B) Información permanente, no sujeta a cambios frecuentes."
-    },
-    {
-      "texto": "79. Si una modificación temporal tiene una duración de 3 meses o más, o es muy extensa/gráfica, ¿qué tipo de publicación se utiliza para difundirla?",
-      "opciones": [
-        "A) Un NOTAM.",
-        "B) Una Circular de Información Aeronáutica (AIC).",
-        "C) Un Suplemento AIP (SUP)."
-      ],
-      "respuesta": "C) Un Suplemento AIP (SUP)."
-    },
-    {
-      "texto": "80. ¿Qué sistema se utiliza para la difusión de información premeditada y de importancia operacional que requiere publicación con antelación, como los cambios de procedimientos de aproximación?",
-      "opciones": [
-        "A) El sistema AIRAC.",
-        "B) Los Boletines de Información Previa al Vuelo (PIB).",
-        "C) Las Listas de Verificación de NOTAM."
-      ],
-      "respuesta": "A) El sistema AIRAC."
-    },
-    {
-      "texto": "81. ¿Cuál es el sistema de referencia común para las coordenadas horizontales en la documentación aeronáutica, exigido por la OACI?",
-      "opciones": [
-        "A) MSL (Nivel Medio del Mar).",
-        "B) UTC (Tiempo Universal Coordinado).",
-        "C) WGS-84 (World Geodetic System 1984)."
-      ],
-      "respuesta": "C) WGS-84 (World Geodetic System 1984)."
-    },
-    {
-      "texto": "82. Para garantizar la calidad y trazabilidad de los datos aeronáuticos, la OACI exige a los Estados un Sistema de Gestión de la Calidad. ¿Qué norma se recomienda para este sistema?",
-      "opciones": [
-        "A) ISO 14000 (Gestión Ambiental).",
-        "B) OHSAS 18001 (Salud y Seguridad Ocupacional).",
-        "C) ISO 9000 (Gestión de Calidad)."
-      ],
-      "respuesta": "C) ISO 9000 (Gestión de Calidad)."
-    },
-    {
-      "texto": "83. ¿Cuál es el nivel de integridad requerido para los DATOS CRÍTICOS en la gestión de la información aeronáutica?",
-      "opciones": ["A) 1 x 10^-3.", "B) 1 x 10^-5.", "C) 1 x 10^-8."],
-      "respuesta": "C) 1 x 10^-8."
-    },
-    {
-      "texto": "84. ¿En qué parte del AIP se encuentra la información administrativa y explicativa?",
-      "opciones": [
-        "A) En Ruta (ENR).",
-        "B) Generalidades (GEN).",
-        "C) Aeródromos (AD)."
-      ],
-      "respuesta": "B) Generalidades (GEN)."
-    },
-    {
-      "texto": "85. Las Enmiendas Regulares (AMDT) que contienen cambios menores o editoriales en la información permanente, ¿con qué color de portada se publican?",
-      "opciones": ["A) Verde.", "B) Azul.", "C) Amarillo."],
-      "respuesta": "B) Azul."
-    },
-    {
-      "texto": "86. Los Suplementos AIP (SUP) de tipo AIRAC, que se publican y entran en vigor según el sistema AIRAC, tienen una edición íntegra de color:",
-      "opciones": ["A) Amarillo.", "B) Rosa.", "C) Verde."],
-      "respuesta": "B) Rosa."
-    },
-    {
-      "texto": "87. ¿Entre qué fechas se debe evitar el ciclo AIRAC para la publicación de información aeronáutica?",
-      "opciones": [
-        "A) Entre el 1 de junio y el 30 de junio.",
-        "B) Entre el 21 de diciembre y el 17 de enero.",
-        "C) Entre el 15 de agosto y el 15 de septiembre."
-      ],
-      "respuesta": "B) Entre el 21 de diciembre y el 17 de enero."
-    },
-    {
-      "texto": "88. ¿Cuál es el propósito de un 'Trigger NOTAM'?",
-      "opciones": [
-        "A) Difundir información urgente e impredecible de corta duración.",
-        "B) Activar el sistema de alerta para actividades volcánicas.",
-        "C) Recordar a pilotos y operadores sobre cambios importantes (AIRAC) publicados en AMDT o SUP."
-      ],
-      "respuesta": "C) Recordar a pilotos y operadores sobre cambios importantes (AIRAC) publicados en AMDT o SUP."
-    },
-    {
-      "texto": "89. ¿Cuál es la duración máxima para la difusión de información por NOTAM en situaciones urgentes e impredecibles?",
-      "opciones": [
-        "A) Más de 3 meses.",
-        "B) Menos de 3 meses.",
-        "C) Indefinida, hasta su incorporación al AIP."
-      ],
-      "respuesta": "B) Menos de 3 meses."
-    },
-    {
-      "texto": "90. ¿A través de qué red se transmite un NOTAM?",
-      "opciones": [
-        "A) Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN).",
-        "B) Red Global de Telecomunicaciones Aeronáuticas (ATN).",
-        "C) Red de Servicios de Información Aeronáutica (AISN)."
-      ],
-      "respuesta": "A) Red de Telecomunicaciones del Servicio Fijo Aeronáutico (AFTN)."
-    },
-    {
-      "texto": "91. ¿Qué tipo de NOTAM se utiliza para reemplazar una modificación parcial de un NOTAM anterior?",
-      "opciones": [
-        "A) NOTAMN (Nuevo NOTAM).",
-        "B) NOTAMC (NOTAM de Cancelación).",
-        "C) NOTAMR (NOTAM de Reemplazo)."
-      ],
-      "respuesta": "C) NOTAMR (NOTAM de Reemplazo)."
-    },
-    {
-      "texto": "92. ¿Cuál es la validez máxima de un ASHTAM, el aviso especial para información sobre actividad volcánica?",
-      "opciones": ["A) 8 horas.", "B) 72 horas.", "C) 24 horas."],
-      "respuesta": "C) 24 horas."
-    },
-    {
-      "texto": "93. En cuanto a los ASHTAM, ¿cuál es la regla para su actualización y cancelación?",
-      "opciones": [
-        "A) Se reemplazan por NOTAMR y se cancelan por NOTAMC.",
-        "B) Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente.",
-        "C) Se integran en el AIP o SUP si la actividad es de larga duración."
-      ],
-      "respuesta": "B) Uno nuevo anula el anterior; no se reemplazan ni cancelan explícitamente."
-    },
-    {
-      "texto": "94. ¿Qué tipo de información NO incluye un Boletín de Información Previa al Vuelo (PIB)?",
-      "opciones": [
-        "A) NOTAM en vigor.",
-        "B) Información relevante para las necesidades operacionales.",
-        "C) Información de AIP o SUP."
-      ],
-      "respuesta": "C) Información de AIP o SUP."
-    },
-    {
-      "texto": "95. ¿Qué tipo de información se recopila después del vuelo en relación con las instalaciones de navegación aérea?",
-      "opciones": [
-        "A) Observaciones sobre el estado y funcionamiento de las instalaciones, realizadas por las tripulaciones.",
-        "B) Datos sobre el consumo de combustible y la autonomía restante.",
-        "C) Información sobre los procedimientos de aproximación y salida utilizados."
-      ],
-      "respuesta": "A) Observaciones sobre el estado y funcionamiento de las instalaciones, realizadas por las tripulaciones."
-    },
-    {
-      "texto": "96. En el proceso de notificación al AIS, ¿quién comunica la información impredecible y temporal (NOTAM) a la AIO del aeropuerto?",
-      "opciones": [
-        "A) El Jefe de Torre de Control.",
-        "B) El responsable autorizado.",
-        "C) El Director del aeropuerto."
-      ],
-      "respuesta": "B) El responsable autorizado."
-    },
-    {
-      "texto": "97. Para la información predecible de larga duración (AMDT, SUP, AIC), ¿a quién debe comunicarse por escrito el Director del aeropuerto o responsable?",
-      "opciones": [
-        "A) A la Oficina NOTAM Internacional (NOF).",
-        "B) A la AIO del aeropuerto.",
-        "C) A la División AIS (Servicios Centrales)."
-      ],
-      "respuesta": "C) A la División AIS (Servicios Centrales)."
-    },
-    {
-      "texto": "98. ¿Cuál es la base normativa principal de las reglas de circulación aérea en España?",
-      "opciones": [
-        "A) Las normas internas de ENAIRE y AENA.",
-        "B) Exclusivamente el Reglamento de Circulación Aérea de España (R.D. 73/1992).",
-        "C) Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014."
-      ],
-      "respuesta": "C) Los Anexos 2 y 11 de la OACI, el Reglamento de Ejecución (UE) 923/2012 (SERA) y el R.D. 552/2014."
-    },
-    {
-      "texto": "99. ¿Qué tipo de aeronaves vuelan de acuerdo con el Reglamento de la Circulación Aérea Operativa (RCAO)?",
-      "opciones": [
-        "A) Circulación Aérea General (CAG).",
-        "B) Circulación Aérea Operativa (CAO).",
-        "C) Aeronaves comerciales de gran tamaño."
-      ],
-      "respuesta": "B) Circulación Aérea Operativa (CAO)."
-    },
-    {
-      "texto": "100. ¿A qué aeronaves extranjeras se aplica el Reglamento de Circulación Aérea en España?",
-      "opciones": [
-        "A) Solo a aeronaves extranjeras que operen vuelos militares.",
-        "B) Únicamente a aeronaves extranjeras con destino a aeropuertos españoles controlados.",
-        "C) A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España."
-      ],
-      "respuesta": "C) A aeronaves extranjeras en Circulación Aérea General (CAG) en espacio aéreo de soberanía o asignado a España."
-    },
-    {
-      "texto": "101. ¿Cuándo está permitido el vaciado de combustible de una aeronave?",
-      "opciones": [
-        "A) En cualquier momento si se notifica al control de tránsito aéreo.",
-        "B) Para reducir el peso de aterrizaje en aproximaciones estándar.",
-        "C) Solo en caso de emergencia."
-      ],
-      "respuesta": "C) Solo en caso de emergencia."
-    },
-    {
-      "texto": "102. ¿Qué se requiere para un vuelo en formación?",
-      "opciones": [
-        "A) Exclusivamente para aeronaves militares y sin restricciones de comunicación.",
-        "B) Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo.",
-        "C) Únicamente la coordinación entre los pilotos participantes."
-      ],
-      "respuesta": "B) Autorización de los Servicios de Tránsito Aéreo (ATS) y especificación en el plan de vuelo."
-    },
-    {
-      "texto": "103. ¿Qué estándar de tiempo se utiliza en las operaciones aeronáuticas?",
-      "opciones": [
-        "A) Hora Local (LT).",
-        "B) Tiempo Universal Coordinado (UTC).",
-        "C) Hora Media de Greenwich (GMT)."
-      ],
-      "respuesta": "B) Tiempo Universal Coordinado (UTC)."
-    },
-    {
-      "texto": "104. ¿Quién determina las clases de espacio aéreo, áreas y rutas ATS, y aeródromos con ATS en España?",
-      "opciones": [
-        "A) El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea.",
-        "B) Los proveedores de servicios de tránsito aéreo de forma independiente.",
-        "C) Exclusivamente la Agencia Estatal de Seguridad Aérea (AESA)."
-      ],
-      "respuesta": "A) El Ministro de Fomento o por resolución del Director de la Agencia Estatal de Seguridad Aérea."
-    },
-    {
-      "texto": "105. En una situación de emergencia, ¿qué código de transpondedor SSR debe seleccionar el piloto?",
-      "opciones": ["A) 7500.", "B) 7600.", "C) 7700."],
-      "respuesta": "C) 7700."
-    },
-    {
-      "texto": "106. ¿Qué documento se requiere para las operaciones especiales (militares, SAR, etc.) y detalla sus características y exenciones al RCA?",
-      "opciones": [
-        "A) Un plan de vuelo suplementario.",
-        "B) Una 'Carta Operacional'.",
-        "C) Un NOTAM de serie especial."
-      ],
-      "respuesta": "B) Una 'Carta Operacional'."
-    },
-    {
-      "texto": "107. Para un vuelo VFR, ¿cuál es la condición mínima de techo de nubes para despegue/aterrizaje en aeródromos controlados o no?",
-      "opciones": [
-        "A) No inferior a 180 metros (600 ft).",
-        "B) No inferior a 450 metros (1500 ft).",
-        "C) Libre de nubes en todo momento."
-      ],
-      "respuesta": "B) No inferior a 450 metros (1500 ft)."
-    },
-    {
-      "texto": "108. Los vuelos VFR tienen límites de altitud. En las FIR/UIR de Madrid, Barcelona y Canarias, ¿no deben volar por encima de qué nivel de vuelo?",
-      "opciones": ["A) FL290.", "B) FL195.", "C) FL460."],
-      "respuesta": "B) FL195."
-    },
-    {
-      "texto": "109. Para un Vuelo Visual Especial (VFR Especial), ¿cuál es la visibilidad en vuelo mínima requerida (excepto helicópteros)?",
-      "opciones": [
-        "A) No inferior a 800m.",
-        "B) No inferior a 5 km.",
-        "C) No inferior a 1500m."
-      ],
-      "respuesta": "C) No inferior a 1500m."
-    },
-    {
-      "texto": "110. Para un vuelo IFR, ¿cuál es la altitud mínima de vuelo sobre el obstáculo más alto en terreno elevado/montañoso dentro de un radio de 8 km?",
-      "opciones": [
-        "A) 300m (1000ft).",
-        "B) 450m (1500ft).",
-        "C) 600m (2000ft)."
-      ],
-      "respuesta": "C) 600m (2000ft)."
-    },
-    {
-      "texto": "111. ¿Cuáles son las Regiones de Información de Vuelo (FIR/UIR) de España mencionadas en los documentos?",
-      "opciones": [
-        "A) Madrid, Sevilla y Bilbao.",
-        "B) Canarias, Baleares y Galicia.",
-        "C) Madrid, Barcelona y Canarias."
-      ],
-      "respuesta": "C) Madrid, Barcelona y Canarias."
-    },
-    {
-      "texto": "112. En el espacio aéreo no controlado, ¿qué servicios se proporcionan?",
-      "opciones": [
-        "A) Servicio de información de vuelo, asesoramiento y alerta.",
-        "B) Exclusivamente servicio de información meteorológica.",
-        "C) Servicio de control de tránsito aéreo completo."
-      ],
-      "respuesta": "A) Servicio de información de vuelo, asesoramiento y alerta."
-    },
-    {
-      "texto": "113. ¿Qué es una Zona de Control (CTR)?",
-      "opciones": [
-        "A) Un área que se extiende desde una altura especificada sobre el terreno y agrupa aeródromos.",
-        "B) Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR.",
-        "C) Una ruta específica para canalizar el tráfico con servicio de control."
-      ],
-      "respuesta": "B) Un volumen de espacio aéreo que se extiende desde la superficie hasta un límite superior especificado, cubriendo trayectorias de vuelos IFR."
-    },
-    {
-      "texto": "114. Según la clasificación del espacio aéreo de la OACI (Anexo 11), ¿cuáles de las siguientes clases corresponden a espacio aéreo controlado?",
-      "opciones": [
-        "A) Clases F, G.",
-        "B) Todas las clases de la A a la G.",
-        "C) Clases A, B, C, D, E."
-      ],
-      "respuesta": "C) Clases A, B, C, D, E."
-    },
-    {
-      "texto": "115. Uno de los objetivos principales de los Servicios de Tránsito Aéreo (ATS) es:",
-      "opciones": [
-        "A) Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves.",
-        "B) Controlar las tarifas de los vuelos comerciales.",
-        "C) Maximizar los ingresos por servicios de navegación aérea."
-      ],
-      "respuesta": "A) Prevenir colisiones y dar fluidez y ordenar el movimiento de las aeronaves."
-    },
-    {
-      "texto": "116. ¿Cuál es una función del Servicio de Control de Aeródromo?",
-      "opciones": [
-        "A) Controlar vuelos controlados que no están en fase de aproximación ni aeródromo.",
-        "B) Proveer guía vectorial para aproximaciones finales ILS, visuales o radar.",
-        "C) Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías."
-      ],
-      "respuesta": "C) Controlar la fase del vuelo en el aeródromo, incluyendo la supervisión de trayectoria en aproximación final y cercanías."
-    },
-    {
-      "texto": "117. El Servicio de Información de Vuelo (FIS) asesora y facilita información útil para vuelos seguros y eficaces. ¿Exime esto al piloto de sus responsabilidades?",
-      "opciones": [
-        "A) Sí, durante el vuelo el piloto puede delegar la responsabilidad en el FIS.",
-        "B) No, no exime al piloto de sus responsabilidades.",
-        "C) Solo en condiciones meteorológicas de vuelo por instrumentos (IMC)."
-      ],
-      "respuesta": "B) No, no exime al piloto de sus responsabilidades."
-    },
-    {
-      "texto": "118. ¿Qué se establece en la Fase de Incertidumbre (INCERFA) de una emergencia?",
-      "opciones": [
-        "A) Un peligro grave e inminente para la aeronave.",
-        "B) Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos.",
-        "C) Temor por la seguridad de una aeronave tras una fase de incertidumbre sin noticias."
-      ],
-      "respuesta": "B) Duda sobre la seguridad de una aeronave, por ejemplo, si no se recibe comunicación en 30 minutos."
-    },
-    {
-      "texto": "119. ¿Cuándo se declara una Fase de Peligro (DETRESFA)?",
-      "opciones": [
-        "A) Cuando se duda sobre la seguridad de una aeronave.",
-        "B) Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable o efectuado.",
-        "C) Cuando se siente temor por la seguridad de la aeronave tras una fase de incertidumbre."
-      ],
-      "respuesta": "B) Cuando hay un peligro grave e inminente para la aeronave, como agotamiento de combustible o aterrizaje forzoso probable o efectuado."
-    },
-    {
-      "texto": "120. ¿Cuál es una de las funciones de las Oficinas de Notificación de los Servicios de Tránsito Aéreo (ARO)?",
-      "opciones": [
-        "A) Proporcionar exclusivamente el servicio de control de tránsito aéreo en las FIR/UIR.",
-        "B) Gestionar el mantenimiento de las instalaciones de navegación aérea.",
-        "C) Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta."
-      ],
-      "respuesta": "C) Tratamiento de los Planes de Vuelo y mensajes asociados, así como prestar servicio de información y alerta."
-    },
-    {
-      "texto": "121. ¿Se requiere la presentación de un plan de vuelo para vuelos a través de fronteras internacionales?",
-      "opciones": [
-        "A) Sí, salvo que los Estados dispongan lo contrario.",
-        "B) No, solo se requiere para vuelos dentro del mismo espacio aéreo nacional.",
-        "C) Solo si el vuelo es operado bajo reglas de vuelo por instrumentos (IFR)."
-      ],
-      "respuesta": "A) Sí, salvo que los Estados dispongan lo contrario."
-    },
-    {
-      "texto": "122. ¿Cuál es el plazo mínimo de presentación de un plan de vuelo para vuelos internacionales o con servicio de control/asesoramiento?",
-      "opciones": [
-        "A) Al menos 60 minutos antes de la EOBT (Hora estimada de fuera calzos).",
-        "B) Al menos 30 minutos antes de la EOBT.",
-        "C) Sin un plazo fijo, siempre que se presente antes del despegue."
-      ],
-      "respuesta": "A) Al menos 60 minutos antes de la EOBT (Hora estimada de fuera calzos)."
-    },
-    {
-      "texto": "123. Si un plan de vuelo se presenta durante el vuelo (AFIL), ¿cuánto tiempo antes de la entrada en un área controlada/asesoramiento debe hacerse?",
-      "opciones": [
-        "A) Al menos 30 minutos.",
-        "B) Al menos 10 minutos.",
-        "C) Inmediatamente al entrar en dicha área."
-      ],
-      "respuesta": "B) Al menos 10 minutos."
-    },
-    {
-      "texto": "124. ¿Qué cambio en un plan de vuelo requiere la cancelación del plan original y la presentación de uno nuevo (CNL)?",
-      "opciones": [
-        "A) Un retraso de la EOBT (hora estimada de fuera calzos).",
-        "B) Un cambio en la identificación de la aeronave (casilla 7).",
-        "C) Un cambio en el tipo de aeronave (casilla 9)."
-      ],
-      "respuesta": "B) Un cambio en la identificación de la aeronave (casilla 7)."
-    },
-    {
-      "texto": "125. Un cambio en la ruta (casilla 15) de un plan de vuelo se gestiona mediante:",
-      "opciones": [
-        "A) La cancelación del plan de vuelo original (CNL).",
-        "B) La presentación de un nuevo plan de vuelo completo.",
-        "C) Un mensaje de modificación (CHG)."
-      ],
-      "respuesta": "C) Un mensaje de modificación (CHG)."
-    },
-    {
-      "texto": "126. ¿Cuántos caracteres alfanuméricos como máximo puede tener la identificación de la aeronave en la casilla 7 del plan de vuelo?",
-      "opciones": ["A) 10.", "B) 7.", "C) 4."],
-      "respuesta": "B) 7."
-    },
-    {
-      "texto": "127. ¿Qué significa la letra 'Y' en la casilla 8 (Reglas de vuelo) del plan de vuelo?",
-      "opciones": [
-        "A) Vuelo VFR a IFR (el cambio se indica en la casilla 15).",
-        "B) Vuelo IFR a VFR (el cambio se indica en la casilla 15).",
-        "C) Vuelo IFR exclusivamente."
-      ],
-      "respuesta": "B) Vuelo IFR a VFR (el cambio se indica en la casilla 15)."
-    },
-    {
-      "texto": "128. ¿Qué categoría de estela turbulenta corresponde a una aeronave con un peso de despegue de 136000kg o más?",
-      "opciones": ["A) M (Media).", "B) H (Pesada).", "C) J (Super Pesada)."],
-      "respuesta": "B) H (Pesada)."
-    },
-    {
-      "texto": "129. En la casilla 10a (Equipo de radiocomunicaciones, ayudas a la navegación y aproximación), ¿qué significa la letra 'S'?",
-      "opciones": [
-        "A) Capacidad de Navegación Basada en la Performance (PBN).",
-        "B) No lleva o no funciona el equipo de radio y navegación.",
-        "C) Equipo normalizado (VHF RTF, VOR, ILS)."
-      ],
-      "respuesta": "C) Equipo normalizado (VHF RTF, VOR, ILS)."
-    },
-    {
-      "texto": "130. ¿Qué letra en la casilla 10a del plan de vuelo indica que la aeronave está equipada para operar en espacio aéreo RVSM?",
-      "opciones": ["A) R.", "B) G.", "C) W."],
-      "respuesta": "C) W."
-    },
-    {
-      "texto": "131. Si un plan de vuelo es un plan en vuelo (AFIL), ¿qué se indica en la casilla 13 (Aeródromo de salida)?",
-      "opciones": [
-        "A) ZZZZ, y el nombre del aeródromo de salida en la casilla 18 (DEP/).",
-        "B) El identificador OACI del aeródromo de origen, si es conocido.",
-        "C) AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/)."
-      ],
-      "respuesta": "C) AFIL, y la ubicación ATS de los datos suplementarios en la casilla 18 (DEP/)."
-    },
-    {
-      "texto": "132. En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar la velocidad de crucero en número Mach?",
-      "opciones": ["A) N.", "B) M.", "C) K."],
-      "respuesta": "B) M."
-    },
-    {
-      "texto": "133. En la casilla 15 (Ruta) del plan de vuelo, ¿qué prefijo se utiliza para indicar el nivel de crucero como altitud en pies?",
-      "opciones": ["A) S.", "B) A.", "C) F."],
-      "respuesta": "B) A."
-    },
-    {
-      "texto": "134. ¿Cuántos aeródromos de alternativa de destino como máximo pueden indicarse en la casilla 16 del plan de vuelo?",
-      "opciones": ["A) 1.", "B) 2.", "C) 3."],
-      "respuesta": "B) 2."
-    },
-    {
-      "texto": "135. ¿Qué indicador de la casilla 18 (Otros datos) del plan de vuelo se utiliza para la 'Fecha de salida'?",
-      "opciones": ["A) DAT/.", "B) DEP/.", "C) DOF/."],
-      "respuesta": "C) DOF/."
-    },
-    {
-      "texto": "136. ¿Qué indicador de la casilla 18 (Otros datos) se utiliza para especificar un tratamiento especial ATS como 'Vuelo de Estado'?",
-      "opciones": ["A) PER/STATE.", "B) RMK/STATE.", "C) STS/STATE."],
-      "respuesta": "C) STS/STATE."
-    },
-    {
-      "texto": "137. En la casilla 19 (Información suplementaria) del plan de vuelo, ¿qué letra se utiliza para indicar la autonomía de combustible?",
-      "opciones": ["A) F/.", "B) C/.", "C) E/."],
-      "respuesta": "C) E/."
-    },
-    {
-      "texto": "138. Si en la casilla 19 se tacha la 'P' del equipo de supervivencia (S/P), ¿qué indica?",
-      "opciones": [
-        "A) Que no se lleva equipo de supervivencia polar.",
-        "B) Que se lleva equipo de supervivencia para desierto.",
-        "C) Que se lleva equipo de supervivencia marítimo."
-      ],
-      "respuesta": "A) Que no se lleva equipo de supervivencia polar."
-    },
-    {
-      "texto": "139. Para vuelos IFR sin SLOT, ¿cuántos minutos de demora justifican el envío de un Mensaje de Demora (DLA)?",
-      "opciones": [
-        "A) Más de 30 minutos.",
-        "B) Más de 60 minutos.",
-        "C) Más de 15 minutos."
-      ],
-      "respuesta": "C) Más de 15 minutos."
-    },
-    {
-      "texto": "140. ¿Cuándo se envía un Mensaje de Llegada (ARR) para un vuelo IFR?",
-      "opciones": [
-        "A) Solo si el aeródromo de destino no tiene servicio de control.",
-        "B) A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino.",
-        "C) Siempre que aterrice un vuelo IFR."
-      ],
-      "respuesta": "B) A solicitud del operador o dependencia ATS, o al aterrizar en aeródromo distinto al de destino."
-    },
-    {
-      "texto": "141. ¿Qué tipo de planes de vuelo gestiona Eurocontrol a través de su IFPS en la IFPS Zone (IFPZ)?",
-      "opciones": [
-        "A) Todos los planes de vuelo VFR y IFR.",
-        "B) Solo planes de vuelo militares.",
-        "C) Planes de vuelo IFR/GAT (y vuelos Y/Z)."
-      ],
-      "respuesta": "C) Planes de vuelo IFR/GAT (y vuelos Y/Z)."
-    },
-    {
-      "texto": "142. ¿Con cuánta antelación mínima deben enviarse los planes de vuelo al IFPS antes de la EOBT?",
-      "opciones": [
-        "A) Al menos 1 hora.",
-        "B) Al menos 60 minutos.",
-        "C) Al menos 3 horas."
-      ],
-      "respuesta": "C) Al menos 3 horas."
-    },
-    {
-      "texto": "143. ¿Qué significa un Mensaje Operacional de Respuesta (ORM) 'REJ' enviado por el IFPS?",
-      "opciones": [
-        "A) Procesado manualmente debido a errores detectados.",
-        "B) Aceptación, el mensaje cumple con la normativa.",
-        "C) Rechazo, el mensaje no ha sido procesado."
-      ],
-      "respuesta": "C) Rechazo, el mensaje no ha sido procesado."
-    },
-    {
-      "texto": "144. ¿Qué tipo de vuelos militares procesa el IFPS?",
-      "opciones": [
-        "A) Solo vuelos militares OAT.",
-        "B) Todos los vuelos militares (IFR/GAT y OAT).",
-        "C) Vuelos militares IFR/GAT."
-      ],
-      "respuesta": "C) Vuelos militares IFR/GAT."
-    },
-    {
-      "texto": "145. ¿Cuál es uno de los objetivos de la Gestión del Tráfico Aéreo y de la Capacidad (ATFCM)?",
-      "opciones": [
-        "A) Contribuir a un flujo de tráfico aéreo más seguro, ordenado y rápido, asegurando la máxima utilización de la capacidad ATC.",
-        "B) Regular los precios de los billetes de avión para optimizar la demanda.",
-        "C) Gestionar exclusivamente los aspectos financieros de los proveedores de servicios de navegación aérea."
-      ],
-      "respuesta": "A) Contribuir a un flujo de tráfico aéreo más seguro, ordenado y rápido, asegurando la máxima utilización de la capacidad ATC."
-    },
-    {
-      "texto": "146. ¿Cuál es uno de los resultados de la Fase Estratégica de la gestión ATFM?",
-      "opciones": [
-        "A) La asignación de slots en tiempo real.",
-        "B) El ATFCM Daily Plan (ADP).",
-        "C) El plan de capacidad anual y el Route Allocation Plan."
-      ],
-      "respuesta": "C) El plan de capacidad anual y el Route Allocation Plan."
-    },
-    {
-      "texto": "147. ¿Qué célula es responsable de la gestión diaria y la asignación temporal de espacio aéreo en la Fase Pre-Táctica de ATFM?",
-      "opciones": [
-        "A) El Centro Coordinador de Salvamento (RCC).",
-        "B) La Oficina NOTAM Internacional (NOF).",
-        "C) La Célula de Gestión de Espacio Aéreo (AMC)."
-      ],
-      "respuesta": "C) La Célula de Gestión de Espacio Aéreo (AMC)."
-    },
-    {
-      "texto": "148. ¿Cuál es el objetivo principal del Uso Flexible del Espacio Aéreo (FUA)?",
-      "opciones": [
-        "A) Segregar permanentemente el espacio aéreo civil del militar.",
-        "B) Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar.",
-        "C) Asignar rutas fijas e inmutables para todos los tipos de tráfico."
-      ],
-      "respuesta": "B) Incrementar la capacidad y mejorar la eficiencia/flexibilidad, permitiendo el uso compartido del espacio aéreo civil/militar."
-    },
-    {
-      "texto": "149. ¿Cuál es la diferencia principal entre un Espacio Aéreo Temporalmente Reservado (TRA) y un Espacio Aéreo Temporalmente Segregado (TSA)?",
-      "opciones": [
-        "A) El TRA es de uso exclusivo militar, mientras que el TSA es de uso exclusivo civil.",
-        "B) El TRA se planifica en la fase estratégica, mientras que el TSA se gestiona en la fase táctica.",
-        "C) El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC."
-      ],
-      "respuesta": "C) El TRA puede permitir tráfico bajo autorización ATC, mientras que el TSA no permite otro tráfico bajo autorización ATC."
-    },
-    {
-      "texto": "150. Las Rutas Condicionales (CDR) de Nivel 3 (Fase Táctica) ¿cómo se pueden usar?",
-      "opciones": [
-        "A) Se pueden planificar permanentemente en el plan de vuelo y están disponibles la mayor parte del tiempo.",
-        "B) Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo.",
-        "C) Se pueden incluir en el plan de vuelo según condiciones publicadas diariamente."
-      ],
-      "respuesta": "B) Solo bajo autorización ATC y coordinación civil-militar, no se pueden planificar en el plan de vuelo."
-    },
-    {
-      "texto": "151. ¿Qué es el Documento Disponibilidad de Rutas (RAD)?",
-      "opciones": [
-        "A) Un mensaje de re-enrutamiento obligatorio emitido por el Network Manager.",
-        "B) Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos.",
-        "C) Una lista de todas las rutas condicionales (CDR) disponibles en la IFPZ."
-      ],
-      "respuesta": "B) Un documento que combina rutas de AIP, regulaciones Flow y enrutamientos planificados por ATFM para mejorar la capacidad ATC y la flexibilidad de planificación de vuelos."
-    },
-    {
-      "texto": "152. Cuando se activa una regulación en el sistema de asignación de slots, ¿qué tiempo se calcula y se envía a los operadores de aeronave y a la Torre de Control?",
-      "opciones": [
-        "A) El EET (Estimated Elapsed Time).",
-        "B) El CTOT (Calculated Take-Off Time).",
-        "C) El EOBT (Estimated Off-Block Time)."
-      ],
-      "respuesta": "B) El CTOT (Calculated Take-Off Time)."
-    },
-    {
-      "texto": "153. ¿Cuál es la ventana de tolerancia que tiene el ATC para el cumplimiento de un slot de salida?",
-      "opciones": [
-        "A) –10/+5 minutos.",
-        "B) –0/+15 minutos.",
-        "C) –5/+10 minutos."
-      ],
-      "respuesta": "C) –5/+10 minutos."
-    },
-    {
-      "texto": "154. ¿Qué parámetro aeroportuario es crucial en la asignación de Slot y puede ser modificado por el NM a petición de la FMP?",
-      "opciones": [
-        "A) Tiempo para salir de la secuencia (TRS).",
-        "B) Taxitime (Tiempo de Rodaje).",
-        "C) Tiempo para ser introducido en la secuencia (TIS)."
-      ],
-      "respuesta": "B) Taxitime (Tiempo de Rodaje)."
-    },
-    {
-      "texto": "155. ¿Cuál de los siguientes no es una causa común de recepción tardía de mensajes de slot?",
-      "opciones": [
-        "A) La creación o modificación de una regulación de tránsito aéreo.",
-        "B) La activación manual del sistema de asignación de slots (CASA).",
-        "C) La presentación tardía del plan de vuelo."
-      ],
-      "respuesta": "B) La activación manual del sistema de asignación de slots (CASA)."
-    },
-    {
-      "texto": "156. ¿Qué sucede con un vuelo bajo Flight Activation Monitoring (FAM) si no despega a la hora estimada y no se comunica el despegue tras un período definido (ej. 30 minutos)?",
-      "opciones": [
-        "A) El sistema automáticamente le asigna un nuevo CTOT más tardío.",
-        "B) El vuelo se suspende (FLS).",
-        "C) El ATC le otorga una extensión automática del slot."
-      ],
-      "respuesta": "B) El vuelo se suspende (FLS)."
-    },
-    {
-      "texto": "157. En situaciones de baja visibilidad, ¿qué tipo de medidas ATFCM se aplican para gestionar la capacidad?",
-      "opciones": [
-        "A) Un cierre completo del aeródromo hasta que mejoren las condiciones.",
-        "B) Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas.",
-        "C) Aumento de las tasas de afluencia para compensar los retrasos."
-      ],
-      "respuesta": "B) Medidas ATFCM selectivas, considerando la demanda, tipos de tráfico y previsiones meteorológicas."
-    },
-    {
-      "texto": "158. Ante el cierre de un aeródromo o espacio aéreo, ¿qué puede hacer el Network Manager (NM)?",
-      "opciones": [
-        "A) Cerrar inmediatamente todos los planes de vuelo relacionados con la zona afectada sin posibilidad de modificación.",
-        "B) Autorizar vuelos a operar sin restricciones en el espacio aéreo adyacente.",
-        "C) Aceptar planes de vuelo y regularlos, suspender vuelos o retrasar operaciones hasta la reapertura."
-      ],
-      "respuesta": "C) Aceptar planes de vuelo y regularlos, suspender vuelos o retrasar operaciones hasta la reapertura."
-    },
-    {
-      "texto": "159. Si un operador de aeronave (AO) no puede cumplir un CTOT, ¿qué debe enviar para obtener un CTOT revisado?",
-      "opciones": [
-        "A) Un CHG (Mensaje de Modificación) con la nueva ruta.",
-        "B) Una solicitud de Slot Allocation List (SAL).",
-        "C) Un DLA (Mensaje de Demora) con la nueva EOBT."
-      ],
-      "respuesta": "C) Un DLA (Mensaje de Demora) con la nueva EOBT."
-    },
-    {
-      "texto": "160. Si un AO puede cumplir el CTOT pero no la EOBT original, ¿cuál es la norma que debe respetar la nueva EOBT?",
-      "opciones": [
-        "A) Debe ser igual al CTOT asignado.",
-        "B) Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'.",
-        "C) Puede ser un máximo de 15 minutos posterior al CTOT."
-      ],
-      "respuesta": "B) Debe ser como máximo 'CTOT, menos el taxitime, menos 10 minutos'."
-    },
-    {
-      "texto": "161. ¿Cuál es el propósito de los mensajes ADEXP (ATS Data Exchange Presentation)?",
-      "opciones": [
-        "A) Establecer comunicación directa entre pilotos en vuelo y los servicios meteorológicos.",
-        "B) Difundir boletines de información previa al vuelo a nivel internacional.",
-        "C) Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos."
-      ],
-      "respuesta": "C) Permitir el intercambio de información entre AO, ATC y NM para notificar, corregir, cancelar slots ATFM y negociar re-encaminamientos."
-    },
-    {
-      "texto": "162. ¿Qué documento sirve de base para la información contenida en 'Operaciones Aeronáuticas y Gestión del Tráfico Aéreo'?",
-      "opciones": [
-        "A) Los procedimientos operativos estándar de Eurocontrol.",
-        "B) El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'.",
-        "C) La normativa interna de la Agencia Estatal de Seguridad Aérea (AESA)."
-      ],
-      "respuesta": "B) El 'T1041245 CURSO BÁSICO DE OPERACIONES AERONÁUTICAS'."
-    },
-    {
-      "texto": "163. ¿Qué parte del AIP contiene información sobre aeropuertos y helipuertos?",
-      "opciones": [
-        "A) Generalidades (GEN).",
-        "B) En Ruta (ENR).",
-        "C) Aeródromos (AD)."
-      ],
-      "respuesta": "C) Aeródromos (AD)."
-    },
-    {
-      "texto": "164. ¿Qué tipo de publicación AIRAC se utiliza para información predecible de carácter permanente e importancia operacional, con portada verde?",
-      "opciones": [
-        "A) Enmienda Regular (AMDT).",
-        "B) Suplemento AIRAC (SUP).",
-        "C) Enmienda AIRAC (AMDT AIRAC)."
-      ],
-      "respuesta": "C) Enmienda AIRAC (AMDT AIRAC)."
-    },
-    {
-      "texto": "165. ¿Qué significa la línea de calificadores (Apartado Q) en un NOTAM?",
-      "opciones": [
-        "A) Descripción detallada de la incidencia en lenguaje natural.",
-        "B) Información para el tratamiento automático en bases de datos.",
-        "C) Identificación del aeródromo de destino y la hora de finalización."
-      ],
-      "respuesta": "B) Información para el tratamiento automático en bases de datos."
-    },
-    {
-      "texto": "166. ¿Cuál es el código de colores para el nivel de alerta más alto en un ASHTAM?",
-      "opciones": ["A) NARANJA.", "B) ROJO.", "C) AMARILLO."],
-      "respuesta": "B) ROJO."
-    },
-    {
-      "texto": "167. Las Circulares de Información Aeronáutica (AIC) se utilizan para difundir:",
-      "opciones": [
-        "A) Modificaciones temporales de larga duración.",
-        "B) Información urgente e impredecible de corta duración.",
-        "C) Información explicativa o de asesoramiento sobre seguridad en vuelo o navegación aérea."
-      ],
-      "respuesta": "C) Información explicativa o de asesoramiento sobre seguridad en vuelo o navegación aérea."
-    },
-    {
-      "texto": "168. Para un vuelo VFR Especial, ¿cuál es la velocidad máxima indicada (IAS) permitida (excepto helicópteros)?",
-      "opciones": [
-        "A) 250kt.",
-        "B) 140kt o inferior.",
-        "C) Sin límite específico."
-      ],
-      "respuesta": "B) 140kt o inferior."
-    },
-    {
-      "texto": "169. ¿Qué se indica en la casilla 10b (Equipo y capacidades de vigilancia) del plan de vuelo para un transpondedor Modo S con capacidad de identificación de aeronave?",
-      "opciones": ["A) E.", "B) L.", "C) H."],
-      "respuesta": "C) H."
-    },
-    {
-      "texto": "170. En la casilla 18 (Otros datos), ¿qué indicador se utiliza para especificar la capacidad de aterrizaje bajo RVR, usado por ETFMS para gestionar la afluencia en baja visibilidad?",
-      "opciones": ["A) RFP/.", "B) RVR/.", "C) STS/."],
-      "respuesta": "B) RVR/."
-    },
-    {
-      "texto": "171. El NMOC (Network Manager Operations Centre) de Eurocontrol, a través del IFPS, gestiona los planes de vuelo:",
-      "opciones": [
-        "A) Solo VFR.",
-        "B) IFR/GAT y vuelos Y/Z en la IFPS Zone (IFPZ).",
-        "C) Todos los vuelos militares OAT."
-      ],
-      "respuesta": "B) IFR/GAT y vuelos Y/Z en la IFPS Zone (IFPZ)."
-    },
-    {
-      "texto": "172. ¿Qué significa la sigla 'SAL' en el contexto de la asignación de slots por CASA?",
-      "opciones": [
-        "A) Sistema Automático de Localización de Aeronaves.",
-        "B) Secuencia de Aterrizaje Limitada.",
-        "C) Slot Allocation List (Lista de asignación de slots)."
-      ],
-      "respuesta": "C) Slot Allocation List (Lista de asignación de slots)."
+      "respuesta": "B) CDM (Colaboración de Toma de Decisiones en Aeropuertos).",
+      "referencia": "MÓDULO 5. UNIDAD 5. 1.1, Definiciones. Página 105",
+      "explicacion": "CDM (Colaboración de toma de decisiones en aeropuertos) es un sistema destinado a mejorar la gestión del tráfico aéreo a través del intercambio de información suministrado por todos los actores que intervienen en la realización de un vuelo."
     }
   ]
 }
